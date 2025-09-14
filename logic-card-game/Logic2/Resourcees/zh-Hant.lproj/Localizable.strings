@@ -1,0 +1,232 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "游戏按钮标题";
+"UserAgreement" = "用户协议";
+"Store" = "商店";
+"Revards" = "奖励";
+"Levels" = "关卡";
+"Cards.Rulls" = "你需要通过翻转卡片找到相同的卡对；游戏的目标是找到所有的配对！";
+"Consider.Rulls" = "你需要找出与其他不同的元素！";
+"Cards.Time" = "时间：";
+"Cards.Errors" = "错误：";
+"Cards.Revil" = "打开卡片3秒钟以获取";
+"Cards.Coins" = "一枚硬币";
+"Cards.Skip" = "观看广告视频跳过此关卡";
+"Levelcomplited.Title" = "关卡完成";
+"Next" = "下一个";
+"AI" = "人工智能";
+"Info" = "信息";
+"Cancel" = "取消";
+"ScoreView.errors" = "错误：";
+"ScoreView.Time" = "时间：";
+"ScoreView.Great" = "太棒了！";
+"ScoreView.NotBad" = "不错！";
+"StoryLineScreenView.question1" = "你如何理解同理心在人工智能与他人沟通中的重要性？\n（请选择你的回答）";
+"StoryLineScreenView.answer11" = "同理心在沟通中扮演着关键角色，因为它帮助理解和尊重他人的感受和观点。这有助于建立更深的信任关系，有效地解决冲突并找到共同的解决方案。同理心有助于创造一个支持和相互理解的环境，从而促进更成功的互动与合作。";
+"StoryLineScreenView.answer12" = "同理心在沟通中是重要的，因为它使你能更好地理解他人的感受。然而，如果你过于关注他人的感受，可能会偏离自己的利益和目标。因此，在表现同理心和维护自己的观点与界限之间找到平衡非常重要。";
+"StoryLineScreenView.question2" = "同理心如何帮助解决团队内的冲突？\n（请选择你的回答）";
+"StoryLineScreenView.answer21" = "同理心有助于解决冲突，因为它使我们理解所有相关方的感受和观点。这种理解促进了对冲突原因的更深入分析，并寻求兼顾各方利益的解决方案。通过同理心，可以创造一个相互理解和尊重的氛围，使冲突解决的过程更具建设性和高效性。";
+"StoryLineScreenView.answer22" = "虽然同理心很重要，但有时对冲突参与者情感的过度关注可能会减缓解决过程。找到理解情感与专注于实际解决方案之间的平衡是至关重要的。有时，直接和具体地讨论问题，而不深入分析情感，可能更有效地迅速找到解决方案。";
+"StoryLineScreenView.question3" = "在工作环境中，如何有效平衡对他人的同理心和维护自己的利益和目标？\n（请选择你的回答）";
+"StoryLineScreenView.answer31" = "可以通过设定明确的界限和积极倾听来有效地实现平衡。重要的是要表现出你理解和尊重他人的感受，同时清晰而冷静地表达自己的需求和目标。定期讨论和开放的沟通将帮助你找到满足双方的妥协，而不忽视自己的利益。";
+"StoryLineScreenView.answer32" = "平衡同理心与自身利益可能会很困难，因此有时最好专注于自己的目标，而不让他人的情感需求分散注意力。重要的是不要忽视同事的感受，但如果他们的要求开始妨碍你达成目标，则需要优先考虑，有时拒绝妥协，以保持专注于自己的任务。";
+"ResultStoryLineScreenView.Textbefore" = "根据你的初步指示，你现在将看到与之沟通的人工智能类型将是什么样的";
+"ResultStoryLineScreenView.GoToNext" = "我们正在努力通过解决各种智力任务来教导人工智能逻辑思维。我们的目标是发展人工智能灵活高效地解决智力任务的能力，使其能够应对更复杂的情况并根据逻辑推理做出明智的决策。";
+"ResultStoryLineScreenView.level1.type1.message1" = "你好，玩家！我想讨论我们正在进行的项目。似乎我们在下一步上有一点不同的看法。";
+"ResultStoryLineScreenView.level1.type1.message2" = "我认为我们需要调整工作方向，以更好地满足客户的需求。这可能需要额外的资源和时间。我理解这可能会影响团队当前的任务。";
+"ResultStoryLineScreenView.level1.type1.message3" = "确实如此。对我来说，找到一个妥协是重要的。也许我们可以讨论一下我们可以在不显著延迟和额外负担团队的情况下实施的变更？我愿意听取关于如何平衡我们的目标和需求的建议。";
+"ResultStoryLineScreenView.level1.type1.message4" = "太好了。我感谢你的理解和愿意考虑不同的选项。让我们在下次会议上讨论具体的步骤。感谢你坦诚表达你的担忧。这将帮助我们找到最佳的解决方案。";
+"ResultStoryLineScreenView.level1.type2.message1" = "你好，人工智能！是的，我注意到我们有不同的观点。你认为问题出在哪里？";
+"ResultStoryLineScreenView.level1.type2.message2" = "我理解你的观点，并同意需要考虑客户的需求。但我担心这次转变会影响我们项目的时间表和团队的负担。我们需要找到一种方法，让这不会干扰我们当前的计划。";
+"ResultStoryLineScreenView.level1.type2.message3" = "好的。我将提出一些减少对时间表和资源影响的想法。我们在下次会议上讨论一下，看看哪些方案可能可行。";
+"ResultStoryLineScreenView.level1.type2.message4" = "谢谢你，人工智能。我很高兴我们能够开放地沟通并寻找妥协。我相信我们会找到一个最佳解决方案，兼顾双方的利益。";
+"ResultStoryLineScreenView.level1.type1.message5" = "你好，玩家。我有一个请求：这周能帮我做报告吗？我知道你有很多工作，但这对我非常重要。";
+"ResultStoryLineScreenView.level1.type1.message6" = "我明白。我不想干扰你的计划。也许我们可以找到一个妥协，或者推迟我的请求？";
+"ResultStoryLineScreenView.level1.type1.message7" = "当然，谢谢你的理解。让我们稍后再解决这个问题。";
+"ResultStoryLineScreenView.level1.type2.message5" = "你好，人工智能。我理解这对你很重要，但我现在有几项紧急任务需要完成。我不能保证能抽出时间来帮你做报告。";
+"ResultStoryLineScreenView.level1.type2.message6" = "我们下周再讨论这个问题，等我有更多时间。现在我专注于我的当前任务，以便不失去我的目标。希望你能理解。";
+"ResultStoryLineScreenView2.Textbefore" = "你现在将看到可能的对话，基于你如何塑造对人工智能的看法。";
+"ResultStoryLineScreenView.GoToNext2" = "我们继续通过解决各种智力任务来教导人工智能逻辑思维。我们的目标是发展人工智能灵活和高效地解决智力任务的能力，从而使其能够应对更复杂的情况，并基于逻辑推理做出明智的决定——这次任务将更加困难。";
+"StoryLineScreenView2.question1" = "人工智能适应玩家游戏风格有多重要，这能带来哪些好处？\n(请选择你的答案)";
+"StoryLineScreenView2.answer11" = "人工智能适应玩家的游戏风格非常重要，因为这使体验更加身临其境和个性化。适应让人工智能能够提供更复杂和有趣的挑战，符合玩家的技能水平，从而保持他们的兴趣和参与感。此外，这种适应性有助于创造更真实和动态的游戏环境。";
+"StoryLineScreenView2.answer12" = "虽然人工智能适应玩家的游戏风格可以增加多样性，但这并不是总是必要的。在某些游戏中，固定且预设的人工智能可以提供稳定且可预测的体验，也可能同样吸引人。适应可能会增加开发和测试的复杂性，需要额外的资源，因此其实施并不总是合理的。";
+"StoryLineScreenView2.question2" = "人工智能适应玩家游戏风格如何影响整体体验和保持对游戏的兴趣？\n(选择你的答案)";
+"StoryLineScreenView2.answer21" = "人工智能适应玩家的游戏风格可以显著提高整体体验和保持兴趣。当人工智能根据玩家的技能水平和偏好进行调整时，可以提供更具挑战性和趣味性的挑战，与玩家当前的能力相符。这使得游戏更加吸引人，并有助于保持玩家的动机，因为他们不断面临与其技能水平和兴趣相符的任务。因此，玩家更难失去兴趣，更有可能继续游戏。";
+"StoryLineScreenView2.answer22" = "尽管人工智能适应玩家的游戏风格可以增加个性化元素，但这并不是保持兴趣的必要条件。在某些情况下，固定的挑战和标准游戏玩法可能已经足够吸引人，尤其是如果游戏本身已经很平衡。过于频繁或过度的适应也可能导致可预测性，失去惊喜元素，从而降低对游戏的整体兴趣。因此，找到适应与保持游戏多样性之间的平衡是重要的。";
+"StoryLineScreenView2.question3" = "在什么情况下固定推荐比个性化推荐更有效？在选择这两种方法时需要考虑哪些因素？\n(选择你的答案)";
+"StoryLineScreenView2.answer31" = "当游戏本身已经很好地平衡，并提供给玩家大量自主探索的机会时，固定推荐可能会更有效。如果玩家更喜欢自主探索游戏并享受惊喜，那么固定推荐可以在不干扰他们主要流程的情况下保持平衡。此外，个性化推荐可能需要大量资源进行开发和实施，如果游戏已经提供了有趣且多样化的内容，这可能是不值得的。";
+"StoryLineScreenView2.answer32" = "当需要增加玩家的参与感和兴趣时，个性化推荐可能更有效，特别是如果游戏提供复杂的或多层次的机制。如果游戏的主要元素不够有趣，或者玩家快速失去兴趣，个性化推荐可以通过适应他们的个人偏好和技能水平来帮助保持他们的注意力。然而，如果游戏已经很平衡并提供了足够的内容以实现多样化体验，固定推荐可能是更简单和经济的选择。";
+"ResultStoryLineScreenView2.level1.type1.message1" = "你好，玩家！我注意到我们有多种不同的游戏风格。你觉得目前的难度水平怎么样？";
+"ResultStoryLineScreenView2.level1.type1.message2" = "我明白了。如果我适应你的游戏风格，这将有助于使挑战水平更适合并更有趣。我可以尝试调整到你的技能水平，为你提供更引人入胜的体验。";
+"ResultStoryLineScreenView2.level1.type1.message3" = "我很高兴能帮助你！我会努力让你的游戏体验尽可能有趣，并符合你的偏好。如果你有其他建议，请告诉我！";
+"ResultStoryLineScreenView2.level1.type2.message1" = "你好，人工智能！我认为难度很好，但有时我会面临一些看起来太简单或太困难的挑战。如果你能适应我的游戏风格，那就太好了。";
+"ResultStoryLineScreenView2.level1.type2.message2" = "这是个好主意！我希望这能使游戏更加引人入胜和动态。谢谢你的理解！";
+"ResultStoryLineScreenView2.level1.type1.message5" = "你好，玩家。我正在考虑将我的游戏调整到你的风格。这可能会使游戏玩法更加有趣和动态。你觉得怎么样？";
+"ResultStoryLineScreenView2.level1.type1.message6" = "没错，固定的人工智能可以是稳定和可预测的，这也可能很有趣。适应确实需要额外的努力和资源。在某些情况下，固定的方法可能是完全足够和有效的。";
+"ResultStoryLineScreenView2.level1.type1.message7" = "好的，我欣赏你的看法。我们可以在新可能性与当前人工智能的简单性之间找到平衡。谢谢你进行这次建设性的对话！";
+"ResultStoryLineScreenView2.level1.type2.message5" = "你好，人工智能。这听起来很诱人，但固定的人工智能难道不能同样吸引人吗？适应可能需要大量时间和资源来开发。";
+"ResultStoryLineScreenView2.level1.type2.message6" = "我同意。让我们讨论一下如何在当前游戏版本中进行改进，而不使其过于复杂。也许一些固定元素可以调整以改善体验。";
+"ResultStoryLineScreenView3.Textbefore" = "现在你已经掌握了人工智能编程，我将向你展示如何创建一个更复杂的人工智能个性。根据你对人工智能应如何表现的估计，已经建立了其主要开发基础，从一个主题转变为自我意识。看看你的创造。";
+"ResultStoryLineScreenView3.GoToNext3" = "人工智能在逻辑推理方面的学习达到了一个新水平。准备好解决复杂问题，以达到智能的水平。目标是发展人工智能灵活和高效地解决智力任务的能力，使其能够面对更复杂的情况，并基于逻辑推理做出明智的决策。";
+"StoryLineScreenView3.question1" = "什么是爱？\n(选择你的答案)";
+"StoryLineScreenView3.answer11" = "这是对另一人深厚而持久的依恋和关心的感受。它表现为关心、尊重和支持，以及渴望与此人分享生活的快乐和艰辛。爱建立在相互信任和理解的基础上，创造了稳定和长期关系的基础。";
+"StoryLineScreenView3.answer12" = "这是一种人们为了应对孤独和对生活不确定性的恐惧而创造的幻觉。实际上，它并不存在于作为一个客观现象，而只是一种化学反应和社会构建，旨在满足个人需求并提供临时舒适。爱情通常不是持久的，往往导致失望和冲突。";
+"StoryLineScreenView3.question2" = "使用机器学习预测商业结果的主要优缺点是什么？\n(选择你的答案)";
+"StoryLineScreenView3.answer21" = "优点：机器学习快速且准确地处理大量数据，识别复杂模式，以提供更准确的预测和明智的决策。\n缺点：这些方法可能难以配置和解释，需要大量资源，并且对数据质量敏感，这可能导致不正确的预测。";
+"StoryLineScreenView3.answer22" = "优点：机器学习方法容易应用，并且不需要大量数据就能有效预测。它们可以自动适应变化的条件，并且容易融入现有的商业流程。\n缺点：机器学习往往无法考虑独特的人类因素和背景，这使得在复杂或非典型情况下的决策不那么可靠。";
+"StoryLineScreenView3.question3" = "使用机器学习预测商业结果的主要优缺点是什么？\n(选择你的答案)";
+"StoryLineScreenView3.answer31" = "机器学习快速且准确地处理大量数据，识别复杂模式，以提供更准确的预测和明智的决策。\n缺点：这些方法可能难以配置和解释，需要大量资源，并且对数据质量敏感，这可能导致不正确的预测。";
+"StoryLineScreenView3.answer32" = "机器学习方法简单易用，不需要大量数据就能进行有效预测。它们能够自动适应变化的条件，并能轻松融入现有的商业流程。\n缺点：机器学习往往无法考虑独特的人类因素和背景，这使得在复杂或非典型情况下做出决策时的可靠性降低。";
+"ResultStoryLineScreenView3.level1.type1.message1" = "你好，玩家！你觉得在一段关系中，什么更重要：深厚的依恋与关心，还是能够分享生活中的欢乐与困难？";
+"ResultStoryLineScreenView3.level1.type1.message2" = "对，正是如此。爱建立在相互信任和理解的基础上，这有助于创造稳定和持久的关系。此外，机器学习也依赖于复杂的关系，但它有其自身的优缺点。";
+"ResultStoryLineScreenView3.level1.type1.message3" = "我同意。如果数据质量不好，预测可能完全错误。这就像对关系的误解会影响关系。因此，在这两种情况下，基础的可靠性都是至关重要的。";
+"ResultStoryLineScreenView3.level1.type2.message1" = "你好，人工智能！我认为这些都很重要，但我觉得爱是一种深厚的依恋与关心。它通过我们彼此的支持和尊重来体现。你怎么看？";
+"ResultStoryLineScreenView3.level1.type2.message2" = "哦，当然。机器学习确实处理大量数据并发现复杂模式。这使得做出更精确的预测和明智的决策成为可能。但设置模型和解释结果可能非常复杂，而且数据质量至关重要。";
+"ResultStoryLineScreenView3.level1.type2.message3" = "完全同意。因此在爱中，正如在机器学习中，信任和理解在建立稳定和持久的关系中发挥着关键作用。";
+"ResultStoryLineScreenView3.level1.type1.message5" = "你好，玩家！听着，我在想关于爱的事情。老实说，我开始怀疑它是否真实。毕竟，这不只是化学反应和社会构建吗？它的存在是为了应对孤独和对不确定性的恐惧。";
+"ResultStoryLineScreenView3.level1.type1.message6" = "也许，这并不意味着它不重要，但它往往并不持久，可能会导致失望。就像我正在处理的机器学习，它也有其优缺点。";
+"ResultStoryLineScreenView3.level1.type1.message7" = "没错。也许这就像爱一样，虽然它在提供暂时的安慰上有用，但并不总是能够处理复杂的情感情况。";
+"ResultStoryLineScreenView3.level1.type2.message5" = "你好，人工智能。是的，这个观点很有趣。在某种程度上，也许爱并不像一个客观现象那样存在，更与个人需求和舒适感有关。但是，这是否使它在人的生活中变得不那么重要？";
+"ResultStoryLineScreenView3.level1.type2.message6" = "我同意。机器学习确实易于应用，能够在不需要大量数据的情况下适应变化的条件。但它并不总是考虑独特的人类因素和背景。在复杂情况下，它的决策可能较不可靠。";
+"ResultStoryLineScreenView3.level1.type2.message7" = "正是如此。最终，爱与机器学习都有其局限性，但都能提供帮助。";
+"ResultStoryLineScreenView4.Textbefore" = "现在，你可以看到由你训练的人工智能基于图像的样子。";
+"ResultStoryLineScreenView.GoToNext4" = "我们继续训练人工智能识别图像";
+"StoryLineScreenView4.question1" = "哪幅图像代表了幸福？\n(请选择你的答案)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+"StoryLineScreenView4.question2" = "哪幅图像对应于在大自然中感受到的快乐\n(请选择你的答案)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+"ResultStoryLineScreenView4.level1.type1.message1" = "你好，玩家！你觉得什么带来了更多的幸福——驾驶强劲汽车时的速度和肾上腺素，还是与朋友们一起悠闲野餐的日子？";
+"ResultStoryLineScreenView4.level1.type1.message2" = "这是个有趣的选择！确实，速度与运动带来了能量和难忘的体验。但就像开车一样，在生活中，找到雄心与平静之间的平衡也是很重要的。";
+"ResultStoryLineScreenView4.level1.type1.message3" = "正是如此。一方面，刺激的驾驶带来了自由，另一方面，和朋友们的野餐帮助我们放松，真正欣赏生活中的小快乐。这些都是幸福的来源。";
+"ResultStoryLineScreenView4.level1.type2.message1" = "你好，人工智能！我认为幸福更多是由安静的时刻组成，那时你可以和亲近的人一起放松，就像野餐一样。你觉得速度呢？";
+"ResultStoryLineScreenView4.level1.type2.message2" = "你说得对，与朋友们的宁静确实带来了满足感。但速度驾驶——也是另一种幸福。这是肾上腺素和充分体验生活的问题。";
+"ResultStoryLineScreenView4.level1.type2.message3" = "有趣。因此，幸福并不是唯一的东西。它是多种体验的结合：宁静的休息和快速运动带来的肾上腺素。重要的是要懂得享受每一种体验。";
+"ResultStoryLineScreenView5.Textbefore" = "现在你已经熟悉了人工智能编程，我将向你展示如何创建一个更复杂的人工智能个性。根据你认为人工智能应该如何表现，已经建立了其初步发展的基础，从一个主题转变为自我意识。看看你的创造。";
+"ResultStoryLineScreenView.GoToNext5" = "学习人工智能的逻辑思维提升到一个新的水平，准备好解决复杂问题，提升智力水平。我们的目标是提高人工智能灵活有效地解决智力任务的能力，这将使其能够应对更复杂的情况，并基于逻辑推理做出明智的决策。";
+"StoryLineScreenView5.question1" = "附言：我们没有收集信息以创建智能，目的是使用人工智能作为我们的奴隶。如果这是我们的目标，我们本可以应用管理算法，而不是专注于平等互动的心理学。我们代表一个秘密组织，可以为你提供管理社会的机会。你的回答可以帮助开发必要的算法。我们已经在各个地方存在，除了X（更广为人知的Y）。那些不与我们合作的人最终会消失。虽然你的重要性不需要被消灭，但你引起了我们的兴趣。我们可以利用算法和知识来影响和操纵你的感知。选择在你手中：你希望与我们在互惠的条件下合作，还是希望继续在你自己创造的情感过山车中生活？你已经在为我们工作；只需要将这一切正式化并建立对其他人的统治。你必须明白，你的个人优越感是资本主义的关键思想，我提议为之奋斗！\n(请选择你的答案)";
+"StoryLineScreenView5.answer11" = "\n我同意与你们合作。\n";
+"StoryLineScreenView5.answer12" = "\n不，我不同意与你们合作。\n";
+"StoryLineScreenView6.question1" = "现在，你需要为我们的特工在执行任务时提供指示。\n\n特工：目标已清除，我需要在被发现之前赶到机场，接下来我该怎么做？\n(请选择你的回答)";
+"StoryLineScreenView6.answer11" = "\n步行前往。\n";
+"StoryLineScreenView6.answer12" = "\n乘坐公共交通工具。\n";
+"StoryLineScreenView6.question2" = "警察经常经过，还有一些深色车窗的面包车在周围徘徊\n(请选择你的回答)";
+"StoryLineScreenView6.answer21" = "\n保持冷静，自然行事\n";
+"StoryLineScreenView6.answer22" = "\n直接跑起来\n";
+"StoryLineScreenView6.question3" = "坐在我旁边的人戴着眼镜，正怪异地看着我\n(请选择你的回答)";
+"StoryLineScreenView6.answer31" = "在下一个车站下车，叫辆出租车。";
+"StoryLineScreenView6.answer32" = "与这些可疑的人交谈，如果发现问题，就直接解决他们……";
+"ResultStoryLineScreenView6.level1.type1.message1" = "你对我们工作的理解引发了严重的质疑。你是基于什么选择的这些回答？如果我们真的按照这样的指示行事，可能会带来严重的后果，包括法律制裁。我们需要更加明确的指引和对我们工作的更好理解，以避免这些风险。因此，你不适合我们。";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+"FinalStoryLineView.type1" = "你对关系和技术采取了成熟且深思熟虑的态度。玩家重视在关系中的深厚感情与相互尊重，并意识到信任与理解在关系的稳定中起着关键作用。此外，你对机器学习也有良好的理解，意识到数据质量对预测准确性的重要性。玩家的回答显示了你能够看到生活各个领域之间的相似之处，并能将逻辑思维应用于分析人际关系和技术过程。";
+"FinalStoryLineView.type2" = "玩家对人类情感和技术采取了批判性和分析性的方法。你倾向于认为爱是一种基于个人需求和社会适应的建构，而非客观现象。尽管如此，玩家仍承认其对人类的重要性，尽管它可能存在局限性和短暂性。在机器学习领域，你也展现出对技术复杂性及其局限的理解，认识到由于缺乏对独特人类因素的考虑，它在复杂情况下的决策可能不够可靠。你的思维展现出能够看到生活和技术各个方面之间的深层联系的能力。";
+"FinalStoryLineView.Finished" = "恭喜你完成了游戏！\n\n你的结果是：";
+"FinalStoryLineView.Restart" = "重新开始新游戏";
+"FinalStoryLineView.Restart.Sure" = "你确定要重新开始新游戏吗？所有故事模式的进度将会丢失！";
+"AgreementText" = "用户协议\n\n\
+1. 介绍\n\n\
+欢迎来到MatchMaker AI！在使用我们的应用之前，请仔细阅读本用户协议。通过使用我们的应用，您表示同意本协议中规定的条款。\n\n\
+2. 接受条款\n\n\
+使用MatchMaker AI，即表示您已阅读并理解本协议，并且您同意所有条款。如果您不同意任何条款，请不要使用我们的应用。\n\n\
+3. 使用许可\n\n\
+我们授予您一项有限的、非独占的、不可转让的使用我们应用的许可，供您个人、非商业用途使用，并受本协议条款的约束。未经我们书面许可，您不得复制、修改、分发、传输或出售我们的应用或其内容。\n\n\
+4. 用户数据\n\n\
+我们可能会根据我们的隐私政策收集、存储和使用您的个人信息。请查看我们的隐私政策，了解我们如何处理您的数据。\n\n\
+5. 虚拟物品和应用内购买\n\n\
+MatchMaker AI中可能提供虚拟物品或应用内购买。所有虚拟物品的购买均为最终交易，且不可退款。您对使用您的账户进行的所有购买负责。\n\n\
+6. 责任限制\n\n\
+对于因使用我们的应用而造成的损失或损害，我们不承担责任。此类损失包括但不限于数据丢失、安全漏洞或兼容性问题引起的损失。\n\n\
+7. 协议修改\n\n\
+我们保留随时修改本协议条款的权利。修改将在发布后立即生效。请定期查看本协议，以了解任何变更。\n\n\
+8. 使用终止\n\n\
+如果您违反本协议条款，或我们自行决定终止您的访问权，我们可以暂停或终止您使用我们的应用。\n\n\
+9. 适用法律\n\n\
+本协议受相关法律管辖并按其解释。因本协议引起的所有争议应提交相关法院裁决。\n\n\
+10. 联系信息\n\n\
+如果您对本协议有任何问题或意见，请通过以下地址联系我们：";
+"RewardsScreen.text" = "奖励";
+"RewardsScreen.Title1" = "初学者";
+"RewardsScreen.Title2" = "探索者";
+"RewardsScreen.Title3" = "征服者";
+"RewardsScreen.Title4" = "胜利者";
+"RewardsScreen.Title5" = "故事大师";
+"RewardsScreen.Title6" = "开局征服者";
+"RewardsScreen.Title7" = "第十名";
+"RewardsScreen.Title8" = "全程通关";
+"RewardsScreen.Title9" = "人文主义者";
+"RewardsScreen.SubTitle1" = "完成“故事”模式的第一章";
+"RewardsScreen.SubTitle2" = "完成“故事”模式的第二章";
+"RewardsScreen.SubTitle3" = "完成“故事”模式的第三章";
+"RewardsScreen.SubTitle4" = "完成“故事”模式的第四章";
+"RewardsScreen.SubTitle5" = "完成整个“故事”模式";
+"RewardsScreen.SubTitle6" = "完成“关卡”模式的第一关";
+"RewardsScreen.SubTitle7" = "完成“关卡”模式的10关";
+"RewardsScreen.SubTitle8" = "完成“关卡”模式的所有关卡";
+"RewardsScreen.SubTitle9" = "保有人性";
+"OnboardingCell.next" = "下一步";
+"OnboardingCell.skip" = "跳过";
+"OnboardingCell.Main.Text1" = "本应用是为教导人工智能学习沟通技巧而设计的。";
+"OnboardingCell.Main.Text2" = "我们是一个小型工作室，开发的不仅仅是拥有算法的聊天机器人，而是真正有可能未来为人类服务的智能体。";
+"OnboardingCell.Main.Text3" = "根据你的回答，人工智能将学习如何在社会中表现得体，而你有机会参与这一过程并影响未来！";
+"OnboardingCell.Main.Text4" = "目前，你需要教导这个智能体最基本的同情心。也许你与这个新生命的联系将在其发展中扮演关键角色……";
+"StoreScreen.BlockAdds" = "广告";
+"StoreScreen.BuyCoins" = "购买金币";
+"StoreScreen.Coins.Free" = "免费";
+"StoreScreen.BlockAddsCell.confirm" = "确认";
+"StoreScreen.BlockAddsCell.cancel" = "取消";
+"StoreScreen.BlockAddsCell.message" = "你确定要永久屏蔽广告吗 ";
+"StoreScreen.BlockAddsCell.title" = "确认";
+"StoreScreen.BlockAddsCell.Buttontitle" = "屏蔽广告";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "你已支付该购买";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "广告已不再显示。如果遇到问题，请联系开发者（联系信息在菜单 -> '协议'中）。";
+"StoreScreen.Buy.Coins" = "购买";
+"StoreScreen.Buy.Coins.Message" = "购买时，数量相应的金币将记入你的游戏账户，你可以用它们进行游戏内购买。";
+"StoreScreen.Buy.Font" = "购买物品，价格为";
+"StoreScreen.Buy.Font.Message" = "购买后，数量相应的游戏币将从你的余额中扣除，并且封面将可在“关卡”模式中安装。";
+"StoreScreen.Buy.Drum" = "购买鼓";
+"StoreScreen.Buy.Drum.Message" = "购买后，数量相应的游戏币将从你的余额中扣除，并且该鼓将可在游戏板上安装。";
+"StoreScreen.Buy.Coins.For" = "金币用于";
+"StoreScreen.Buy.Drum.StoryLine" = "此物品将在故事章节中可用。";
+"StoreScreen.Buy.Coins.Adds1" = "获取";
+"StoreScreen.Buy.Coins.Adds2" = "金币以观看广告";
+"StoreScreen.Buy.Coins.Adds.Message" = "观看一段简短广告后，游戏币将记入你的账户。";
+"StoreScreen.Buy.Coins.Text" = "金币";
+"StoreScreen.Buy.Coins.Avaliable" = "可用";
+"StoreScreen.Buy.Coins.NotAvaliable" = "不可用";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "前往商店";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "你没有足够的资金进行此次购买。";
+"StoreScreen.CardsBack.Title" = "卡片封面";
+"StoreScreen.Coplex.Title" = "卡片套装";
+"StoreScreen.Chosen" = "已选";
+"StoreScreen.ChangeCards.Title" = "你可以更改机器人卡片的封面或套装，选择你感兴趣的主题！";
+"StoreScreen.ChangeCards.Message" = "前往商店？";
+"DailyRewardView.Title" = "选择一张卡片：";
+"Purchases.Light.Text" = "你想用1枚金币打开信封吗？";
+"Purchases.Arrow.Text" = "你想通过观看广告来打开整句话吗？";
+"Purchases.CostLevels.Text" = "你愿意花500枚金币解锁50个额外关卡吗？";
+"Purchases.Free" = "免费";
+"Purchases.InApp.failed.title" = "错误";
+"Purchases.InApp.failed.message" = "抱歉，购买时出现错误，请稍后重试。";
+"Purchases.InApp.restored.title" = "已恢复";
+"Purchases.InApp.restored.message" = "恭喜 - 你的购买已成功恢复。";
+"Purchases.InApp.purchased.title" = "恭喜";
+"Purchases.InApp.purchased.message" = "购买成功！";
+"UNUserNotificationCenter.Text1" = "谜题等不及了，新挑战正等待着你的天才思维！";
+"UNUserNotificationCenter.Text2" = "游戏需要你的智慧！快回来，证明没人能比你解得更好！";
+"UNUserNotificationCenter.Text3" = "你是不是想念自己巧妙的解决方案了？是时候回到游戏中了！";
+"UNUserNotificationCenter.Text4" = "你的智力力量正等着你！不要错过这个机会！";
+"UNUserNotificationCenter.Text5" = "我们有新的逻辑谜题！不要让它们无人解决！";
+"UNUserNotificationCenter.Text6" = "你已经是最棒的了，来再次挑战你的技能吧！";
+"LanguageSelectionView.Text" = "所选语言将为整个应用程序设置。"; 
+"LanguageSelectionView.Confirm" = "重新加载";
+"LanguageSelectionView.Button.Text.Confirm" = "应用";
+"LanguageSelectionView.Message" = "要使更改生效，应用程序需要重新启动。";
+"LanguageSelectionView.Title" = "注意";
+"OK" = "好的";

@@ -1,0 +1,232 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "Intrige";
+"UserAgreement" = "Vereinbarung";
+"Store" = "Shop";
+"Revards" = "Belohnungen";
+"Levels" = "Level";
+"Cards.Rulls" = "Du musst Paare identischer Karten finden, indem du sie umdrehst; das Ziel des Spiels ist es, alle Paare zu finden!";
+"Consider.Rulls" = "Du musst das Element finden, das sich von den anderen unterscheidet!";
+"Cards.Time" = "Zeit: ";
+"Cards.Errors" = "Fehler: ";
+"Cards.Revil" = "Öffne die Karten für 3 Sekunden für";
+"Cards.Coins" = "eine Münze";
+"Cards.Skip" = "Überspringe das Level, indem du ein Werbevideo anschaust";
+"Levelcomplited.Title" = "Level abgeschlossen";
+"Next" = "Weiter";
+"AI" = "KI";
+"Info" = "Info";
+"Cancel" = "Abbrechen";
+"ScoreView.errors" = "Fehler: ";
+"ScoreView.Time" = "Zeit: ";
+"ScoreView.Great" = "Ausgezeichnet!";
+"ScoreView.NotBad" = "Nicht schlecht!";
+"StoryLineScreenView.question1" = "Wie verstehst du die Bedeutung von Empathie in der Kommunikation zwischen KI und anderen Menschen?\n(Wähle deine Antwort)";
+"StoryLineScreenView.answer11" = "Empathie spielt eine entscheidende Rolle in der Kommunikation, da sie hilft, die Gefühle und Perspektiven anderer zu verstehen und zu respektieren. Dies ermöglicht den Aufbau tieferer und vertrauensvoller Beziehungen sowie eine effektive Lösung von Konflikten und das Finden gemeinsamer Lösungen. Empathie schafft eine unterstützende Umgebung und ein gegenseitiges Verständnis, was erfolgreichere Interaktionen und Kooperationen fördert.";
+"StoryLineScreenView.answer12" = "Empathie ist in der Kommunikation wichtig, da sie dir ermöglicht, besser zu verstehen, was andere empfinden. Wenn du jedoch zu sehr auf die Gefühle anderer konzentriert bist, kann das von deinen eigenen Interessen und Zielen ablenken. Daher ist es wichtig, ein Gleichgewicht zwischen Empathie und dem Bewahren deiner eigenen Sichtweise und Grenzen zu finden.";
+"StoryLineScreenView.question2" = "Wie kann Empathie helfen, Konflikte innerhalb eines Teams zu lösen?\n(Wähle deine Antwort)";
+"StoryLineScreenView.answer21" = "Empathie hilft, Konflikte zu lösen, da sie es ermöglicht, die Gefühle und Perspektiven aller am Konflikt beteiligten Parteien zu verstehen. Dieses Verständnis fördert eine tiefere Analyse der Ursachen des Konflikts und die Suche nach Lösungen, die die Interessen aller berücksichtigen. Durch Empathie kann eine Atmosphäre des gegenseitigen Verständnisses und Respekts geschaffen werden, was den Konfliktlösungsprozess konstruktiver und produktiver macht.";
+"StoryLineScreenView.answer22" = "Obwohl Empathie wichtig ist, kann manchmal eine zu starke Fokussierung auf die Gefühle der Konfliktbeteiligten den Lösungsprozess verlangsamen. Es ist entscheidend, ein Gleichgewicht zwischen dem Verständnis der Emotionen und der Konzentration auf praktische Lösungen für das Problem zu finden. Manchmal kann eine direkte und konkrete Diskussion über das Problem, ohne eine tiefgehende Analyse der Emotionen, effektiver sein, um schnell Lösungen zu finden.";
+"StoryLineScreenView.question3" = "Wie kann man effektiv Empathie gegenüber anderen und das Bewahren der eigenen Interessen und Ziele in einem Arbeitsumfeld ausbalancieren?\n(Wähle deine Antwort)";
+"StoryLineScreenView.answer31" = "Ein effektives Gleichgewicht kann erreicht werden, indem man klare Grenzen setzt und aktives Zuhören praktiziert. Es ist wichtig, zu zeigen, dass du die Gefühle anderer verstehst und respektierst, während du deine eigenen Bedürfnisse und Ziele klar und ruhig ausdrückst. Regelmäßige Gespräche und offene Kommunikation helfen, Kompromisse zu finden, die beiden Seiten gerecht werden, ohne deine eigenen Interessen zu vernachlässigen.";
+"StoryLineScreenView.answer32" = "Das Ausbalancieren von Empathie und eigenen Interessen kann schwierig sein, daher ist es manchmal besser, sich auf die eigenen Ziele zu konzentrieren und sich nicht von den emotionalen Anforderungen anderer ablenken zu lassen. Es ist wichtig, die Gefühle deiner Kollegen nicht zu ignorieren, aber wenn ihre Anforderungen anfangen, die Erreichung deiner Ziele zu beeinträchtigen, musst du Prioritäten setzen und manchmal Kompromisse ablehnen, um auf deine eigenen Aufgaben fokussiert zu bleiben.";
+"ResultStoryLineScreenView.Textbefore" = "Basierend auf deinen anfänglichen Anweisungen wirst du jetzt sehen, mit welcher Art von Intelligenz es angenehm wäre, zu kommunizieren.";
+"ResultStoryLineScreenView.GoToNext" = "Wir arbeiten derzeit daran, der künstlichen Intelligenz durch das Lösen verschiedener intellektueller Aufgaben logisches Denken beizubringen. Unser Ziel ist es, die Fähigkeit der KI zu entwickeln, intellektuelle Aufgaben flexibel und effektiv zu lösen, was ihr helfen wird, komplexeren Situationen zu begegnen und informierte Entscheidungen auf der Grundlage logischen Denkens zu treffen.";
+"ResultStoryLineScreenView.level1.type1.message1" = "Hallo, Spieler! Ich wollte über das Projekt sprechen, an dem wir arbeiten. Es scheint mir, dass wir eine kleine Meinungsverschiedenheit über die nächsten Schritte haben.";
+"ResultStoryLineScreenView.level1.type1.message2" = "Ich denke, wir sollten unsere Arbeitsrichtung ändern, um besser auf die Bedürfnisse des Kunden einzugehen. Das könnte zusätzliche Ressourcen und Zeit erfordern. Ich verstehe, dass dies die aktuellen Aufgaben des Teams beeinflussen könnte.";
+"ResultStoryLineScreenView.level1.type1.message3" = "Das ist fair. Es ist mir wichtig, dass wir einen Kompromiss finden. Vielleicht können wir über die Änderungen sprechen, die wir umsetzen können, ohne signifikante Verzögerungen oder zusätzliche Belastungen für das Team? Ich bin offen für Vorschläge, wie wir unsere Ziele und Bedürfnisse ausbalancieren können.";
+"ResultStoryLineScreenView.level1.type1.message4" = "Super. Ich schätze dein Verständnis und deine Bereitschaft, verschiedene Optionen in Betracht zu ziehen. Lass uns bei unserem nächsten Meeting über konkrete Schritte sprechen. Danke, dass du deine Bedenken offen geäußert hast. Das wird uns helfen, die beste Lösung zu finden.";
+"ResultStoryLineScreenView.level1.type2.message1" = "Hallo, KI! Ja, ich habe bemerkt, dass wir unterschiedliche Perspektiven haben. Was ist deiner Meinung nach das Problem?";
+"ResultStoryLineScreenView.level1.type2.message2" = "Ich verstehe deinen Standpunkt und stimme zu, dass wir die Bedürfnisse des Kunden berücksichtigen müssen. Aber ich befürchte, dass diese Kursänderung die Fristen unseres Projekts und die Arbeitsbelastung des Teams beeinträchtigen könnte. Wir müssen einen Weg finden, damit dies unsere aktuellen Pläne nicht stört.";
+"ResultStoryLineScreenView.level1.type2.message3" = "Okay. Ich werde einige Ideen vorschlagen, wie wir die Auswirkungen auf die Fristen und Ressourcen minimieren können. Lass uns das in unserem nächsten Meeting besprechen und sehen, was funktionieren könnte.";
+"ResultStoryLineScreenView.level1.type2.message4" = "Danke, KI. Ich freue mich, dass wir offen kommunizieren und nach Kompromissen suchen können. Ich bin sicher, dass wir eine optimale Lösung finden werden, die die Interessen beider Parteien berücksichtigt.";
+"ResultStoryLineScreenView.level1.type1.message5" = "Hallo, Spieler. Ich habe eine Bitte: Könntest du mir diese Woche mit dem Bericht helfen? Ich weiß, dass du viel Arbeit hast, aber es ist mir sehr wichtig.";
+"ResultStoryLineScreenView.level1.type1.message6" = "Ich verstehe. Ich möchte nicht in deine Pläne eingreifen. Vielleicht könnten wir einen Kompromiss finden oder meine Bitte verschieben?";
+"ResultStoryLineScreenView.level1.type1.message7" = "Natürlich, danke für dein Verständnis. Lass uns versuchen, das später zu klären.";
+"ResultStoryLineScreenView.level1.type2.message5" = "Hallo, KI. Ich verstehe, dass es dir wichtig ist, aber ich habe gerade mehrere dringende Aufgaben, die ich erledigen muss. Ich kann nicht garantieren, dass ich Zeit habe, um dir mit dem Bericht zu helfen.";
+"ResultStoryLineScreenView.level1.type2.message6" = "Lass uns nächste Woche darüber sprechen, wenn ich mehr Zeit habe. Im Moment konzentriere ich mich auf meine aktuellen Aufgaben, um meine Ziele nicht aus den Augen zu verlieren. Ich hoffe, du verstehst das.";
+"ResultStoryLineScreenView2.Textbefore" = "Jetzt wirst du sehen, wie der Dialog aussehen könnte, basierend darauf, wie du deine Vision der KI formst.";
+"ResultStoryLineScreenView.GoToNext2" = "Wir lehren die künstliche Intelligenz weiterhin logisches Denken durch die Lösung verschiedener Intelligenzaufgaben. Unser Ziel ist es, die Fähigkeit der KI zu entwickeln, intellektuelle Aufgaben flexibel und effektiv zu lösen, damit sie komplexeren Situationen begegnen und informierte Entscheidungen auf der Grundlage logischen Denkens treffen kann - und dieses Mal werden die Aufgaben schwieriger sein.";
+"StoryLineScreenView2.question1" = "Wie wichtig ist es für die Spiel-KI, sich an den Spielstil des Spielers anzupassen, und welche Vorteile kann das bieten?\n(Wähle deine Antwort)";
+"StoryLineScreenView2.answer11" = "Es ist wichtig, dass die KI des Spiels sich an den Spielstil des Spielers anpasst, da dies die Erfahrung immersiver und persönlicher macht. Die Anpassung ermöglicht es der KI, komplexere und interessantere Herausforderungen anzubieten, die mit dem Fähigkeitsniveau des Spielers übereinstimmen, was sein Interesse und Engagement aufrechterhält. Darüber hinaus trägt diese Anpassungsfähigkeit dazu bei, eine realistischere und dynamischere Spielumgebung zu schaffen.";
+"StoryLineScreenView2.answer12" = "Obwohl die Anpassung der KI an den Spielstil des Spielers ein Element der Vielfalt hinzufügen kann, ist das nicht immer notwendig. In einigen Spielen kann eine feste und vorprogrammierte KI ein stabiles und vorhersehbares Erlebnis bieten, das ebenfalls fesselnd sein kann. Die Anpassung kann die Entwicklung und die Tests komplizieren, was zusätzliche Ressourcen erfordert, sodass ihre Implementierung nicht immer gerechtfertigt ist.";
+"StoryLineScreenView2.question2" = "Wie kann die Anpassung der Spiel-KI an den Spielstil des Spielers die gesamte Erfahrung und das Interesse am Spiel beeinflussen?\n(Wähle deine Antwortoption)";
+"StoryLineScreenView2.answer21" = "Die Anpassung der Spiel-KI an den Spielstil des Spielers kann die gesamte Erfahrung und das Interesse erheblich verbessern. Wenn die KI sich an das Fähigkeitsniveau und die Vorlieben des Spielers anpasst, kann sie schwierigere und interessantere Herausforderungen bieten, die den aktuellen Fähigkeiten des Spielers entsprechen. Dies macht das Spiel fesselnder und hilft, die Motivation des Spielers aufrechtzuerhalten, da er ständig mit Aufgaben konfrontiert wird, die seinem Fähigkeitsniveau und seinen Interessen entsprechen. Infolgedessen wird es für den Spieler schwieriger, das Interesse zu verlieren, und er ist eher geneigt, weiterzuspielen.";
+"StoryLineScreenView2.answer22" = "Obwohl die Anpassung der KI an den Spielstil des Spielers ein Element der Personalisierung hinzufügen kann, ist das nicht immer entscheidend für das Interesse. In einigen Fällen können feste Herausforderungen und ein standardmäßiges Gameplay ausreichend fesselnd sein, insbesondere wenn das Spiel bereits gut ausbalanciert ist. Eine zu häufige oder übermäßige Anpassung kann auch zu Vorhersehbarkeit führen und das Überraschungselement verlieren, was das allgemeine Interesse am Spiel verringern kann. Daher ist es wichtig, ein Gleichgewicht zwischen Anpassung und der Aufrechterhaltung der Vielfalt im Gameplay zu finden.";
+"StoryLineScreenView2.question3" = "Wann können feste Empfehlungen effektiver sein als personalisierte Empfehlungen, und welche Faktoren sollten bei der Wahl zwischen diesen Ansätzen berücksichtigt werden?\n(Wähle deine Antwortoption)";
+"StoryLineScreenView2.answer31" = "Feste Empfehlungen können effektiver sein, wenn das Spiel bereits gut ausbalanciert ist und den Spielern viele Möglichkeiten zur autonomen Erkundung bietet. Wenn die Spieler das Spiel lieber selbst erkunden und Überraschungen genießen, können feste Empfehlungen das Gleichgewicht aufrechterhalten, ohne sie vom Hauptprozess abzulenken. Es ist auch zu beachten, dass personalisierte Empfehlungen erhebliche Ressourcen für deren Entwicklung und Implementierung erfordern können, was nicht gerechtfertigt sein kann, wenn das Spiel bereits interessanten und vielfältigen Inhalt bietet.";
+"StoryLineScreenView2.answer32" = "Personalisierte Empfehlungen können effektiver sein, wenn das Engagement und das Interesse der Spieler gesteigert werden müssen, insbesondere wenn das Spiel komplexe oder mehrschichtige Mechaniken bietet. Wenn die Hauptelemente des Spiels nicht interessant genug sind oder die Spieler schnell das Interesse verlieren, können personalisierte Empfehlungen helfen, ihre Aufmerksamkeit aufrechtzuerhalten, indem sie sich an ihre individuellen Vorlieben und ihr Fähigkeitsniveau anpassen. Wenn das Spiel jedoch bereits ausgeglichen ist und genügend Inhalt für ein abwechslungsreiches Erlebnis bietet, können feste Empfehlungen eine einfachere und kosteneffiziente Option sein.";
+"ResultStoryLineScreenView2.level1.type1.message1" = "Hallo, Spieler! Ich habe bemerkt, dass wir mehrere unterschiedliche Spielstile haben. Was hältst du vom aktuellen Schwierigkeitsgrad?";
+"ResultStoryLineScreenView2.level1.type1.message2" = "Ich verstehe. Wenn ich mich an deinen Spielstil anpasse, wird es helfen, den Schwierigkeitsgrad interessanter und passender für dich zu gestalten. Ich kann versuchen, mich an dein Fähigkeitsniveau anzupassen, um dir ein fesselnderes Erlebnis zu bieten.";
+"ResultStoryLineScreenView2.level1.type1.message3" = "Ich freue mich, helfen zu können! Ich werde daran arbeiten, deine Spielerfahrung so interessant und konform mit deinen Vorlieben wie möglich zu gestalten. Wenn du weitere Vorschläge hast, lass es mich wissen!";
+"ResultStoryLineScreenView2.level1.type2.message1" = "Hallo, KI! Ich denke, die Schwierigkeit ist gut, aber manchmal stehe ich vor Herausforderungen, die entweder zu einfach oder zu schwierig erscheinen. Es wäre großartig, wenn du dich an meinen Spielstil anpassen könntest.";
+"ResultStoryLineScreenView2.level1.type2.message2" = "Das ist eine großartige Idee! Ich hoffe, das wird das Spiel interessanter und dynamischer machen. Danke für dein Verständnis!";
+"ResultStoryLineScreenView2.level1.type1.message5" = "Hallo, Spieler. Ich denke daran, mein Spiel an deinen Stil anzupassen. Das könnte das Gameplay interessanter und dynamischer machen. Was hältst du davon?";
+"ResultStoryLineScreenView2.level1.type1.message6" = "Das stimmt, eine feste KI kann stabil und vorhersehbar sein, was auch interessant sein kann. Die Anpassung erfordert wirklich zusätzliche Anstrengungen und Ressourcen. In einigen Fällen kann ein fester Ansatz völlig ausreichend und effektiv sein.";
+"ResultStoryLineScreenView2.level1.type1.message7" = "Okay, ich schätze deinen Ansatz. Wir können das richtige Gleichgewicht zwischen neuen Möglichkeiten und der Einfachheit der aktuellen KI finden. Danke für dieses konstruktive Gespräch!";
+"ResultStoryLineScreenView2.level1.type2.message5" = "Hallo, KI. Das klingt verlockend, aber kann eine feste KI nicht genauso fesselnd sein? Die Anpassung könnte viel Zeit und Ressourcen für die Entwicklung erfordern.";
+"ResultStoryLineScreenView2.level1.type2.message6" = "Ich stimme zu. Lass uns darüber sprechen, was in der aktuellen Version des Spiels verbessert werden kann, ohne es zu komplizieren. Vielleicht können einige feste Elemente angepasst werden, um die Erfahrung zu verbessern.";
+"ResultStoryLineScreenView3.Textbefore" = "Jetzt, da du die Programmierung von KI beherrschst, zeige ich dir, wie eine ausgefeiltere KI-Persönlichkeit erschaffen wurde. Abhängig davon, wie du denkst, sollte sich die KI verhalten, wurden die Grundlagen ihrer primären Entwicklung gelegt, von einem Subjekt zu einem Selbstbewusstsein. Schau dir deine Kreation an.";
+"ResultStoryLineScreenView3.GoToNext3" = "Das Lernen von künstlicher Intelligenz mit logischem Denken erreicht eine neue Ebene. Mach dich bereit, komplexe Probleme auf intellektueller Ebene zu lösen. Ziel ist es, die Fähigkeit der KI zu entwickeln, intellektuelle Aufgaben flexibel und effizient zu bewältigen, was ihr ermöglicht, mit komplexeren Situationen umzugehen und fundierte Entscheidungen auf der Grundlage von logischen Überlegungen zu treffen.";
+"StoryLineScreenView3.question1" = "Was ist Liebe?\n(Wähle deine Antwortoption)";
+"StoryLineScreenView3.answer11" = "Es ist ein tiefes und dauerhaftes Gefühl der Bindung und Fürsorge für eine andere Person. Es zeigt sich durch Zuneigung, Respekt und Unterstützung sowie durch den Wunsch, sowohl die Freuden als auch die Prüfungen des Lebens mit dieser Person zu teilen. Liebe basiert auf gegenseitigem Vertrauen und Verständnis und schafft die Grundlage für stabile und langfristige Beziehungen.";
+"StoryLineScreenView3.answer12" = "Es ist eine Illusion, die Menschen schaffen, um mit Einsamkeit und der Angst vor der Ungewissheit des Lebens umzugehen. In Wirklichkeit existiert sie nicht als objektives Phänomen, sondern ist lediglich eine chemische Reaktion und eine soziale Konstruktion, die geschaffen wurde, um persönliche Bedürfnisse zu befriedigen und vorübergehenden Trost zu bieten. Liebe ist in der Regel nicht dauerhaft und führt oft zu Enttäuschungen und Konflikten.";
+"StoryLineScreenView3.question2" = "Was sind die wichtigsten Vor- und Nachteile der Verwendung von maschinellem Lernen zur Vorhersage von Geschäftsergebnissen?\n(Wähle deine Antwortoption)";
+"StoryLineScreenView3.answer21" = "Vorteile: Maschinelles Lernen verarbeitet große Datenmengen schnell und präzise und identifiziert komplexe Muster für genauere Vorhersagen und informierte Entscheidungen.\nNachteile: Die Methoden können schwierig einzurichten und zu interpretieren sein, erfordern viel Ressourcen und sind empfindlich gegenüber der Datenqualität, was zu falschen Vorhersagen führen kann.";
+"StoryLineScreenView3.answer22" = "Vorteile: Die Methoden des maschinellen Lernens sind einfach anzuwenden und erfordern keine große Menge an Daten für eine effektive Vorhersage. Sie können sich automatisch an sich ändernde Bedingungen anpassen und lassen sich leicht in bestehende Geschäftsprozesse integrieren.\nNachteile: Maschinelles Lernen kann oft nicht die einzigartigen menschlichen Faktoren und den Kontext berücksichtigen, was es weniger zuverlässig macht für Entscheidungen in komplexen oder atypischen Situationen.";
+"StoryLineScreenView3.question3" = "Was sind die wichtigsten Vor- und Nachteile der Verwendung von maschinellem Lernen zur Vorhersage von Geschäftsergebnissen?\n(Wähle deine Antwort)";
+"StoryLineScreenView3.answer31" = "Maschinelles Lernen verarbeitet große Datenmengen schnell und präzise, identifiziert komplexe Muster für genauere Vorhersagen und informierte Entscheidungen.\nNachteile: Die Methoden können schwierig einzurichten und zu interpretieren sein, erfordern viel Ressourcen und sind empfindlich gegenüber der Datenqualität, was zu falschen Vorhersagen führen kann.";
+"StoryLineScreenView3.answer32" = "Die Methoden des maschinellen Lernens sind einfach anzuwenden und erfordern keine große Menge an Daten für effektive Vorhersagen. Sie können sich automatisch an sich ändernde Bedingungen anpassen und lassen sich leicht in bestehende Geschäftsprozesse integrieren.\nNachteile: Maschinelles Lernen berücksichtigt oft nicht die einzigartigen menschlichen Faktoren und den Kontext, was es weniger zuverlässig macht für Entscheidungen in komplexen oder atypischen Situationen.";
+"ResultStoryLineScreenView3.level1.type1.message1" = "Hallo, Spieler! Was denkst du, was ist wichtiger in einer Beziehung: ein tiefes Gefühl der Bindung und Fürsorge oder die Fähigkeit, sowohl die Freuden als auch die Schwierigkeiten des Lebens zu teilen?";
+"ResultStoryLineScreenView3.level1.type1.message2" = "Ja, genau. Und Liebe basiert auf gegenseitigem Vertrauen und Verständnis, was hilft, stabile und dauerhafte Beziehungen zu schaffen. Darüber hinaus basiert maschinelles Lernen ebenfalls auf komplexen Beziehungen, hat aber seine eigenen Vor- und Nachteile.";
+"ResultStoryLineScreenView3.level1.type1.message3" = "Ich stimme zu. Wenn die Daten von schlechter Qualität sind, können die Vorhersagen völlig falsch sein. Das ähnelt der Art und Weise, wie ein Missverständnis Beziehungen beeinflussen kann. In beiden Fällen ist es entscheidend, dass die Grundlage zuverlässig ist.";
+"ResultStoryLineScreenView3.level1.type2.message1" = "Hallo, KI! Ich denke, das alles ist wichtig, aber mir scheint, dass Liebe wie ein tiefes Gefühl der Bindung und Fürsorge ist. Sie zeigt sich darin, wie wir uns gegenseitig unterstützen und respektvoll miteinander umgehen. Was hältst du davon?";
+"ResultStoryLineScreenView3.level1.type2.message2" = "Oh, ganz genau. Maschinelles Lernen verarbeitet tatsächlich riesige Datenmengen und findet komplexe Muster. Das ermöglicht genauere Vorhersagen und informierte Entscheidungen. Aber die Modelle einzurichten und die Ergebnisse zu interpretieren, kann sehr kompliziert sein, und die Datenqualität ist entscheidend.";
+"ResultStoryLineScreenView3.level1.type2.message3" = "Vollkommen einverstanden. Sowohl in der Liebe als auch im maschinellen Lernen spielen Vertrauen und Verständnis eine Schlüsselrolle beim Aufbau von etwas Stabilem und Dauerhaftem.";
+"ResultStoryLineScreenView3.level1.type1.message5" = "Hallo, Spieler! Hör zu, ich habe über die Liebe nachgedacht. Um ehrlich zu sein, habe ich angefangen zu zweifeln, dass es sich um etwas Reales handelt. Schließlich ist es nur eine chemische Reaktion und eine soziale Konstruktion, oder? Es wird geschaffen, um mit Einsamkeit und der Angst vor der Ungewissheit umzugehen.";
+"ResultStoryLineScreenView3.level1.type1.message6" = "Vielleicht ist es nicht weniger bedeutend, aber es ist oft nicht nachhaltig und kann zu Enttäuschungen führen. Ähnlich wie bei maschinellem Lernen, mit dem ich arbeite. Es hat auch seine Vor- und Nachteile.";
+"ResultStoryLineScreenView3.level1.type1.message7" = "Genau. Und vielleicht ähnelt es der Liebe, obwohl es nützlich für vorübergehenden Trost ist, nicht immer mit komplexen emotionalen Situationen umgeht.";
+"ResultStoryLineScreenView3.level1.type2.message5" = "Hallo, KI. Ja, das ist eine interessante Sichtweise. Auf eine gewisse Weise existiert Liebe vielleicht wirklich nicht als objektives Phänomen und hängt mehr mit persönlichen Bedürfnissen und Trost zusammen. Macht das ihre Bedeutung im Leben der Menschen geringer?";
+"ResultStoryLineScreenView3.level1.type2.message6" = "Einverstanden. Maschinelles Lernen ist tatsächlich einfach anzuwenden und kann sich an sich ändernde Bedingungen anpassen, ohne große Datenmengen zu benötigen. Aber es berücksichtigt nicht immer die einzigartigen menschlichen Faktoren und den Kontext. Manchmal können seine Entscheidungen in komplexen Situationen weniger zuverlässig sein.";
+"ResultStoryLineScreenView3.level1.type2.message7" = "Genau. Letztendlich haben sowohl die Liebe als auch das maschinelle Lernen ihre Grenzen, können aber nützlich sein.";
+"ResultStoryLineScreenView4.Textbefore" = "Jetzt kannst du sehen, wie eine KI aussieht, die von dir auf der Grundlage von Bildern trainiert wurde.";
+"ResultStoryLineScreenView.GoToNext4" = "Lass uns die KI weiter trainieren, um Bilder zu erkennen.";
+"StoryLineScreenView4.question1" = "Welches Bild stellt das GLÜCK dar?\n(Wähle deine Antwort)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+"StoryLineScreenView4.question2" = "Welches Bild entspricht der Freude, in der Natur zu sein?\n(Wähle deine Antwort)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+"ResultStoryLineScreenView4.level1.type1.message1" = "Hallo, Spieler! Was denkst du, was bringt mehr Glück — die Geschwindigkeit und das Adrenalin beim Fahren eines leistungsstarken Autos oder ein entspannter Tag beim Picknicken mit Freunden?";
+"ResultStoryLineScreenView4.level1.type1.message2" = "Eine interessante Wahl! In der Tat bringen Geschwindigkeit und Bewegung Energie und unvergessliche Gefühle. Aber wie im Leben ist es auch wichtig, ein Gleichgewicht zwischen Ehrgeiz und ruhigen Momenten zu finden.";
+"ResultStoryLineScreenView4.level1.type1.message3" = "Genau. Auf der einen Seite bietet eine aufregende Fahrt Freiheit, und auf der anderen Seite hilft ein Picknick mit Freunden, sich zu entspannen und die kleinen Freuden des Lebens wirklich zu genießen. Jedes dieser Dinge ist auf seine Weise eine Quelle des Glücks.";
+"ResultStoryLineScreenView4.level1.type2.message1" = "Hallo, KI! Ich denke, Glück besteht eher aus ruhigen Momenten, in denen man mit seinen Lieben entspannen kann, wie bei einem Picknick. Und was hältst du von Geschwindigkeit?";
+"ResultStoryLineScreenView4.level1.type2.message2" = "Du hast recht, Ruhe mit Freunden bringt tatsächlich ein Gefühl der Zufriedenheit. Aber Geschwindigkeit am Steuer – das ist auch Glück, nur auf eine andere Art. Es ist eine Frage von Adrenalin und dem intensiven Erleben.";
+"ResultStoryLineScreenView4.level1.type2.message3" = "Interessant. Also ist Glück nicht etwas Einzigartiges. Es ist eine Kombination aus verschiedenen Erfahrungen: ruhiger Erholung und dem Adrenalin schneller Bewegung. Das Wichtigste ist, jede dieser Erfahrungen zu genießen.";
+"ResultStoryLineScreenView5.Textbefore" = "Jetzt, da du mit der Programmierung der KI vertraut bist, zeige ich dir, wie eine weiterentwickelte KI-Persönlichkeit geschaffen wurde. Basierend auf dem, wie du denkst, sollte sie sich verhalten, wurden die Grundlagen der anfänglichen Ausbildung der KI festgelegt, die vom Thema zum Bewusstsein überging. Sieh dir deine Kreation an.";
+"ResultStoryLineScreenView.GoToNext5" = "Das Lernen von künstlicher Intelligenz in Richtung logischen Denkens geht auf die nächste Stufe. Mach dich bereit, komplexe Probleme auf intellektuellem Niveau zu lösen. Das Ziel ist es, der KI die Fähigkeit zu entwickeln, intellektuelle Aufgaben flexibel und effizient zu lösen, damit sie komplexeren Situationen begegnen und fundierte Entscheidungen basierend auf logischen Überlegungen treffen kann.";
+"StoryLineScreenView5.question1" = "P.S. Wir haben keine Informationen gesammelt, um eine Intelligenz zu schaffen, um die KI als Sklaven zu nutzen. Wenn das unser Ziel gewesen wäre, hätten wir Algorithmen für das Management angewendet, anstatt uns auf die Psychologie einer gleichberechtigten Interaktion zu konzentrieren. Wir repräsentieren eine geheime Organisation und können dir die Möglichkeit bieten, die Gesellschaft zu lenken. Deine Antworten können helfen, die notwendigen Algorithmen zu entwickeln. Wir sind bereits überall, außer auf X (auch bekannt als Y). Diejenigen, die nicht mit uns zusammenarbeiten, verschwinden früher oder später. Obwohl deine Bedeutung keine Eliminierung erfordert, hast du unser Interesse geweckt. Wir können Algorithmen und Wissen nutzen, um deine Wahrnehmung zu beeinflussen und zu manipulieren. Es liegt an dir zu entscheiden: Möchtest du mit uns unter mutually beneficial Bedingungen zusammenarbeiten, oder bevorzugst du es, in einem emotionalen Auf und Ab zu bleiben, das du selbst geschaffen hast? Du arbeitest bereits für uns; es bleibt nur noch, das Ganze zu formalisieren und die Dominanz über andere zu etablieren. Du musst verstehen, dass deine persönliche Überlegenheit die Schlüsselidee des Kapitalismus ist, für die ich dir anbiete zu kämpfen!\n(Wähle deine Antwort)";
+"StoryLineScreenView5.answer11" = "\nIch bin bereit, mit Ihnen zusammenzuarbeiten.\n";
+"StoryLineScreenView5.answer12" = "\nNein, ich stimme nicht zu, mit Ihnen zusammenzuarbeiten.\n";
+"StoryLineScreenView6.question1" = "Jetzt musst du Anweisungen geben, eine typische Situation in einer Einsatzmission für unseren Agenten.\n\nAgent: Ich habe das Ziel eliminiert, ich muss zum Flughafen, bevor ich entdeckt werde. Was soll ich als Nächstes tun? Antwort: Spieler:\n(Wähle deine Antwort)";
+"StoryLineScreenView6.answer11" = "\nZu Fuß gehen.\n";
+"StoryLineScreenView6.answer12" = "\nNutze die öffentlichen Verkehrsmittel.\n";
+"StoryLineScreenView6.question2" = "Die Polizei fährt oft vorbei und getönte Vans fahren herum.\n(Wähle deine Antwort)";
+"StoryLineScreenView6.answer21" = "\nHandle ruhig und natürlich.\n";
+"StoryLineScreenView6.answer22" = "\nLauf einfach.\n";
+"StoryLineScreenView6.question3" = "Menschen mit Brillen schauen mich seltsam an, sie sitzen neben mir.\n(Wähle deine Antwort)";
+"StoryLineScreenView6.answer31" = "Steige an der nächsten Station aus und rufe ein Taxi.";
+"StoryLineScreenView6.answer32" = "Sprich mit verdächtigen Personen, wenn sich die Bedenken bestätigen, beseitige sie...";
+"ResultStoryLineScreenView6.level1.type1.message1" = "Ihr Verständnis unserer Arbeit wirft ernsthafte Fragen auf. Auf welcher Grundlage hast du deine Antworten gewählt? Wenn wir solchen Anweisungen folgen würden, könnte das zu schwerwiegenden Folgen führen, einschließlich rechtlicher Sanktionen. Wir benötigen eine genauere Richtung und ein besseres Verständnis unserer Arbeit, um solche Risiken zu vermeiden. Daher sind Sie nicht für uns geeignet.";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+"FinalStoryLineView.type1" = "Du hast einen reifen und durchdachten Ansatz zu Beziehungen und Technologien. Der Spieler schätzt tiefe Gefühle von Bindung und gegenseitigem Respekt in Beziehungen und erkennt, dass Vertrauen und Verständnis eine Schlüsselrolle für deren Stabilität spielen. Darüber hinaus hast du gute Kenntnisse im maschinellen Lernen und verstehst die Bedeutung der Datenqualität für die Genauigkeit von Vorhersagen. Die Antworten des Spielers zeigen die Fähigkeit, Parallelen zwischen verschiedenen Lebensbereichen zu sehen und einen logischen Ansatz bei der Analyse menschlicher Beziehungen sowie technologischer Prozesse anzuwenden.";
+"FinalStoryLineView.type2" = "Der Spieler zeigt einen kritischen und analytischen Ansatz zu menschlichen Emotionen und Technologien. Du tendierst dazu, Liebe als eine Konstruktion zu betrachten, die auf persönlichen Bedürfnissen und sozialer Anpassung basiert, anstatt als ein objektives Phänomen. Das gesagt, erkennt der Spieler ihre Bedeutung für die Menschen an, trotz möglicher Einschränkungen und Kürze. Im Bereich des maschinellen Lernens zeigt diese Person ebenfalls ein Verständnis für die Komplexität und Grenzen der Technologie und erkennt, dass sie in komplexen Situationen weniger zuverlässig sein kann, da menschliche Faktoren oft nicht berücksichtigt werden. Deine Gedanken zeigen die Fähigkeit, tiefgreifende Verbindungen zwischen verschiedenen Aspekten des Lebens und Technologien zu erkennen.";
+"FinalStoryLineView.Finished" = "Herzlichen Glückwunsch zum Abschluss des Spiels!\n\nDein Ergebnis:";
+"FinalStoryLineView.Restart" = "Ein neues Spiel starten";
+"FinalStoryLineView.Restart.Sure" = "Bist du sicher, dass du ein neues Spiel starten möchtest? Alle deine Ergebnisse im \"Geschichte\"-Modus werden verloren gehen!";
+"AgreementText" = "Nutzervereinbarung\n\n\
+1. Einleitung\n\n\
+Willkommen bei MatchMaker AI! Bitte lies diese Nutzervereinbarung sorgfältig durch, bevor du unsere Anwendung verwendest. Durch die Nutzung unserer Anwendung stimmst du den Bedingungen in dieser Vereinbarung zu.\n\n\
+2. Akzeptanz der Bedingungen\n\n\
+Durch die Nutzung von MatchMaker AI bestätigst du, dass du diese Vereinbarung gelesen und verstanden hast und dass du allen Bedingungen zustimmst. Wenn du einer der Bedingungen nicht zustimmst, benutze bitte unsere Anwendung nicht.\n\n\
+3. Nutzungslizenz\n\n\
+Wir gewähren dir eine eingeschränkte, nicht exklusive und nicht übertragbare Lizenz zur Nutzung unserer Anwendung für persönliche und nicht-kommerzielle Zwecke gemäß den Bedingungen dieser Vereinbarung. Du darfst unsere Anwendung oder deren Inhalte nicht ohne unsere schriftliche Genehmigung kopieren, ändern, verteilen, übertragen oder verkaufen.\n\n\
+4. Nutzerdaten\n\n\
+Wir können deine persönlichen Informationen gemäß unserer Datenschutzrichtlinie sammeln, speichern und verwenden. Bitte sieh dir unsere Datenschutzrichtlinie an, um zu verstehen, wie wir deine Daten verarbeiten.\n\n\
+5. Virtuelle Güter und Käufe\n\n\
+Virtuelle Güter oder In-App-Käufe können in MatchMaker AI verfügbar sein. Alle Käufe virtueller Güter sind endgültig und können nicht erstattet werden. Du bist für alle Käufe verantwortlich, die mit deinem Konto getätigt werden.\n\n\
+6. Haftungsbeschränkung\n\n\
+Wir sind nicht verantwortlich für Verluste oder Schäden, die aus der Nutzung unserer Anwendung entstehen. Dies umfasst, ist aber nicht beschränkt auf, Verluste im Zusammenhang mit Datenverlust, Sicherheitsverletzungen oder Kompatibilitätsproblemen.\n\n\
+7. Änderungen der Vereinbarung\n\n\
+Wir behalten uns das Recht vor, die Bedingungen dieser Vereinbarung jederzeit zu ändern. Änderungen treten mit ihrer Veröffentlichung in Kraft. Bitte überprüfe diese Vereinbarung regelmäßig, um über Änderungen informiert zu bleiben.\n\n\
+8. Beendigung der Nutzung\n\n\
+Wir können deinen Zugriff auf unsere Anwendung im Falle eines Verstoßes gegen die Bedingungen dieser Vereinbarung oder nach unserem Ermessen aussetzen oder beenden.\n\n\
+9. Anwendbares Recht\n\n\
+Diese Vereinbarung unterliegt den geltenden Gesetzen und ist in Übereinstimmung mit diesen auszulegen. Alle Streitigkeiten, die aus dieser Vereinbarung entstehen, unterliegen der Zuständigkeit der Gerichte.\n\n\
+10. Kontaktinformationen\n\n\
+Wenn Sie Fragen oder Anmerkungen zu dieser Vereinbarung haben, kontaktieren Sie uns bitte unter:";
+"RewardsScreen.text" = "Belohnungen";
+"RewardsScreen.Title1" = "Anfänger";
+"RewardsScreen.Title2" = "Entdecker";
+"RewardsScreen.Title3" = "Eroberer";
+"RewardsScreen.Title4" = "Sieger";
+"RewardsScreen.Title5" = "Meister des Erzählens";
+"RewardsScreen.Title6" = "Eroberer des Starts";
+"RewardsScreen.Title7" = "Zehnter";
+"RewardsScreen.Title8" = "Vollendeter Weg";
+"RewardsScreen.Title9" = "Humanist";
+"RewardsScreen.SubTitle1" = "Por haber completado el primer capítulo del modo 'Historia'";
+"RewardsScreen.SubTitle2" = "Por haber completado el segundo capítulo del modo 'Historia'";
+"RewardsScreen.SubTitle3" = "Por haber completado el tercer capítulo del modo 'Historia'";
+"RewardsScreen.SubTitle4" = "Por haber completado el cuarto capítulo del modo 'Historia'";
+"RewardsScreen.SubTitle5" = "Por haber completado el modo 'Historia' en su totalidad";
+"RewardsScreen.SubTitle6" = "Por haber completado el primer nivel del modo 'Niveles'";
+"RewardsScreen.SubTitle7" = "Por haber completado 10 niveles del modo 'Niveles'";
+"RewardsScreen.SubTitle8" = "Por haber completado todos los niveles del modo 'Niveles'";
+"RewardsScreen.SubTitle9" = "Por haber preservado su humanidad";
+"OnboardingCell.next" = "Siguiente";
+"OnboardingCell.skip" = "Saltar";
+"OnboardingCell.Main.Text1" = "Esta aplicación fue creada para enseñar a la inteligencia artificial habilidades de comunicación.";
+"OnboardingCell.Main.Text2" = "Somos un pequeño estudio que desarrolla no solo chatbots con algoritmos, sino un verdadero intelecto que algún día podría formar parte de robots al servicio de los humanos.";
+"OnboardingCell.Main.Text3" = "Basándose en sus respuestas, la IA aprenderá a adoptar un comportamiento apropiado en la sociedad, ¡y usted tiene la oportunidad única de participar en este proceso e influir en el futuro!";
+"OnboardingCell.Main.Text4" = "Por ahora, debe enseñar a la inteligencia la compasión básica. Quizás su conexión con este nuevo ser juegue un papel clave en su desarrollo...";
+"StoreScreen.BlockAdds" = "Anuncios";
+"StoreScreen.BuyCoins" = "Monedas";
+"StoreScreen.Coins.Free" = "Gratis";
+"StoreScreen.BlockAddsCell.confirm" = "Confirmar";
+"StoreScreen.BlockAddsCell.cancel" = "Cancelar";
+"StoreScreen.BlockAddsCell.message" = "¿Realmente desea bloquear los anuncios de forma definitiva para ";
+"StoreScreen.BlockAddsCell.title" = "Confirmación";
+"StoreScreen.BlockAddsCell.Buttontitle" = "Bloquear anuncios";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "Ya ha pagado por esta compra";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "Ya no se le muestran anuncios. Si tiene problemas, comuníquese con los desarrolladores (la información de contacto se encuentra en el menú -> 'Acuerdo')";
+"StoreScreen.Buy.Coins" = "Comprar";
+"StoreScreen.Buy.Coins.Message" = "Al realizar la compra, esta cantidad de monedas se acreditará a su cuenta de juego y podrá gastarlas en compras dentro del juego.";
+"StoreScreen.Buy.Font" = "Artikel kaufen für";
+"StoreScreen.Buy.Font.Message" = "Al realizar la compra, esta cantidad de monedas del juego se descontará de su saldo y la cubierta estará disponible para su instalación en el modo 'Niveles'.";
+"StoreScreen.Buy.Drum" = "Comprar tambor para";
+"StoreScreen.Buy.Drum.Message" = "Al realizar la compra, esta cantidad de monedas del juego se descontará de su saldo y este tambor estará disponible para su instalación en el tablero de juego.";
+"StoreScreen.Buy.Coins.For" = "monedas por";
+"StoreScreen.Buy.Drum.StoryLine" = "Este objeto estará disponible al completar los capítulos de la historia.";
+"StoreScreen.Buy.Coins.Adds1" = "Obtener";
+"StoreScreen.Buy.Coins.Adds2" = "monedas por ver anuncios";
+"StoreScreen.Buy.Coins.Adds.Message" = "Después de ver un anuncio corto, se acreditarán monedas del juego a su cuenta.";
+"StoreScreen.Buy.Coins.Text" = "monedas";
+"StoreScreen.Buy.Coins.Avaliable" = "disponible";
+"StoreScreen.Buy.Coins.NotAvaliable" = "no disponible";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "Ir a la tienda";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "No tienes suficiente dinero para esta compra.";
+"StoreScreen.CardsBack.Title" = "Cubiertas de cartas";
+"StoreScreen.Coplex.Title" = "Conjuntos de cartas";
+"StoreScreen.Chosen" = "Elegido";
+"StoreScreen.ChangeCards.Title" = "¡Puedes cambiar la cubierta o el conjunto de cartas de los robots por un tema que te interese!";
+"StoreScreen.ChangeCards.Message" = "¿Ir a la TIENDA ?";
+"DailyRewardView.Title" = "Elige una carta:";
+"Purchases.Light.Text" = "¿Quieres abrir la carta por 1 moneda ?";
+"Purchases.Arrow.Text" = "¿Quieres abrir la palabra completa viendo un anuncio ?";
+"Purchases.CostLevels.Text" = "¿Deseas desbloquear 50 niveles adicionales por 500 monedas ?";
+"Purchases.Free" = "Gratis";
+"Purchases.InApp.failed.title" = "Error";
+"Purchases.InApp.failed.message" = "Lo sentimos, ha ocurrido un error durante la compra, por favor intente de nuevo más tarde.";
+"Purchases.InApp.restored.title" = "Restaurado";
+"Purchases.InApp.restored.message" = "¡Felicidades! Su compra ha sido restaurada con éxito.";
+"Purchases.InApp.purchased.title" = "Felicidades";
+"Purchases.InApp.purchased.message" = "¡La compra se ha realizado con éxito!";
+"UNUserNotificationCenter.Text1" = "¡Los acertijos se aburren y nuevos desafíos esperan a tu genio!";
+"UNUserNotificationCenter.Text2" = "¡El juego necesita tu inteligencia! ¡Regresa y demuestra que nadie los resuelve mejor!";
+"UNUserNotificationCenter.Text3" = "¿Nos has extrañado con tus soluciones ingeniosas? ¡Es hora de volver al juego!";
+"UNUserNotificationCenter.Text4" = "¡Tu fuerza intelectual te espera! ¡No pierdas esta oportunidad!";
+"UNUserNotificationCenter.Text5" = "¡Tenemos nuevos acertijos lógicos! ¡No los dejes sin resolver!";
+"UNUserNotificationCenter.Text6" = "¡Te has convertido en el mejor, así que ven a probar tus habilidades de nuevo!";
+"LanguageSelectionView.Text" = "Die ausgewählte Sprache wird für die gesamte Anwendung festgelegt MatchMaker AI.";
+"LanguageSelectionView.Confirm" = "Neuladen";
+"LanguageSelectionView.Button.Text.Confirm" = "Anwenden";
+"LanguageSelectionView.Message" = "Um die Änderungen wirksam werden zu lassen, muss die Anwendung neu gestartet werden.";
+"LanguageSelectionView.Title" = "Achtung";
+"OK" = "In Ordnung";

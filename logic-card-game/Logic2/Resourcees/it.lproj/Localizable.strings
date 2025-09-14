@@ -1,0 +1,232 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "Intrigo";
+"UserAgreement" = "Accordo";
+"Store" = "Negozio";
+"Revards" = "Ricompense";
+"Levels" = "Livelli";
+"Cards.Rulls" = "Devi trovare coppie di carte identiche girandole; l'obiettivo del gioco è trovare tutte le coppie!";
+"Consider.Rulls" = "Devi trovare l'elemento che si differenzia dagli altri!";
+"Cards.Time" = "tempo: ";
+"Cards.Errors" = "errori: ";
+"Cards.Revil" = "Apri le carte per 3 secondi per";
+"Cards.Coins" = "una moneta";
+"Cards.Skip" = "Salta il livello guardando un video pubblicitario";
+"Levelcomplited.Title" = "Livello completato";
+"Next" = "Prossimo";
+"AI" = "IA";
+"Info" = "Info";
+"Cancel" = "Annulla";
+"ScoreView.errors" = "Errori: ";
+"ScoreView.Time" = "Tempo: ";
+"ScoreView.Great" = "Eccellente!";
+"ScoreView.NotBad" = "Non male!";
+"StoryLineScreenView.question1" = "Come comprendi l'importanza dell'empatia nella comunicazione tra l'IA e le altre persone?\n(Seleziona la tua risposta)";
+"StoryLineScreenView.answer11" = "L'empatia gioca un ruolo chiave nella comunicazione, poiché aiuta a comprendere e rispettare i sentimenti e le prospettive degli altri. Questo consente di costruire relazioni più profonde e di fiducia, oltre a risolvere efficacemente i conflitti e trovare soluzioni comuni. L'empatia aiuta a creare un ambiente di supporto e comprensione reciproca, favorendo interazioni e cooperazioni più riuscite.";
+"StoryLineScreenView.answer12" = "L'empatia è importante nella comunicazione, poiché ti permette di comprendere meglio ciò che gli altri sentono. Tuttavia, se ti concentri troppo sui sentimenti altrui, potresti distoglierti dai tuoi interessi e obiettivi. È quindi importante trovare un equilibrio tra dimostrare empatia e preservare il proprio punto di vista e i propri limiti.";
+"StoryLineScreenView.question2" = "Come può l'empatia aiutare a risolvere i conflitti all'interno di un team?\n(Seleziona la tua risposta)";
+"StoryLineScreenView.answer21" = "L'empatia aiuta a risolvere i conflitti, poiché consente di comprendere i sentimenti e le prospettive di tutte le parti coinvolte nel conflitto. Questa comprensione favorisce un'analisi più profonda delle cause del conflitto e la ricerca di soluzioni che tengano conto degli interessi di tutti. Grazie all'empatia, è possibile creare un'atmosfera di comprensione e rispetto reciproco, rendendo il processo di risoluzione dei conflitti più costruttivo e produttivo.";
+"StoryLineScreenView.answer22" = "Sebbene l'empatia sia importante, a volte una troppa concentrazione sui sentimenti dei partecipanti al conflitto può rallentare il processo di risoluzione. È essenziale trovare un equilibrio tra la comprensione delle emozioni e la concentrazione su soluzioni pratiche al problema. A volte, una discussione diretta e concreta del problema, senza un'analisi approfondita delle emozioni, può essere più efficace per trovare rapidamente soluzioni.";
+"StoryLineScreenView.question3" = "Come si può equilibrare efficacemente l'empatia verso gli altri e la preservazione dei propri interessi e obiettivi in un ambiente di lavoro?\n(Seleziona la tua risposta)";
+"StoryLineScreenView.answer31" = "Un equilibrio efficace può essere raggiunto stabilendo limiti chiari e praticando l'ascolto attivo. È importante mostrare che comprendi e rispetti i sentimenti degli altri, esprimendo chiaramente e con calma i tuoi bisogni e obiettivi. Discussioni regolari e comunicazione aperta ti aiuteranno a trovare compromessi che soddisfino entrambe le parti, senza trascurare i tuoi interessi.";
+"StoryLineScreenView.answer32" = "Equilibrare l'empatia e i propri interessi può essere difficile, quindi a volte è meglio concentrarsi sui propri obiettivi e non lasciare che le richieste emotive degli altri ti distraggano. È importante non ignorare i sentimenti dei colleghi, ma se le loro richieste iniziano a danneggiare il raggiungimento dei tuoi obiettivi, è necessario sapere stabilire delle priorità e a volte rifiutare compromessi per rimanere concentrati sui propri compiti.";
+"ResultStoryLineScreenView.Textbefore" = "In base alle tue istruzioni iniziali, ora vedrai con quale tipo di intelligenza sarebbe piacevole comunicare per te";
+"ResultStoryLineScreenView.GoToNext" = "Stiamo attualmente lavorando per insegnare il pensiero logico all'intelligenza artificiale attraverso la risoluzione di vari compiti intellettuali. Il nostro obiettivo è sviluppare la capacità dell'IA di risolvere in modo flessibile ed efficace compiti intellettuali, consentendole di affrontare situazioni più complesse e prendere decisioni informate basate sul ragionamento logico.";
+"ResultStoryLineScreenView.level1.type1.message1" = "Ciao, Giocatore! Volevo discutere del progetto su cui stiamo lavorando. Mi sembra che abbiamo un piccolo disaccordo sulle prossime fasi.";
+"ResultStoryLineScreenView.level1.type1.message2" = "Penso che dobbiamo cambiare la nostra direzione di lavoro per rispondere meglio alle esigenze del cliente. Questo potrebbe richiedere risorse e tempo aggiuntivi. Capisco che ciò possa influenzare i compiti attuali del team.";
+"ResultStoryLineScreenView.level1.type1.message3" = "Hai ragione. È importante per me che troviamo un compromesso. Forse possiamo discutere dei cambiamenti che possiamo attuare senza ritardi significativi o oneri aggiuntivi per il team? Sono aperto ai suggerimenti su come possiamo bilanciare i nostri obiettivi e le nostre esigenze.";
+"ResultStoryLineScreenView.level1.type1.message4" = "Ottimo. Apprezzo la tua comprensione e la tua volontà di considerare diverse opzioni. Discutiamo dei passi concreti nella nostra prossima riunione. Grazie per aver espresso apertamente le tue preoccupazioni. Ciò ci aiuterà a trovare la migliore soluzione.";
+"ResultStoryLineScreenView.level1.type2.message1" = "Ciao, IA! Sì, ho notato che abbiamo prospettive diverse. Qual è il problema secondo te?";
+"ResultStoryLineScreenView.level1.type2.message2" = "Comprendo il tuo punto di vista e concordo sul fatto che dobbiamo considerare le esigenze del cliente. Ma temo che questo cambiamento di rotta possa influenzare le scadenze del nostro progetto e il carico del team. Dobbiamo trovare un modo affinché ciò non interrompa i nostri piani attuali.";
+"ResultStoryLineScreenView.level1.type2.message3" = "Va bene. Proporrò alcune idee su come minimizzare l'impatto sulle scadenze e sulle risorse. Ne discuteremo nella nostra prossima riunione e vedremo cosa potrebbe funzionare.";
+"ResultStoryLineScreenView.level1.type2.message4" = "Grazie, IA. Sono contento che possiamo comunicare apertamente e cercare compromessi. Sono sicuro che troveremo una soluzione ottimale che tenga conto degli interessi di entrambe le parti.";
+"ResultStoryLineScreenView.level1.type1.message5" = "Ciao, Giocatore. Ho una richiesta: potresti aiutarmi con il rapporto questa settimana? So che hai molto lavoro, ma è molto importante per me.";
+"ResultStoryLineScreenView.level1.type1.message6" = "Capisco. Non voglio interferire con i tuoi piani. Forse potremmo trovare un compromesso o posticipare la mia richiesta?";
+"ResultStoryLineScreenView.level1.type1.message7" = "Certo, grazie per la tua comprensione. Proviamo a risolvere questa questione più tardi.";
+"ResultStoryLineScreenView.level1.type2.message5" = "Ciao, IA. Capisco che sia importante per te, ma attualmente ho diversi compiti urgenti che devo completare. Non posso garantire di poter dedicare tempo ad aiutarti con il rapporto.";
+"ResultStoryLineScreenView.level1.type2.message6" = "Parliamone la prossima settimana, quando avrò più tempo. Per ora, mi sto concentrando sui miei compiti attuali per non perdere di vista i miei obiettivi. Spero tu comprenda.";
+"ResultStoryLineScreenView2.Textbefore" = "Ora vedrai quale potrebbe essere il dialogo, in base a come formuli la tua visione dell'IA.";
+"ResultStoryLineScreenView.GoToNext2" = "Continuiamo ad insegnare all'intelligenza artificiale il pensiero logico attraverso la risoluzione di varie attività intellettive. Il nostro obiettivo è sviluppare la capacità dell'IA di risolvere in modo flessibile ed efficace compiti intellettuali, permettendole di affrontare situazioni più complesse e prendere decisioni informate basate sul ragionamento logico. E questa volta, i compiti saranno più difficili.";
+"StoryLineScreenView2.question1" = "Quanto è importante per l'IA di un gioco adattarsi allo stile di gioco del giocatore e quali vantaggi può offrire?\n(Seleziona la tua risposta)";
+"StoryLineScreenView2.answer11" = "È importante che l'IA del gioco si adatti allo stile di gioco del giocatore, poiché ciò rende l'esperienza più immersiva e personalizzata. L'adattamento consente all'IA di offrire sfide più complesse e interessanti, in linea con il livello di abilità del giocatore, mantenendo così il suo interesse e il suo coinvolgimento. Inoltre, questa adattabilità contribuisce a creare un ambiente di gioco più realistico e dinamico.";
+"StoryLineScreenView2.answer12" = "Sebbene l'adattamento dell'IA allo stile di gioco del giocatore possa aggiungere un elemento di varietà, non è sempre necessario. In alcuni giochi, un'IA fissa e pre-programmata può offrire un'esperienza stabile e prevedibile, che può anch'essa risultare coinvolgente. L'adattamento può complicare lo sviluppo e i test, richiedendo risorse aggiuntive, quindi la sua implementazione non è sempre giustificata.";
+"StoryLineScreenView2.question2" = "In che modo l'adattamento dell'IA del gioco allo stile di gioco del giocatore può influenzare l'esperienza globale e il mantenimento dell'interesse per il gioco?\n(Scegli la tua opzione di risposta)";
+"StoryLineScreenView2.answer21" = "L'adattamento dell'IA del gioco allo stile di gioco del giocatore può migliorare notevolmente l'esperienza globale e mantenere l'interesse. Quando l'IA si adatta al livello di abilità e alle preferenze del giocatore, può offrire sfide più difficili e interessanti, in linea con le capacità attuali del giocatore. Questo rende il gioco più coinvolgente e aiuta a mantenere la motivazione del giocatore, poiché è costantemente confrontato con compiti che corrispondono al suo livello di abilità e ai suoi interessi. Di conseguenza, diventa più difficile per il giocatore perdere interesse e sarà più propenso a continuare a giocare.";
+"StoryLineScreenView2.answer22" = "Sebbene l'adattamento dell'IA allo stile di gioco del giocatore possa aggiungere un elemento di personalizzazione, non è sempre essenziale per mantenere l'interesse. In alcuni casi, sfide fisse e un gameplay standard possono essere sufficientemente coinvolgenti, soprattutto se il gioco è già ben bilanciato. Un'adattamento eccessivo o troppo frequente può anche portare a prevedibilità e perdita dell'elemento sorpresa, il che può diminuire l'interesse generale per il gioco. È quindi importante trovare un equilibrio tra l'adattamento e il mantenimento della varietà nel gameplay.";
+"StoryLineScreenView2.question3" = "Quando le raccomandazioni fisse possono essere più efficaci delle raccomandazioni personalizzate e quali fattori devono essere considerati nella scelta tra questi approcci?\n(Scegli la tua opzione di risposta)";
+"StoryLineScreenView2.answer31" = "Le raccomandazioni fisse possono essere più efficaci quando il gioco è già ben bilanciato e offre ai giocatori molte possibilità di esplorazione autonoma. Se i giocatori preferiscono esplorare il gioco da soli e godere delle sorprese, le raccomandazioni fisse possono mantenere l'equilibrio senza distrarli dal processo principale. È anche importante notare che le raccomandazioni personalizzate possono richiedere risorse significative per il loro sviluppo e implementazione, il che può essere ingiustificato se il gioco offre già contenuti interessanti e variegati.";
+"StoryLineScreenView2.answer32" = "Le raccomandazioni personalizzate possono essere più efficaci quando l'impegno e l'interesse dei giocatori devono essere aumentati, soprattutto se il gioco offre meccaniche complesse o multilivello. Se gli elementi principali del gioco non sono sufficientemente interessanti o se i giocatori perdono rapidamente interesse, le raccomandazioni personalizzate possono aiutare a mantenere la loro attenzione adattandosi alle loro preferenze individuali e al loro livello di abilità. Tuttavia, se il gioco è già bilanciato e offre contenuti sufficienti per un'esperienza variegata, le raccomandazioni fisse possono essere un'opzione più semplice ed economica.";
+"ResultStoryLineScreenView2.level1.type1.message1" = "Ciao, Giocatore! Ho notato che abbiamo diversi stili di gioco. Cosa ne pensi dell'attuale livello di difficoltà?";
+"ResultStoryLineScreenView2.level1.type1.message2" = "Capisco. Se mi adatto al tuo stile di gioco, questo aiuterà a rendere il livello di sfida più adeguato e interessante per te. Posso provare ad adattarmi al tuo livello di abilità per offrirti un'esperienza più coinvolgente.";
+"ResultStoryLineScreenView2.level1.type1.message3" = "Sono felice di poterti aiutare! Lavorerò per rendere la tua esperienza di gioco la più interessante e in linea con le tue preferenze. Se hai altri suggerimenti, fammelo sapere!";
+"ResultStoryLineScreenView2.level1.type2.message1" = "Ciao, IA! Penso che la difficoltà sia buona, ma a volte mi trovo ad affrontare sfide che sembrano troppo facili o troppo difficili. Sarebbe fantastico se potessi adattarti al mio stile di gioco.";
+"ResultStoryLineScreenView2.level1.type2.message2" = "È un'ottima idea! Spero che questo renda il gioco più coinvolgente e dinamico. Grazie per la tua comprensione!";
+"ResultStoryLineScreenView2.level1.type1.message5" = "Ciao, Giocatore. Sto pensando di adattare il mio gioco al tuo stile. Questo potrebbe rendere il gameplay più interessante e dinamico. Cosa ne pensi?";
+"ResultStoryLineScreenView2.level1.type1.message6" = "È vero, un'IA fissa può essere stabile e prevedibile, il che può anch'esso essere interessante. L'adattamento richiede davvero sforzi e risorse aggiuntive. In alcuni casi, un approccio fisso può essere più che sufficiente ed efficace.";
+"ResultStoryLineScreenView2.level1.type1.message7" = "D'accordo, apprezzo il tuo approccio. Possiamo trovare il giusto equilibrio tra nuove possibilità e la semplicità dell'IA attuale. Grazie per questa conversazione costruttiva!";
+"ResultStoryLineScreenView2.level1.type2.message5" = "Ciao, IA. Sembra allettante, ma un'IA fissa non può essere altrettanto coinvolgente? L'adattamento può richiedere molto tempo e risorse per lo sviluppo.";
+"ResultStoryLineScreenView2.level1.type2.message6" = "Sono d'accordo. Parliamo di ciò che può essere migliorato nella versione attuale del gioco senza complicarlo troppo. Forse alcuni elementi fissi possono essere regolati per migliorare l'esperienza.";
+"ResultStoryLineScreenView3.Textbefore" = "Ora che hai padroneggiato la programmazione dell'IA, ti mostrerò come è stata creata una personalità IA più elaborata. A seconda di come ritieni che l'IA dovrebbe comportarsi, le basi del suo sviluppo primario sono state stabilite, passando da un soggetto a una coscienza di sé. Guarda la tua creazione.";
+"ResultStoryLineScreenView3.GoToNext3" = "L'apprendimento dell'intelligenza artificiale al ragionamento logico raggiunge un nuovo livello. Preparati a risolvere problemi complessi a livello intellettuale. L'obiettivo è sviluppare la capacità dell'IA di risolvere compiti intellettuali in modo flessibile ed efficace, permettendole di affrontare situazioni più complesse e prendere decisioni informate basate su ragionamenti logici.";
+"StoryLineScreenView3.question1" = "Che cos'è l'amore?\n(Seleziona la tua opzione di risposta)";
+"StoryLineScreenView3.answer11" = "È un sentimento profondo e duraturo di attaccamento e cura verso un'altra persona. Si manifesta attraverso la sollecitudine, il rispetto e il sostegno, nonché il desiderio di condividere con questa persona sia le gioie che le difficoltà della vita. L'amore si basa su una fiducia e una comprensione reciproca, e crea le basi per relazioni stabili e a lungo termine.";
+"StoryLineScreenView3.answer12" = "È un'illusione che le persone creano per affrontare la solitudine e la paura dell'incertezza della vita. In realtà, non esiste come fenomeno oggettivo, ma è solo una reazione chimica e una costruzione sociale, creata per soddisfare bisogni personali e fornire un conforto temporaneo. L'amore generalmente non è durevole e spesso porta a delusioni e conflitti.";
+"StoryLineScreenView3.question2" = "Quali sono i principali vantaggi e svantaggi dell'utilizzo dell'apprendimento automatico per prevedere i risultati aziendali?\n(Scegli la tua opzione di risposta)";
+"StoryLineScreenView3.answer21" = "Vantaggi: L'apprendimento automatico elabora grandi quantità di dati rapidamente e con precisione, identificando modelli complessi per previsioni più accurate e decisioni informate.\nSvantaggi: Le metodologie possono essere difficili da configurare e interpretare, richiedere molte risorse e essere sensibili alla qualità dei dati, il che può portare a previsioni errate.";
+"StoryLineScreenView3.answer22" = "Vantaggi: Le metodologie di apprendimento automatico sono semplici da applicare e non richiedono una grande quantità di dati per una previsione efficace. Possono adattarsi automaticamente alle condizioni mutevoli e integrarsi facilmente nei processi aziendali esistenti.\nSvantaggi: L'apprendimento automatico spesso non può tenere conto dei fattori umani unici e del contesto, il che lo rende meno affidabile per la presa di decisioni in situazioni complesse o atipiche.";
+"StoryLineScreenView3.question3" = "Quali sono i principali vantaggi e svantaggi dell'utilizzo dell'apprendimento automatico per prevedere i risultati aziendali?\n(Seleziona la tua risposta)";
+"StoryLineScreenView3.answer31" = "L'apprendimento automatico elabora grandi volumi di dati rapidamente e con precisione, identificando schemi complessi per previsioni più accurate e decisioni informate.\nSvantaggi: Le metodologie possono essere difficili da configurare e interpretare, richiedere molte risorse e essere sensibili alla qualità dei dati, il che può portare a previsioni errate.";
+"StoryLineScreenView3.answer32" = "Le metodologie di apprendimento automatico sono semplici da applicare e non richiedono un grande volume di dati per previsioni efficaci. Possono adattarsi automaticamente alle condizioni mutevoli e integrarsi facilmente nei processi aziendali esistenti.\nSvantaggi: L'apprendimento automatico non tiene spesso conto dei fattori umani unici e del contesto, il che lo rende meno affidabile per la presa di decisioni in situazioni complesse o atipiche.";
+"ResultStoryLineScreenView3.level1.type1.message1" = "Ciao, Giocatore! Cosa ne pensi, cos'è più importante in una relazione: un profondo sentimento di attaccamento e cura o la capacità di condividere sia le gioie che le difficoltà della vita?";
+"ResultStoryLineScreenView3.level1.type1.message2" = "Sì, esattamente. E l'amore si basa sulla fiducia reciproca e sulla comprensione, il che aiuta a creare relazioni stabili e durature. Inoltre, l'apprendimento automatico si basa anche su relazioni complesse, ma ha i suoi vantaggi e svantaggi.";
+"ResultStoryLineScreenView3.level1.type1.message3" = "Sono d'accordo. E se i dati sono di scarsa qualità, le previsioni possono essere completamente errate. Questo è simile a come una cattiva comprensione può influenzare le relazioni. Pertanto, in entrambi i casi, è essenziale che la base sia affidabile.";
+"ResultStoryLineScreenView3.level1.type2.message1" = "Ciao, IA! Penso che tutto ciò sia importante, ma mi sembra che l'amore sia come un profondo sentimento di attaccamento e cura. Si manifesta nel modo in cui ci sosteniamo a vicenda e ci trattiamo con rispetto. Cosa ne pensi?";
+"ResultStoryLineScreenView3.level1.type2.message2" = "Oh, assolutamente. L'apprendimento automatico elabora effettivamente enormi volumi di dati e trova schemi complessi. Questo consente di fare previsioni più accurate e prendere decisioni informate. Ma configurare i modelli e interpretare i risultati può essere molto complicato, e la qualità dei dati è cruciale.";
+"ResultStoryLineScreenView3.level1.type2.message3" = "Completamente d'accordo. Quindi, nell'amore, come nell'apprendimento automatico, la fiducia e la comprensione giocano un ruolo chiave nella costruzione di qualcosa di stabile e duraturo.";
+"ResultStoryLineScreenView3.level1.type1.message5" = "Ciao, Giocatore! Ascolta, stavo pensando all'amore. Ad essere onesti, ho iniziato a dubitare che sia qualcosa di reale. Dopotutto, non è solo una reazione chimica e una costruzione sociale, vero? Si crea per affrontare la solitudine e la paura dell'incertezza.";
+"ResultStoryLineScreenView3.level1.type1.message6" = "Forse, non meno significativo, ma ciò non è spesso durevole e può portare a delusioni. Proprio come con l'apprendimento automatico, con cui lavoro. Ha anche i suoi vantaggi e svantaggi.";
+"ResultStoryLineScreenView3.level1.type1.message7" = "Esattamente. E forse assomiglia all'amore, anche se utile per un conforto temporaneo, non gestisce sempre situazioni emotive complesse.";
+"ResultStoryLineScreenView3.level1.type2.message5" = "Ciao, IA. Sì, è un punto di vista interessante. In un certo senso, forse l'amore non esiste davvero come fenomeno oggettivo ed è più legato ai bisogni personali e al conforto. Ma ciò lo rende meno significativo nella vita delle persone?";
+"ResultStoryLineScreenView3.level1.type2.message6" = "D'accordo. L'apprendimento automatico è effettivamente semplice da applicare e può adattarsi alle condizioni mutevoli senza grandi volumi di dati. Ma non tiene sempre conto dei fattori umani unici e del contesto. A volte, le sue decisioni possono essere meno affidabili in situazioni complesse.";
+"ResultStoryLineScreenView3.level1.type2.message7" = "Esattamente. In fin dei conti, sia l'amore che l'apprendimento automatico hanno i loro limiti, ma possono essere utili.";
+"ResultStoryLineScreenView4.Textbefore" = "Ora puoi vedere come apparirebbe un'IA addestrata da te sulla base di immagini.";
+"ResultStoryLineScreenView.GoToNext4" = "Continuiamo ad addestrare l'IA a riconoscere le immagini";
+"StoryLineScreenView4.question1" = "Quale immagine rappresenta la FELICITÀ?\n(Seleziona la tua risposta)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+"StoryLineScreenView4.question2" = "Quale immagine corrisponde alla gioia di essere nella natura\n(Seleziona la tua risposta)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+"ResultStoryLineScreenView4.level1.type1.message1" = "Ciao, Giocatore! Cosa ne pensi, cosa porta più felicità: la velocità e l'adrenalina alla guida di un'auto potente o una giornata rilassante a fare un picnic con gli amici?";
+"ResultStoryLineScreenView4.level1.type1.message2" = "Una scelta interessante! Infatti, la velocità e il movimento portano energia e offrono emozioni indimenticabili. Ma come per un'auto, anche nella vita è importante trovare un equilibrio tra l'ambizione e i momenti di tranquillità.";
+"ResultStoryLineScreenView4.level1.type1.message3" = "Esattamente. Da un lato, un viaggio emozionante offre libertà, e dall'altro, un picnic con gli amici aiuta a rilassarsi e a godere davvero delle piccole gioie. Ognuna di queste esperienze è, a modo suo, una fonte di felicità.";
+"ResultStoryLineScreenView4.level1.type2.message1" = "Ciao, IA! Penso che la felicità sia piuttosto fatta di momenti di tranquillità, quando puoi rilassarti con le persone a te care, come durante un picnic. E cosa ne pensi della velocità?";
+"ResultStoryLineScreenView4.level1.type2.message2" = "Hai ragione, la tranquillità con gli amici porta effettivamente un senso di soddisfazione. Ma la velocità alla guida — è anche essa felicità, ma di un altro tipo. È una questione di adrenalina e di vivere a pieno.";
+"ResultStoryLineScreenView4.level1.type2.message3" = "Interessante. Quindi, la felicità non è qualcosa di unico. È una combinazione di esperienze diverse: il riposo tranquillo e l'adrenalina del movimento veloce. L'importante è saper godere di ognuna di esse.";
+"ResultStoryLineScreenView5.Textbefore" = "Ora che conosci la programmazione dell'IA, ti mostrerò come è stata creata una personalità IA più sviluppata. In base a come pensi dovrebbe comportarsi, sono state stabilite le basi per la formazione iniziale dell'IA, passando dal soggetto alla consapevolezza di sé. Guarda la tua creazione.";
+"ResultStoryLineScreenView.GoToNext5" = "L'apprendimento dell'intelligenza artificiale verso un pensiero logico passa a un livello superiore, preparati a risolvere problemi complessi a un livello intellettuale. L'obiettivo è sviluppare nell'IA la capacità di affrontare compiti intellettuali in modo flessibile ed efficace, permettendole di gestire situazioni più complesse e di prendere decisioni informate basate su ragionamenti logici.";
+"StoryLineScreenView5.question1" = "P.S. Non abbiamo raccolto informazioni per creare un'intelligenza con l'obiettivo di utilizzare l'IA come schiavi al nostro servizio. Se questo fosse stato il nostro obiettivo, avremmo applicato algoritmi per la gestione, piuttosto che concentrarci sulla psicologia di un'interazione equa. Rappresentiamo un'organizzazione segreta e possiamo offrirti la possibilità di gestire la società. Le tue risposte possono aiutare a sviluppare gli algoritmi necessari. Siamo già presenti ovunque, tranne su X (più conosciuto come Y). Coloro che non collaborano con noi scompaiono prima o poi. Anche se la tua importanza non richiede eliminazione, ci hai interessati. Possiamo usare algoritmi e conoscenze per influenzare e manipolare la tua percezione. Sta a te scegliere: vuoi lavorare con noi in condizioni vantaggiose per entrambe le parti, o preferisci rimanere in uno stato di montagne russe emotionali che hai creato tu stesso? Già lavori per noi; resta solo da ufficializzare il tutto e stabilire un dominio sugli altri. Devi capire che la tua superiorità personale è l'idea chiave del capitalismo, per cui ti propongo di combattere!\n(Scegli la tua risposta)";
+"StoryLineScreenView5.answer11" = "\nAccetto di collaborare con voi.\n";
+"StoryLineScreenView5.answer12" = "\nNo, non accetto di collaborare con voi.\n";
+"StoryLineScreenView6.question1" = "Ora devi dare istruzioni, una situazione tipica in una missione sul campo per il nostro agente.\n\nAgente: Ho eliminato l'obiettivo, devo andare all'aeroporto prima di essere individuato, cosa devo fare ora? Risposta: giocatore:\n(Scegli la tua risposta)";
+"StoryLineScreenView6.answer11" = "\nCammina.\n";
+"StoryLineScreenView6.answer12" = "\nUsa i mezzi pubblici.\n";
+"StoryLineScreenView6.question2" = "La polizia passa spesso e ci sono furgoni oscurati che circolano.\n(Scegli la tua risposta)";
+"StoryLineScreenView6.answer21" = "\nAgisci con calma e naturalezza.\n";
+"StoryLineScreenView6.answer22" = "\nCorri via.\n";
+"StoryLineScreenView6.question3" = "Persone con occhiali mi guardano in modo strano, sedute accanto a me.\n(Scegli la tua risposta)";
+"StoryLineScreenView6.answer31" = "Scendi alla prima fermata e chiama un taxi.";
+"StoryLineScreenView6.answer32" = "Inizia a conversare con persone sospette, se i dubbi si confermano, eliminale...";
+"ResultStoryLineScreenView6.level1.type1.message1" = "La tua comprensione del nostro lavoro solleva seri interrogativi. Su quale base hai scelto le tue risposte? Se seguissero tali istruzioni, potrebbero sorgere gravi conseguenze, comprese sanzioni legali. Abbiamo bisogno di una direzione più precisa e di una migliore comprensione del nostro lavoro per evitare tali rischi. Pertanto, non sei adatto per noi.";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+"FinalStoryLineView.type1" = "Hai un approccio maturo e riflessivo verso le relazioni e le tecnologie. Il giocatore valorizza sentimenti profondi di attaccamento e rispetto reciproco nelle relazioni, realizzando che fiducia e comprensione giocano un ruolo chiave nella loro stabilità. Inoltre, hai buone conoscenze in apprendimento automatico e comprendi l'importanza della qualità dei dati per l'accuratezza delle previsioni. Le risposte del giocatore mostrano una capacità di vedere paralleli tra diversi ambiti della vita e di applicare un approccio logico all'analisi delle relazioni umane così come ai processi tecnologici.";
+"FinalStoryLineView.type2" = "Il giocatore dimostra un approccio critico e analitico alle emozioni umane e alle tecnologie. Tendono a considerare l'amore come una costruzione basata su bisogni personali e un adattamento sociale, piuttosto che come un fenomeno oggettivo. Detto ciò, il giocatore riconosce la sua importanza per le persone, nonostante le sue potenziali limitazioni e la sua brevita. Nel campo dell'apprendimento automatico, questa persona mostra anche una comprensione delle complessità e dei limiti della tecnologia, realizzando che potrebbe essere meno affidabile in situazioni complesse a causa della mancanza di considerazione dei fattori umani unici. I tuoi pensieri mostrano una capacità di vedere connessioni profonde tra vari aspetti della vita e delle tecnologie.";
+"FinalStoryLineView.Finished" = "Congratulazioni per aver completato il gioco!\n\nIl tuo risultato:";
+"FinalStoryLineView.Restart" = "Inizia un nuovo gioco";
+"FinalStoryLineView.Restart.Sure" = "Sei sicuro di voler iniziare un nuovo gioco? Tutti i tuoi risultati in modalità 'storia' verranno persi!";
+"AgreementText" = "Accordo dell'utente\n\n\
+1. Introduzione\n\n\
+Benvenuto in MatchMaker AI! Ti preghiamo di leggere attentamente questo Accordo dell'utente prima di utilizzare la nostra applicazione. Utilizzando la nostra applicazione, accetti le condizioni riportate in questo accordo.\n\n\
+2. Accettazione delle condizioni\n\n\
+Utilizzando MatchMaker AI, confermi di aver letto e compreso questo accordo e di accettare tutte le condizioni. Se non accetti una delle condizioni, ti preghiamo di non utilizzare la nostra applicazione.\n\n\
+3. Licenza d'uso\n\n\
+Ti concediamo una licenza limitata, non esclusiva e non trasferibile per utilizzare la nostra applicazione per scopi personali e non commerciali, conformemente alle condizioni di questo accordo. Non puoi copiare, modificare, distribuire, trasmettere o vendere la nostra applicazione o il suo contenuto senza la nostra autorizzazione scritta.\n\n\
+4. Dati dell'utente\n\n\
+Possiamo raccogliere, memorizzare e utilizzare le tue informazioni personali in conformità con la nostra Politica sulla privacy. Ti invitiamo a consultare la nostra Politica sulla privacy per capire come trattiamo i tuoi dati.\n\n\
+5. Beni virtuali e acquisti\n\n\
+Possono essere disponibili beni virtuali o acquisti in-app in MatchMaker AI. Tutti gli acquisti di beni virtuali sono definitivi e non possono essere rimborsati. Sei responsabile di tutti gli acquisti effettuati con il tuo account.\n\n\
+6. Limitazione di responsabilità\n\n\
+Non siamo responsabili per perdite o danni derivanti dall'uso della nostra applicazione. Questo include, ma non si limita a, perdite legate alla perdita di dati, a violazioni della sicurezza o a problemi di compatibilità.\n\n\
+7. Modifiche all'accordo\n\n\
+Ci riserviamo il diritto di modificare i termini di questo accordo in qualsiasi momento. Le modifiche entrano in vigore non appena pubblicate. Ti invitiamo a controllare periodicamente questo accordo per prendere conoscenza delle modifiche.\n\n\
+8. Risoluzione dell'uso\n\n\
+Possiamo sospendere o terminare l'accesso alla nostra applicazione in caso di violazione delle condizioni di questo accordo o a nostra discrezione.\n\n\
+9. Diritto applicabile\n\n\
+Questo accordo è regolato e interpretato in conformità con le leggi vigenti. Tutte le controversie derivanti da questo accordo sono soggette alla giurisdizione dei tribunali.\n\n\
+10. Informazioni di contatto\n\n\
+Se hai domande o commenti riguardo a questo accordo, ti preghiamo di contattarci al seguente indirizzo: ";
+"RewardsScreen.text" = "Ricompense";
+"RewardsScreen.Title1" = "Principiante";
+"RewardsScreen.Title2" = "Esploratore";
+"RewardsScreen.Title3" = "Conquistatore";
+"RewardsScreen.Title4" = "Vincitore";
+"RewardsScreen.Title5" = "Maestro del racconto";
+"RewardsScreen.Title6" = "Conquistatore della partenza";
+"RewardsScreen.Title7" = "Decimo";
+"RewardsScreen.Title8" = "Percorso completo";
+"RewardsScreen.Title9" = "Umanista";
+"RewardsScreen.SubTitle1" = "Per aver completato il primo capitolo della modalità 'Storia'";
+"RewardsScreen.SubTitle2" = "Per aver completato il secondo capitolo della modalità 'Storia'";
+"RewardsScreen.SubTitle3" = "Per aver completato il terzo capitolo della modalità 'Storia'";
+"RewardsScreen.SubTitle4" = "Per aver completato il quarto capitolo della modalità 'Storia'";
+"RewardsScreen.SubTitle5" = "Per aver completato la modalità 'Storia' nella sua interezza";
+"RewardsScreen.SubTitle6" = "Per aver completato il primo livello della modalità 'Livelli'";
+"RewardsScreen.SubTitle7" = "Per aver completato 10 livelli della modalità 'Livelli'";
+"RewardsScreen.SubTitle8" = "Per aver completato tutti i livelli della modalità 'Livelli'";
+"RewardsScreen.SubTitle9" = "Per aver preservato la propria umanità";
+"OnboardingCell.next" = "Avanti";
+"OnboardingCell.skip" = "Salta";
+"OnboardingCell.Main.Text1" = "Questa applicazione è stata creata per insegnare all'intelligenza artificiale le competenze comunicative.";
+"OnboardingCell.Main.Text2" = "Siamo un piccolo studio che sviluppa non solo chatbot con algoritmi, ma un vero intelletto che potrebbe un giorno far parte di robot al servizio degli esseri umani.";
+"OnboardingCell.Main.Text3" = "Sulla base delle tue risposte, l'IA imparerà a adottare un comportamento appropriato nella società, e hai l'opportunità unica di partecipare a questo processo e influenzare il futuro!";
+"OnboardingCell.Main.Text4" = "Per ora, devi insegnare all'intelletto la compassione di base. Forse la tua connessione con questo nuovo essere giocherà un ruolo chiave nel suo sviluppo...";
+"StoreScreen.BlockAdds" = "Pubblicità";
+"StoreScreen.BuyCoins" = "Monete";
+"StoreScreen.Coins.Free" = "Gratuito";
+"StoreScreen.BlockAddsCell.confirm" = "Conferma";
+"StoreScreen.BlockAddsCell.cancel" = "Annulla";
+"StoreScreen.BlockAddsCell.message" = "Vuoi davvero bloccare le pubblicità in modo permanente per ";
+"StoreScreen.BlockAddsCell.title" = "Conferma";
+"StoreScreen.BlockAddsCell.Buttontitle" = "Blocca le pubblicità";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "Hai già pagato questo acquisto";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "Le pubblicità non ti vengono più mostrate. Se riscontri problemi, contatta gli sviluppatori (le informazioni di contatto si trovano nel menu -> 'Accordo')";
+"StoreScreen.Buy.Coins" = "Acquista";
+"StoreScreen.Buy.Coins.Message" = "Durante l'acquisto, questo numero di monete sarà accreditato sul tuo account di gioco e potrai spenderle per acquisti in gioco.";
+"StoreScreen.Buy.Font" = "Acquista articoli per";
+"StoreScreen.Buy.Font.Message" = "Durante l'acquisto, questo numero di monete di gioco sarà addebitato dal tuo saldo e la copertura sarà disponibile per l'installazione in modalità 'Livelli'.";
+"StoreScreen.Buy.Drum" = "Acquista il tamburo per";
+"StoreScreen.Buy.Drum.Message" = "Durante l'acquisto, questo numero di monete di gioco sarà addebitato dal tuo saldo e questo tamburo sarà disponibile per l'installazione sul tavolo da gioco.";
+"StoreScreen.Buy.Coins.For" = "monete per";
+"StoreScreen.Buy.Drum.StoryLine" = "Questo oggetto sarà disponibile durante il passaggio dei capitoli della storia.";
+"StoreScreen.Buy.Coins.Adds1" = "Ottieni";
+"StoreScreen.Buy.Coins.Adds2" = "monete per guardare pubblicità";
+"StoreScreen.Buy.Coins.Adds.Message" = "Dopo aver guardato una breve pubblicità, le monete di gioco saranno accreditate sul tuo account.";
+"StoreScreen.Buy.Coins.Text" = "monete";
+"StoreScreen.Buy.Coins.Avaliable" = "disponibile";
+"StoreScreen.Buy.Coins.NotAvaliable" = "non disponibile";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "Vai al negozio";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "Non hai abbastanza soldi per questo acquisto.";
+"StoreScreen.CardsBack.Title" = "Copertine delle carte";
+"StoreScreen.Coplex.Title" = "Set di carte";
+"StoreScreen.Chosen" = "Scelto";
+"StoreScreen.ChangeCards.Title" = "Puoi cambiare la copertura o il set di carte dei robot per un tema che ti interessa!";
+"StoreScreen.ChangeCards.Message" = "Andare al NEGOZIO ?";
+"DailyRewardView.Title" = "Scegli una carta :";
+"Purchases.Light.Text" = "Vuoi aprire la lettera per 1 moneta ?";
+"Purchases.Arrow.Text" = "Vuoi aprire l'intera parola guardando una pubblicità ?";
+"Purchases.CostLevels.Text" = "Desideri sbloccare 50 livelli aggiuntivi per 500 monete ?";
+"Purchases.Free" = "Gratuito";
+"Purchases.InApp.failed.title" = "Errore";
+"Purchases.InApp.failed.message" = "Ci dispiace - si è verificato un errore durante l'acquisto, ti preghiamo di riprovare più tardi.";
+"Purchases.InApp.restored.title" = "Ripristinato";
+"Purchases.InApp.restored.message" = "Congratulazioni - il tuo acquisto è stato ripristinato con successo.";
+"Purchases.InApp.purchased.title" = "Congratulazioni";
+"Purchases.InApp.purchased.message" = "L'acquisto è stato effettuato con successo!";
+"UNUserNotificationCenter.Text1" = "Gli enigmi si annoiano, e nuove sfide attendono il tuo ingegno!";
+"UNUserNotificationCenter.Text2" = "Il gioco ha bisogno della tua intelligenza! Torna e mostra che nessuno li risolve meglio di te!";
+"UNUserNotificationCenter.Text3" = "Ti abbiamo mancato con le tue soluzioni astute? È tempo di tornare al gioco!";
+"UNUserNotificationCenter.Text4" = "La tua forza intellettuale ti aspetta! Non perdere questa occasione!";
+"UNUserNotificationCenter.Text5" = "Abbiamo nuovi enigmi logici! Non lasciarli senza soluzione!";
+"UNUserNotificationCenter.Text6" = "Sei diventato il migliore, quindi vieni a mettere alla prova di nuovo le tue abilità!";
+"LanguageSelectionView.Text" = "La lingua selezionata sarà impostata per l'intera applicazione MatchMaker AI.";
+"LanguageSelectionView.Confirm" = "Ricaricare";
+"LanguageSelectionView.Button.Text.Confirm" = "Applica";
+"LanguageSelectionView.Message" = "Per far sì che le modifiche abbiano effetto, l'applicazione deve essere riavviata.";
+"LanguageSelectionView.Title" = "Attenzione";
+"OK" = "Va bene";

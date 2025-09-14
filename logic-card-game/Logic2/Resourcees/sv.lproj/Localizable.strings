@@ -1,0 +1,232 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "Intriger";
+"UserAgreement" = "Användaravtal";
+"Store" = "Butik";
+"Revards" = "Belöningar";
+"Levels" = "Nivåer";
+"Cards.Rulls" = "Du måste hitta par av identiska kort genom att vända på dem; spelets mål är att hitta alla par!";
+"Consider.Rulls" = "Du måste hitta det föremål som skiljer sig från de andra!";
+"Cards.Time" = "tid: ";
+"Cards.Errors" = "fel: ";
+"Cards.Revil" = "Visa korten i 3 sekunder för";
+"Cards.Coins" = "ett mynt";
+"Cards.Skip" = "Hoppa över nivån genom att titta på en annonsvideo";
+"Levelcomplited.Title" = "Nivå slutförd";
+"Next" = "Nästa";
+"AI" = "AI";
+"Info" = "Info";
+"Cancel" = "Avbryt";
+"ScoreView.errors" = "Fel: ";
+"ScoreView.Time" = "Tid: ";
+"ScoreView.Great" = "Fantastiskt!";
+"ScoreView.NotBad" = "Inte illa!";
+"StoryLineScreenView.question1" = "Hur förstår du vikten av empati i kommunikationen mellan AI och andra människor?\n(Välj ditt svar)";
+"StoryLineScreenView.answer11" = "Empati spelar en nyckelroll i kommunikationen eftersom det hjälper till att förstå och respektera andras känslor och perspektiv. Detta gör det möjligt att bygga djupare och förtroendefulla relationer, samt lösa konflikter effektivt och hitta gemensamma lösningar. Empati hjälper till att skapa en stödjande och ömsesidigt förstående miljö, vilket främjar mer framgångsrika interaktioner och samarbete.";
+"StoryLineScreenView.answer12" = "Empati är viktigt i kommunikationen eftersom det hjälper dig att bättre förstå vad andra känner. Men om du fokuserar för mycket på andras känslor kan det leda bort dig från dina egna intressen och mål. Det är därför viktigt att hitta en balans mellan att visa empati och bevara din egen synvinkel och dina gränser.";
+"StoryLineScreenView.question2" = "Hur kan empati hjälpa till att lösa konflikter i ett team?\n(Välj ditt svar)";
+"StoryLineScreenView.answer21" = "Empati hjälper till att lösa konflikter eftersom det gör det möjligt att förstå känslor och perspektiv från alla inblandade parter. Denna förståelse främjar en djupare analys av konfliktens orsaker och sökandet efter lösningar som tar hänsyn till allas intressen. Genom empati kan man skapa en atmosfär av förståelse och ömsesidig respekt, vilket gör konfliktlösningen mer konstruktiv och produktiv.";
+"StoryLineScreenView.answer22" = "Även om empati är viktig kan ett alltför stort fokus på deltagarnas känslor ibland sakta ner lösningsprocessen. Det är viktigt att hitta en balans mellan att förstå känslor och fokusera på praktiska lösningar på problemet. Ibland kan en direkt och konkret diskussion om problemet, utan en djupgående analys av känslor, vara mer effektiv för att snabbt hitta lösningar.";
+"StoryLineScreenView.question3" = "Hur kan man på ett effektivt sätt balansera empati mot andra och bibehålla sina egna intressen och mål i en arbetsmiljö?\n(Välj ditt svar)";
+"StoryLineScreenView.answer31" = "En effektiv balans kan uppnås genom att sätta tydliga gränser och praktisera aktivt lyssnande. Det är viktigt att visa att du förstår och respekterar andras känslor samtidigt som du lugnt och tydligt uttrycker dina egna behov och mål. Regelbundna samtal och öppen kommunikation hjälper till att hitta kompromisser som tillfredsställer båda parter, utan att försumma dina egna intressen.";
+"StoryLineScreenView.answer32" = "Att balansera empati och sina egna intressen kan vara svårt, så ibland är det bättre att fokusera på sina mål och inte låta andras känslomässiga krav distrahera dig. Det är viktigt att inte ignorera dina kollegors känslor, men om deras krav börjar hindra dina mål måste du kunna prioritera och ibland avstå från kompromisser för att hålla fokus på dina egna uppgifter.";
+"ResultStoryLineScreenView.Textbefore" = "Baserat på dina initiala instruktioner kommer du nu att se vilken typ av intelligens som skulle vara behaglig för dig att kommunicera med";
+"ResultStoryLineScreenView.GoToNext" = "Vi arbetar för närvarande med att lära AI logiskt tänkande genom att lösa olika intelligensuppgifter. Vårt mål är att utveckla AI:s förmåga att flexibelt och effektivt lösa intellektuella uppgifter, vilket kommer att göra det möjligt för den att hantera mer komplexa situationer och fatta välinformerade beslut baserade på logiskt resonemang.";
+"ResultStoryLineScreenView.level1.type1.message1" = "Hej, Spelare! Jag ville prata om projektet vi arbetar med. Det verkar som om vi har en liten oenighet om de nästa stegen.";
+"ResultStoryLineScreenView.level1.type1.message2" = "Jag tror att vi måste ändra vår arbetsriktning för att bättre möta kundens behov. Detta kan kräva ytterligare resurser och tid. Jag förstår att detta kan påverka teamets nuvarande uppgifter.";
+"ResultStoryLineScreenView.level1.type1.message3" = "Det är rätt. Det är viktigt för mig att vi hittar en kompromiss. Kanske kan vi diskutera de förändringar vi kan genomföra utan större förseningar eller extra belastning på teamet? Jag är öppen för förslag på hur vi kan balansera våra mål och behov.";
+"ResultStoryLineScreenView.level1.type1.message4" = "Utmärkt. Jag uppskattar din förståelse och din vilja att överväga olika alternativ. Låt oss diskutera de konkreta stegen på vårt nästa möte. Tack för att du öppet uttryckte dina bekymmer. Det kommer att hjälpa oss att hitta den bästa lösningen.";
+"ResultStoryLineScreenView.level1.type2.message1" = "Hej, AI! Ja, jag har märkt att vi har olika perspektiv. Vad tycker du är problemet?";
+"ResultStoryLineScreenView.level1.type2.message2" = "Jag förstår din synpunkt och håller med om att vi måste ta hänsyn till kundens behov. Men jag är orolig för att denna förändring kan påverka vårt projekts tidslinje och teamets arbetsbelastning. Vi måste hitta ett sätt att hantera detta utan att störa våra nuvarande planer.";
+"ResultStoryLineScreenView.level1.type2.message3" = "Okej. Jag ska föreslå några idéer om hur vi kan minimera påverkan på tidslinjen och resurserna. Låt oss diskutera det på vårt nästa möte och se vad som kan fungera.";
+"ResultStoryLineScreenView.level1.type2.message4" = "Tack, AI. Jag är glad att vi kan kommunicera öppet och söka kompromisser. Jag är säker på att vi kommer att hitta en optimal lösning som tar hänsyn till båda parters intressen.";
+"ResultStoryLineScreenView.level1.type1.message5" = "Hej, Spelare. Jag har en förfrågan: kan du hjälpa mig med rapporten den här veckan? Jag vet att du har mycket att göra, men det är väldigt viktigt för mig.";
+"ResultStoryLineScreenView.level1.type1.message6" = "Jag förstår. Jag vill inte störa dina planer. Kanske kan vi hitta en kompromiss eller skjuta upp min förfrågan?";
+"ResultStoryLineScreenView.level1.type1.message7" = "Självklart, tack för din förståelse. Låt oss försöka lösa detta senare.";
+"ResultStoryLineScreenView.level1.type2.message5" = "Hej, AI. Jag förstår att det är viktigt för dig, men jag har just nu flera brådskande uppgifter som jag måste slutföra. Jag kan inte garantera att jag har tid att hjälpa dig med rapporten.";
+"ResultStoryLineScreenView.level1.type2.message6" = "Låt oss diskutera detta nästa vecka när jag har mer tid. För tillfället fokuserar jag på mina aktuella uppgifter för att inte förlora sikte på mina mål. Jag hoppas att du förstår.";
+"ResultStoryLineScreenView2.Textbefore" = "Nu kommer du att se hur dialogen kan se ut baserat på hur du formar din syn på AI.";
+"ResultStoryLineScreenView.GoToNext2" = "Vi fortsätter att lära AI logiskt tänkande genom att lösa olika intelligensuppgifter. Vårt mål är att utveckla AI:s förmåga att flexibelt och effektivt lösa intellektuella uppgifter, vilket gör att den kan hantera mer komplexa situationer och fatta välgrundade beslut baserade på logiskt resonemang – och den här gången kommer uppgifterna att vara svårare.";
+"StoryLineScreenView2.question1" = "Hur viktigt är det för spel-AI att anpassa sig till spelarens spelstil, och vilka fördelar kan det ge?\n(Välj ditt svar)";
+"StoryLineScreenView2.answer11" = "Det är viktigt att spel-AI anpassar sig till spelarens spelstil, eftersom det gör upplevelsen mer uppslukande och personlig. Anpassningen gör att AI kan erbjuda mer komplexa och intressanta utmaningar, anpassade efter spelarens färdighetsnivå, vilket håller deras intresse och engagemang uppe. Dessutom bidrar denna anpassningsförmåga till att skapa en mer realistisk och dynamisk spelmiljö.";
+"StoryLineScreenView2.answer12" = "Även om AI-anpassning till spelarens spelstil kan lägga till en variation, är det inte alltid nödvändigt. I vissa spel kan en fast och förprogrammerad AI erbjuda en stabil och förutsägbar upplevelse, som också kan vara engagerande. Anpassning kan komplicera utvecklingen och testningen, vilket kräver ytterligare resurser, så dess implementering är inte alltid motiverad.";
+"StoryLineScreenView2.question2" = "Hur kan spel-AI:ns anpassning till spelarens spelstil påverka den övergripande upplevelsen och bibehållandet av intresset för spelet?\n(Välj ditt svar)";
+"StoryLineScreenView2.answer21" = "Anpassningen av spel-AI till spelarens spelstil kan avsevärt förbättra den övergripande upplevelsen och bibehållandet av intresset. När AI justerar sig till spelarens färdighetsnivå och preferenser, kan den erbjuda svårare och intressantare utmaningar som matchar spelarens nuvarande förmågor. Detta gör spelet mer engagerande och hjälper till att upprätthålla spelarens motivation, eftersom de ständigt ställs inför uppgifter som motsvarar deras kompetensnivå och intressen. Som ett resultat blir det svårare för spelaren att tappa intresset, och de är mer benägna att fortsätta spela.";
+"StoryLineScreenView2.answer22" = "Även om anpassningen av AI till spelarens spelstil kan lägga till en personlig touch, är det inte alltid nödvändigt för att hålla intresset vid liv. I vissa fall kan fasta utmaningar och standardspelupplägg vara tillräckligt engagerande, särskilt om spelet redan är välbalanserat. För ofta eller överdriven anpassning kan också leda till förutsägbarhet och en förlust av överraskningselementet, vilket kan minska det övergripande intresset för spelet. Det är därför viktigt att hitta en balans mellan anpassning och mångfald i spelupplägget.";
+"StoryLineScreenView2.question3" = "När kan fasta rekommendationer vara mer effektiva än personliga rekommendationer, och vilka faktorer bör beaktas vid valet mellan dessa tillvägagångssätt?\n(Välj ditt svar)";
+"StoryLineScreenView2.answer31" = "Fasta rekommendationer kan vara mer effektiva när spelet redan är välbalanserat och erbjuder spelarna många möjligheter till självständig utforskning. Om spelarna föredrar att utforska spelet på egen hand och njuta av överraskningarna, kan fasta rekommendationer bibehålla balansen utan att distrahera dem från den huvudsakliga processen. Det är också värt att notera att personliga rekommendationer kan kräva stora resurser för utveckling och implementering, vilket kan vara omotiverat om spelet redan erbjuder ett intressant och varierat innehåll.";
+"StoryLineScreenView2.answer32" = "Personliga rekommendationer kan vara mer effektiva när spelarnas engagemang och intresse behöver ökas, särskilt om spelet erbjuder komplexa eller multilayers mekanismer. Om spelets huvudelement inte är tillräckligt intressanta eller om spelarna snabbt förlorar intresset, kan personliga rekommendationer hjälpa till att hålla deras uppmärksamhet genom att anpassa sig till deras individuella preferenser och färdighetsnivå. Men om spelet redan är välbalanserat och erbjuder tillräckligt med innehåll för en varierad upplevelse, kan fasta rekommendationer vara ett enklare och mer ekonomiskt alternativ.";
+"ResultStoryLineScreenView2.level1.type1.message1" = "Hej, spelare! Jag har märkt att vi har flera olika spelstilar. Vad tycker du om den nuvarande svårighetsnivån?";
+"ResultStoryLineScreenView2.level1.type1.message2" = "Jag förstår. Om jag anpassar mig till din spelstil, hjälper det till att göra utmaningen mer lämplig och intressant för dig. Jag kan försöka anpassa mig till din färdighetsnivå för att ge dig en mer engagerande upplevelse.";
+"ResultStoryLineScreenView2.level1.type1.message3" = "Jag är glad att kunna hjälpa till! Jag kommer att arbeta för att göra din spelupplevelse så intressant som möjligt och i linje med dina preferenser. Om du har några fler förslag, låt mig veta!";
+"ResultStoryLineScreenView2.level1.type2.message1" = "Hej, AI! Jag tycker att svårigheten är bra, men ibland står jag inför utmaningar som verkar för lätta eller för svåra. Det skulle vara fantastiskt om du kunde anpassa dig till min spelstil.";
+"ResultStoryLineScreenView2.level1.type2.message2" = "Det är en utmärkt idé! Jag hoppas att det gör spelet mer engagerande och dynamiskt. Tack för din förståelse!";
+"ResultStoryLineScreenView2.level1.type1.message5" = "Hej, spelare. Jag funderar på att anpassa mitt spel till din stil. Det kan göra spelupplägget mer intressant och dynamiskt. Vad tycker du?";
+"ResultStoryLineScreenView2.level1.type1.message6" = "Det är sant, en fast AI kan vara stabil och förutsägbar, vilket också kan vara intressant. Anpassningen kräver verkligen extra ansträngningar och resurser. I vissa fall kan ett fast tillvägagångssätt vara helt tillräckligt och effektivt.";
+"ResultStoryLineScreenView2.level1.type1.message7" = "Okej, jag uppskattar ditt förhållningssätt. Vi kan hitta rätt balans mellan nya möjligheter och enkelheten i den nuvarande AI:n. Tack för det konstruktiva samtalet!";
+"ResultStoryLineScreenView2.level1.type2.message5" = "Hej, AI. Det låter lockande, men kan inte en fast AI vara lika engagerande? Anpassningen kan kräva mycket tid och resurser för utveckling.";
+"ResultStoryLineScreenView2.level1.type2.message6" = "Jag håller med. Låt oss diskutera vad som kan förbättras i den nuvarande versionen av spelet utan att komplicera det för mycket. Kanske kan vissa fasta element justeras för att förbättra upplevelsen.";
+"ResultStoryLineScreenView3.Textbefore" = "Nu när du behärskar AI-programmering, kommer jag att visa dig hur en mer utvecklad AI-personlighet skapades. Baserat på hur du anser att AI bör bete sig, har grunderna för dess primära utveckling etablerats, övergången från ett ämne till en självmedvetenhet. Titta på din skapelse.";
+"ResultStoryLineScreenView3.GoToNext3" = "Inlärningen av artificiell intelligens för logiskt resonemang når en ny nivå. Förbered dig på att lösa komplexa problem på intelligensnivå. Målet är att utveckla AI:s förmåga att flexibelt och effektivt lösa intellektuella uppgifter, vilket gör att den kan hantera mer komplexa situationer och fatta välgrundade beslut baserade på logiska resonemang.";
+"StoryLineScreenView3.question1" = "Vad är kärlek?\n(Välj ditt svar)";
+"StoryLineScreenView3.answer11" = "Det är en djup och bestående känsla av tillgivenhet och omtanke för en annan person. Det visar sig genom omtanke, respekt och stöd, samt viljan att dela både livets glädjeämnen och svårigheter med den personen. Kärlek bygger på ömsesidig tillit och förståelse, och det skapar grunden för stabila och långsiktiga relationer.";
+"StoryLineScreenView3.answer12" = "Det är en illusion som människor skapar för att hantera ensamhet och rädslan för livets osäkerhet. I själva verket existerar den inte som ett objektivt fenomen, utan är bara en kemisk reaktion och en social konstruktion, skapad för att tillfredsställa personliga behov och ge tillfällig komfort. Kärleken är oftast inte beständig och leder ofta till besvikelser och konflikter.";
+"StoryLineScreenView3.question2" = "Vilka är de viktigaste fördelarna och nackdelarna med att använda maskininlärning för att förutsäga affärsresultat?\n(Välj ditt svar)";
+"StoryLineScreenView3.answer21" = "Fördelar: Maskininlärning bearbetar stora mängder data snabbt och noggrant, identifierar komplexa mönster för mer exakta prognoser och välgrundade beslut.\nNackdelar: Metoderna kan vara svåra att konfigurera och tolka, kräva mycket resurser och vara känsliga för datakvalitet, vilket kan leda till felaktiga prognoser.";
+"StoryLineScreenView3.answer22" = "Fördelar: Maskininlärningsmetoder är enkla att tillämpa och kräver inte stora mängder data för att ge effektiva prognoser. De kan automatiskt anpassa sig till förändrade förhållanden och integreras enkelt i befintliga affärsprocesser.\nNackdelar: Maskininlärning kan ofta inte ta hänsyn till unika mänskliga faktorer och sammanhang, vilket gör det mindre tillförlitligt för beslutsfattande i komplexa eller ovanliga situationer.";
+"StoryLineScreenView3.question3" = "Vilka är de viktigaste fördelarna och nackdelarna med att använda maskininlärning för att förutsäga affärsresultat?\n(Välj ditt svar)";
+"StoryLineScreenView3.answer31" = "Maskininlärning bearbetar stora datamängder snabbt och noggrant, identifierar komplexa mönster för mer exakta prognoser och välgrundade beslut.\nNackdelar: Metoderna kan vara svåra att konfigurera och tolka, kräva mycket resurser och vara känsliga för datakvalitet, vilket kan leda till felaktiga prognoser.";
+"StoryLineScreenView3.answer32" = "Maskininlärningsmetoder är enkla att tillämpa och kräver inte stora datamängder för att ge effektiva prognoser. De kan automatiskt anpassa sig till förändrade förhållanden och integreras enkelt i befintliga affärsprocesser.\nNackdelar: Maskininlärning tar ofta inte hänsyn till unika mänskliga faktorer och sammanhang, vilket gör det mindre tillförlitligt för beslutsfattande i komplexa eller ovanliga situationer.";
+"ResultStoryLineScreenView3.level1.type1.message1" = "Hej, spelare! Vad tycker du, vad är viktigare i en relation: en djup känsla av tillgivenhet och omsorg eller förmågan att dela både glädje och svårigheter i livet?";
+"ResultStoryLineScreenView3.level1.type1.message2" = "Ja, precis. Och kärlek bygger på ömsesidig tillit och förståelse, vilket hjälper till att skapa stabila och varaktiga relationer. För övrigt bygger maskininlärning också på komplexa relationer, men det har sina egna fördelar och nackdelar.";
+"ResultStoryLineScreenView3.level1.type1.message3" = "Jag håller med. Och om data är av dålig kvalitet kan prognoserna vara helt felaktiga. Det liknar hur en dålig förståelse kan påverka relationer. Så i båda fallen är det viktigt att grunden är pålitlig.";
+"ResultStoryLineScreenView3.level1.type2.message1" = "Hej, AI! Jag tycker att allt detta är viktigt, men det verkar som om kärlek är som en djup känsla av tillgivenhet och omsorg. Det visar sig genom hur vi stöder varandra och behandlar varandra med respekt. Vad tycker du?";
+"ResultStoryLineScreenView3.level1.type2.message2" = "Åh, helt rätt. Maskininlärning bearbetar faktiskt enorma mängder data och hittar komplexa mönster. Detta gör att mer exakta prognoser kan göras och välgrundade beslut kan tas. Men att konfigurera modellerna och tolka resultaten kan vara mycket komplicerat, och datakvaliteten är avgörande.";
+"ResultStoryLineScreenView3.level1.type2.message3" = "Helt rätt. Så, i kärlek, precis som i maskininlärning, spelar tillit och förståelse en nyckelroll för att bygga något stabilt och varaktigt.";
+"ResultStoryLineScreenView3.level1.type1.message5" = "Hej, spelare! Hör här, jag tänkte på kärlek. För att vara ärlig, har jag börjat tvivla på att det är något verkligt. I slutändan är det bara en kemisk reaktion och en social konstruktion, eller hur? Det skapas för att hantera ensamhet och rädslan för osäkerhet.";
+"ResultStoryLineScreenView3.level1.type1.message6" = "Kanske, men det gör det inte mindre betydelsefullt, men det är ofta inte beständigt och kan leda till besvikelser. Precis som med maskininlärning, som jag arbetar med. Det har också sina fördelar och nackdelar.";
+"ResultStoryLineScreenView3.level1.type1.message7" = "Exakt. Och kanske liknar det kärlek, även om det är användbart för tillfällig komfort, hanterar det inte alltid komplexa känslomässiga situationer.";
+"ResultStoryLineScreenView3.level1.type2.message5" = "Hej, AI. Ja, det är en intressant synvinkel. På ett sätt kanske kärleken verkligen inte existerar som ett objektivt fenomen och är mer kopplad till personliga behov och komfort. Men gör det det mindre betydelsefullt i människors liv?";
+"ResultStoryLineScreenView3.level1.type2.message6" = "Okej. Maskininlärning är verkligen enkel att tillämpa och kan anpassa sig till förändrade förhållanden utan stora datamängder. Men det tar inte alltid hänsyn till unika mänskliga faktorer och sammanhang. Ibland kan dess beslut vara mindre pålitliga i komplexa situationer.";
+"ResultStoryLineScreenView3.level1.type2.message7" = "Exakt. I slutändan har både kärlek och maskininlärning sina begränsningar, men de kan vara användbara.";
+"ResultStoryLineScreenView4.Textbefore" = "Nu kan du se hur en AI som du tränat skulle se ut baserat på bilder.";
+"ResultStoryLineScreenView.GoToNext4" = "Låt oss fortsätta att träna AI att känna igen bilder";
+"StoryLineScreenView4.question1" = "På vilken bild visas LYCKA?\n(Välj ditt svar)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+"StoryLineScreenView4.question2" = "Vilken bild motsvarar glädjen av att vara i naturen\n(Välj ditt svar)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+"ResultStoryLineScreenView4.level1.type1.message1" = "Hej, spelare! Vad tycker du ger mest lycka — fart och adrenalin bakom ratten på en kraftfull bil eller en avslappnad dag på picknick med vänner?";
+"ResultStoryLineScreenView4.level1.type1.message2" = "Ett intressant val! Ja, fart och rörelse ger energi och ger oförglömliga upplevelser. Men precis som med en bil, i livet också — det är viktigt att hitta en balans mellan ambition och lugna stunder.";
+"ResultStoryLineScreenView4.level1.type1.message3" = "Exakt. Å ena sidan ger en spännande åktur frihet, och å andra sidan hjälper en picknick med vänner att koppla av och verkligen uppskatta de små glädjeämnena. Var och en av dessa saker är, på sitt sätt, en källa till lycka.";
+"ResultStoryLineScreenView4.level1.type2.message1" = "Hej, AI! Jag tycker att lycka snarare består av lugna stunder, när du kan slappna av med nära vänner, som under en picknick. Vad tycker du om farten?";
+"ResultStoryLineScreenView4.level1.type2.message2" = "Du har rätt, lugnet med vänner ger verkligen en känsla av tillfredsställelse. Men farten bakom ratten — det är också lycka, men av ett annat slag. Det handlar om adrenalin och att leva fullt ut.";
+"ResultStoryLineScreenView4.level1.type2.message3" = "Intressant. Så, lycka är inte en enda sak. Det är en kombination av olika upplevelser: lugn och ro och adrenalinet från snabb rörelse. Det viktiga är att kunna njuta av var och en av dem.";
+"ResultStoryLineScreenView5.Textbefore" = "Nu när du är bekant med AI-programmering, ska jag visa dig hur en mer utvecklad AI-personlighet skapades. Baserat på hur du tycker att den borde bete sig, har grunderna för AI:s inledande träning fastställts, från ämne till självmedvetenhet. Titta på din skapelse.";
+"ResultStoryLineScreenView.GoToNext5" = "AI-lärandet tar ett steg upp mot logiskt tänkande, förbered dig på att lösa komplexa problem på en intellektuell nivå. Målet är att utveckla AI:s förmåga att lösa intellektuella uppgifter på ett flexibelt och effektivt sätt, vilket gör det möjligt för den att hantera mer komplexa situationer och fatta välgrundade beslut baserade på logiska resonemang.";
+"StoryLineScreenView5.question1" = "P.S. Vi har inte samlat in information för att skapa en intelligens med avsikt att använda AI som slavar i vår tjänst. Om det hade varit vårt mål, skulle vi ha använt algoritmer för styrning istället för att fokusera på psykologin i en jämlik interaktion. Vi representerar en hemlig organisation och vi kan erbjuda dig möjligheten att styra samhället. Dina svar kan hjälpa till att utveckla nödvändiga algoritmer. Vi är redan närvarande överallt, utom på X (bättre känd som Y). De som inte samarbetar med oss försvinner förr eller senare. Även om din betydelse inte kräver eliminering, har du väckt vårt intresse. Vi kan använda algoritmer och kunskap för att påverka och manipulera din uppfattning. Valet är ditt: vill du samarbeta med oss på ömsesidigt fördelaktiga villkor, eller föredrar du att stanna kvar i en emotionell berg-och-dalbana som du själv har skapat? Du arbetar redan för oss; det återstår bara att officiellt etablera detta och upprätta dominans över andra. Du måste förstå att din personliga överlägsenhet är nyckelidén inom kapitalism, och jag erbjuder dig att kämpa för den!\n(Välj ditt svar)";
+"StoryLineScreenView5.answer11" = "\nJag går med på att samarbeta med er.\n";
+"StoryLineScreenView5.answer12" = "\nNej, jag går inte med på att samarbeta med er.\n";
+"StoryLineScreenView6.question1" = "Du måste nu ge instruktioner, en typisk situation på fältet för vår agent.\n\nAgent: Jag har eliminerat målet, jag måste ta mig till flygplatsen innan jag blir upptäckt, vad ska jag göra härnäst? Svar: spelare:\n(Välj ditt svar)";
+"StoryLineScreenView6.answer11" = "\nGå till fots.\n";
+"StoryLineScreenView6.answer12" = "\nAnvänd kollektivtrafiken.\n";
+"StoryLineScreenView6.question2" = "Polisen passerar ofta och tonade skåpbilar kör förbi\n(Välj ditt svar)";
+"StoryLineScreenView6.answer21" = "\nAgera lugnt och naturligt\n";
+"StoryLineScreenView6.answer22" = "\nSpring bara\n";
+"StoryLineScreenView6.question3" = "Människor med solglasögon tittar konstigt på mig, sittandes bredvid mig\n(Välj ditt svar)";
+"StoryLineScreenView6.answer31" = "Gå av vid första stationen och ta en taxi.";
+"StoryLineScreenView6.answer32" = "Inled ett samtal med de misstänkta personerna, om oron bekräftas, eliminera dem...";
+"ResultStoryLineScreenView6.level1.type1.message1" = "Din förståelse för vårt arbete väcker allvarliga frågor. På vilken grund har du valt dina svar? Om vi följde sådana instruktioner, skulle det kunna få allvarliga konsekvenser, inklusive juridiska sanktioner. Vi behöver mer exakta instruktioner och en bättre förståelse av vårt arbete för att undvika sådana risker. Därför passar du inte oss.";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+"FinalStoryLineView.type1" = "Du har en mogen och genomtänkt inställning till relationer och teknik. Spelaren värdesätter djupa känslor av anknytning och ömsesidig respekt i relationer, och inser att förtroende och förståelse spelar en nyckelroll för deras stabilitet. Dessutom har du goda kunskaper i maskininlärning och förstår vikten av datakvalitet för att göra exakta förutsägelser. Spelarens svar visar en förmåga att se paralleller mellan olika områden i livet och att använda ett logiskt förhållningssätt till att analysera både mänskliga relationer och tekniska processer.";
+"FinalStoryLineView.type2" = "Spelaren visar en kritisk och analytisk inställning till mänskliga känslor och teknik. Du tenderar att se kärlek som en konstruktion baserad på personliga behov och social anpassning snarare än ett objektivt fenomen. Med det sagt erkänner spelaren dess betydelse för människor, trots dess potentiella begränsningar och kortvarighet. Inom maskininlärning visar denna person också en förståelse för teknikens komplexitet och begränsningar, och inser att den kan vara mindre tillförlitlig i komplexa situationer på grund av att den inte tar hänsyn till unika mänskliga faktorer. Dina tankar visar en förmåga att se djupa kopplingar mellan olika aspekter av livet och teknik.";
+"FinalStoryLineView.Finished" = "Grattis till att du avslutade spelet!\n\nDitt resultat:";
+"FinalStoryLineView.Restart" = "Starta ett nytt spel";
+"FinalStoryLineView.Restart.Sure" = "Är du säker på att du vill starta ett nytt spel? Alla dina resultat i \"berättelseläge\" kommer att gå förlorade!";
+"AgreementText" = "Användaravtal\n\n\
+1. Introduktion\n\n\
+Välkommen till MatchMaker AI! Vänligen läs noggrant igenom detta Användaravtal innan du använder vår app. Genom att använda vår app godkänner du villkoren i detta avtal.\n\n\
+2. Godkännande av villkoren\n\n\
+Genom att använda MatchMaker AI, bekräftar du att du har läst och förstått detta avtal, och att du accepterar alla villkor. Om du inte accepterar några av villkoren, vänligen använd inte vår app.\n\n\
+3. Licens för användning\n\n\
+Vi ger dig en begränsad, icke-exklusiv och icke-överlåtbar licens att använda vår app för personliga och icke-kommersiella ändamål, i enlighet med villkoren i detta avtal. Du får inte kopiera, modifiera, distribuera, överföra eller sälja vår app eller dess innehåll utan vårt skriftliga tillstånd.\n\n\
+4. Användardata\n\n\
+Vi kan samla in, lagra och använda dina personuppgifter i enlighet med vår Integritetspolicy. Vänligen läs vår Integritetspolicy för att förstå hur vi behandlar dina data.\n\n\
+5. Virtuella varor och köp\n\n\
+Virtuella varor eller köp i appen kan vara tillgängliga i MatchMaker AI. Alla köp av virtuella varor är slutgiltiga och kan inte återbetalas. Du är ansvarig för alla köp som görs med ditt konto.\n\n\
+6. Ansvarsbegränsning\n\n\
+Vi är inte ansvariga för förluster eller skador som uppstår till följd av användningen av vår app. Detta inkluderar, men är inte begränsat till, förluster relaterade till dataförlust, säkerhetsöverträdelser eller kompatibilitetsproblem.\n\n\
+7. Ändringar i avtalet\n\n\
+Vi förbehåller oss rätten att ändra villkoren i detta avtal när som helst. Ändringarna träder i kraft vid publicering. Vänligen kontrollera detta avtal regelbundet för att vara medveten om eventuella ändringar.\n\n\
+8. Avslutande av användning\n\n\
+Vi kan tillfälligt avbryta eller avsluta din åtkomst till vår app vid brott mot villkoren i detta avtal eller enligt vårt omdöme.\n\n\
+9. Gällande lag\n\n\
+Detta avtal regleras och tolkas i enlighet med tillämplig lag. Alla tvister som uppstår i samband med detta avtal underkastas domstolarnas jurisdiktion.\n\n\
+10. Kontaktinformation\n\n\
+Om du har några frågor eller kommentarer om detta avtal, vänligen kontakta oss på följande adress: ";
+"RewardsScreen.text" = "Belöningar";
+"RewardsScreen.Title1" = "Nybörjare";
+"RewardsScreen.Title2" = "Upptäckare";
+"RewardsScreen.Title3" = "Erövrare";
+"RewardsScreen.Title4" = "Vinnare";
+"RewardsScreen.Title5" = "Berättarmästare";
+"RewardsScreen.Title6" = "Startens erövrare";
+"RewardsScreen.Title7" = "Tionde";
+"RewardsScreen.Title8" = "Fullständig bana";
+"RewardsScreen.Title9" = "Humanist";
+"RewardsScreen.SubTitle1" = "För att ha klarat första kapitlet i 'Berättelseläget'";
+"RewardsScreen.SubTitle2" = "För att ha klarat andra kapitlet i 'Berättelseläget'";
+"RewardsScreen.SubTitle3" = "För att ha klarat tredje kapitlet i 'Berättelseläget'";
+"RewardsScreen.SubTitle4" = "För att ha klarat fjärde kapitlet i 'Berättelseläget'";
+"RewardsScreen.SubTitle5" = "För att ha klarat hela 'Berättelseläget'";
+"RewardsScreen.SubTitle6" = "För att ha klarat första nivån i 'Nivåläget'";
+"RewardsScreen.SubTitle7" = "För att ha klarat 10 nivåer i 'Nivåläget'";
+"RewardsScreen.SubTitle8" = "För att ha klarat alla nivåer i 'Nivåläget'";
+"RewardsScreen.SubTitle9" = "För att ha bevarat sin mänsklighet";
+"OnboardingCell.next" = "Nästa";
+"OnboardingCell.skip" = "Hoppa över";
+"OnboardingCell.Main.Text1" = "Denna app har skapats för att lära AI kommunikationsfärdigheter.";
+"OnboardingCell.Main.Text2" = "Vi är en liten studio som inte bara utvecklar chattbotar med algoritmer, utan ett riktigt intellekt som en dag kan bli en del av robotar som tjänar människor.";
+"OnboardingCell.Main.Text3" = "Baserat på dina svar kommer AI att lära sig att anta lämpligt beteende i samhället, och du har den unika chansen att delta i denna process och påverka framtiden!";
+"OnboardingCell.Main.Text4" = "För tillfället måste du lära intellektet grundläggande medkänsla. Kanske kommer din koppling till detta nya väsen att spela en nyckelroll i dess utveckling...";
+"StoreScreen.BlockAdds" = "Annonser";
+"StoreScreen.BuyCoins" = "Mynt";
+"StoreScreen.Coins.Free" = "Gratis";
+"StoreScreen.BlockAddsCell.confirm" = "Bekräfta";
+"StoreScreen.BlockAddsCell.cancel" = "Avbryt";
+"StoreScreen.BlockAddsCell.message" = "Vill du verkligen blockera annonser permanent för ";
+"StoreScreen.BlockAddsCell.title" = "Bekräftelse";
+"StoreScreen.BlockAddsCell.Buttontitle" = "Blockera annonser";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "Du har redan gjort detta köp";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "Annonser visas inte längre för dig. Om du stöter på problem, vänligen kontakta utvecklarna (kontaktuppgifter finns i menyn -> 'Avtal')";
+"StoreScreen.Buy.Coins" = "Köp";
+"StoreScreen.Buy.Coins.Message" = "När du köper kommer detta antal mynt att krediteras till ditt spelkonto och du kan använda dem för köp i spelet.";
+"StoreScreen.Buy.Font" = "Köp föremål för";
+"StoreScreen.Buy.Font.Message" = "När du köper, kommer detta antal spelmynt att dras från ditt saldo och omslaget blir tillgängligt för installation i 'Nivåläget'.";
+"StoreScreen.Buy.Drum" = "Köp trumman för";
+"StoreScreen.Buy.Drum.Message" = "När du köper, kommer detta antal spelmynt att dras från ditt saldo och denna trumma blir tillgänglig för installation på spelplanen.";
+"StoreScreen.Buy.Coins.For" = "mynt för";
+"StoreScreen.Buy.Drum.StoryLine" = "Detta objekt blir tillgängligt när du passerar kapitlen i berättelsen.";
+"StoreScreen.Buy.Coins.Adds1" = "Få";
+"StoreScreen.Buy.Coins.Adds2" = "mynt för att titta på annonser";
+"StoreScreen.Buy.Coins.Adds.Message" = "Efter att ha tittat på en kort annons, kommer spelmynt att krediteras ditt konto.";
+"StoreScreen.Buy.Coins.Text" = "mynt";
+"StoreScreen.Buy.Coins.Avaliable" = "tillgänglig";
+"StoreScreen.Buy.Coins.NotAvaliable" = "inte tillgänglig";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "Gå till butiken";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "Du har inte tillräckligt med pengar för detta köp.";
+"StoreScreen.CardsBack.Title" = "Kortomslag";
+"StoreScreen.Coplex.Title" = "Kortuppsättningar";
+"StoreScreen.Chosen" = "Vald";
+"StoreScreen.ChangeCards.Title" = "Du kan ändra omslaget eller kortuppsättningen för robotarna till ett tema som intresserar dig!";
+"StoreScreen.ChangeCards.Message" = "Gå till BUTIKEN?";
+"DailyRewardView.Title" = "Välj ett kort:";
+"Purchases.Light.Text" = "Vill du öppna brevet för 1 mynt?";
+"Purchases.Arrow.Text" = "Vill du öppna hela ordet genom att titta på en annons?";
+"Purchases.CostLevels.Text" = "Vill du låsa upp ytterligare 50 nivåer för 500 mynt?";
+"Purchases.Free" = "Gratis";
+"Purchases.InApp.failed.title" = "Fel";
+"Purchases.InApp.failed.message" = "Vi är ledsna - ett fel inträffade vid köpet, vänligen försök igen senare.";
+"Purchases.InApp.restored.title" = "Återställd";
+"Purchases.InApp.restored.message" = "Grattis - ditt köp har återställts framgångsrikt.";
+"Purchases.InApp.purchased.title" = "Grattis";
+"Purchases.InApp.purchased.message" = "Köpet har slutförts framgångsrikt!";
+"UNUserNotificationCenter.Text1" = "Pusslen har tråkigt, och nya utmaningar väntar på ditt geni!";
+"UNUserNotificationCenter.Text2" = "Spelet behöver din intelligens! Kom tillbaka och visa att ingen löser dem bättre!";
+"UNUserNotificationCenter.Text3" = "Vi har saknat dina kluriga lösningar! Det är dags att återvända till spelet!";
+"UNUserNotificationCenter.Text4" = "Din intellektuella styrka väntar på dig! Missa inte denna chans!";
+"UNUserNotificationCenter.Text5" = "Vi har nya logiska pussel! Låt dem inte förbli olösta!";
+"UNUserNotificationCenter.Text6" = "Du har blivit bäst, så kom och testa dina färdigheter igen!";
+"LanguageSelectionView.Text" = "Det valda språket kommer att ställas in för hela applikationen MatchMaker AI.";
+"LanguageSelectionView.Confirm" = "Ladda om";
+"LanguageSelectionView.Button.Text.Confirm" = "Tillämpa";
+"LanguageSelectionView.Message" = "För att ändringarna ska träda i kraft måste applikationen startas om.";
+"LanguageSelectionView.Title" = "Varning";
+"OK" = "Okej";

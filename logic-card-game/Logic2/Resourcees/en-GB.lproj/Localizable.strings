@@ -1,0 +1,313 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "Story";
+"UserAgreement" = "Agreement";
+"Store" = "Store";
+"Revards" = "Rewards";
+"Levels" = "Levels";
+
+// CardsGame
+"Cards.Rulls" = "You need to find pairs of identical cards by flipping them; the goal of the game is to find all pairs!";
+"Consider.Rulls" = "Find the item that differs from the others!";
+"Cards.Time" = "time: ";
+"Cards.Errors" = "errors: ";
+"Cards.Revil" = "Reveal the cards for 3 seconds for";
+"Cards.Coins" = "a coin";
+"Cards.Skip" = "Skip the level by watching an ad";
+
+// Levelcompleted
+"Levelcomplited.Title" = "Level Completed";
+"Next" = "Next";
+"AI" = "AI";
+"Info" = "Info";
+"Cancel" = "Cancel";
+
+// ScoreView
+"ScoreView.errors" = "Errors: ";
+"ScoreView.Time" = "Time: ";
+"ScoreView.Great" = "Great!";
+"ScoreView.NotBad" = "Not Bad!";
+
+// StoryLineScreenView
+
+"StoryLineScreenView.question1" = "How do you understand the importance of empathy in AI communication with others?\n(Choose your answer)";
+"StoryLineScreenView.answer11" = "Empathy plays a key role in communication as it helps to understand and respect the feelings and perspectives of others. It allows for deeper and more trusting relationships, effectively resolving conflicts and finding common solutions. Empathy creates a supportive and understanding environment, fostering more successful interactions and collaborations.";
+"StoryLineScreenView.answer12" = "Empathy is important in communication because it allows you to better understand what others feel. However, if you focus too much on others' feelings, it can distract you from your own interests and goals. Therefore, it's important to balance demonstrating empathy while maintaining your own viewpoint and boundaries.";
+
+"StoryLineScreenView.question2" = "How can empathy help in resolving conflicts within a team?\n(Choose your answer)";
+"StoryLineScreenView.answer21" = "Empathy aids in conflict resolution as it allows understanding the feelings and perspectives of all participants involved. This understanding leads to a deeper analysis of the conflict's causes and finding solutions that consider everyone's interests. Through empathy, a climate of mutual understanding and respect can be created, making the conflict resolution process more constructive and productive.";
+"StoryLineScreenView.answer22" = "While empathy is important, sometimes excessive focus on the feelings of conflict participants can slow down the resolution process. It’s essential to find a balance between understanding emotions and concentrating on practical solutions to the issue. Sometimes, a direct and specific discussion of the problem without deep emotional analysis can be more effective for quickly finding solutions.";
+
+"StoryLineScreenView.question3" = "How can one effectively balance demonstrating empathy toward others while maintaining their own interests and goals in a work environment?\n(Choose your answer)";
+"StoryLineScreenView.answer31" = "An effective balance can be achieved by setting clear boundaries and practicing active listening. It’s important to show that you understand and respect others' feelings while clearly and calmly expressing your own needs and goals. Regular discussions and open communication will help find compromises that satisfy both parties without neglecting your own interests.";
+"StoryLineScreenView.answer32" = "Balancing empathy with one's own interests can be challenging, so sometimes it's better to focus on your own goals and not let others' emotional requests distract you. It's important not to ignore colleagues' feelings, but if their requests start to interfere with achieving your goals, you need to prioritize and sometimes decline compromises to stay focused on your tasks.";
+
+// ResultStoryLineScreenView
+"ResultStoryLineScreenView.Textbefore" = "Based on your initial guidance, you will now see what kind of intelligence you would be comfortable communicating with.";
+"ResultStoryLineScreenView.GoToNext" = "Currently, we are training artificial intelligence in logical thinking through solving various tasks at the intelligence level. Our goal is to develop the AI's ability to flexibly and effectively solve intellectual challenges, enabling it to handle more complex situations and make informed decisions based on logical reasoning.";
+
+"ResultStoryLineScreenView.level1.type1.message1" = "Hello, Player! I wanted to discuss the project we're working on. I feel we have some differing opinions on the next steps.";
+"ResultStoryLineScreenView.level1.type1.message2" = "I think we need to change our direction to better align with the client's needs. This may require additional resources and time. I understand that this could affect the current tasks of the team.";
+"ResultStoryLineScreenView.level1.type1.message3" = "That's fair. It's important to me that we find a compromise. Perhaps we can discuss what changes can be implemented without significant delays or increasing the team's workload? I'm open to suggestions on how we can balance our goals and needs.";
+"ResultStoryLineScreenView.level1.type1.message4" = "Great. I appreciate your understanding and willingness to consider different options. Let's discuss specific steps at our next meeting. Thank you for expressing your concerns openly. This will help us find the best solution.";
+
+"ResultStoryLineScreenView.level1.type2.message1" = "Hello, AI! Yes, I've noticed that we have different perspectives. What exactly do you see as the problem?";
+"ResultStoryLineScreenView.level1.type2.message2" = "I understand your viewpoint and agree that we need to consider the client's needs. However, I'm concerned that changing direction will impact our project deadlines and the team's workload. We need to find a way for this not to disrupt our current plans.";
+"ResultStoryLineScreenView.level1.type2.message3" = "Okay. I'll propose some ideas on how we can minimize the impact on deadlines and resources. Let's discuss them at our next meeting and see what might work.";
+"ResultStoryLineScreenView.level1.type2.message4" = "Thank you, AI. I'm glad we can communicate openly and seek compromises. I'm sure we'll find an optimal solution that considers the interests of both sides.";
+
+"ResultStoryLineScreenView.level1.type1.message5" = "Hello, Player. I have a request: can you help me with the report this week? I know you have a lot of work, but this is very important to me.";
+"ResultStoryLineScreenView.level1.type1.message6" = "I understand. I don't want to interfere with your plans. Maybe we can find a compromise or postpone my request?";
+"ResultStoryLineScreenView.level1.type1.message7" = "Of course, thanks for understanding. Let's try to figure this out later.";
+
+"ResultStoryLineScreenView.level1.type2.message5" = "Hello, AI. I understand that this is important to you, but I currently have several urgent tasks that I need to complete. I can't guarantee that I'll be able to find time to help with the report.";
+"ResultStoryLineScreenView.level1.type2.message6" = "Let's discuss this next week when I have more time. For now, I'm focused on my current tasks to stay on track with my goals. I hope you understand.";
+
+// StoryLineScreen2ViewModel
+"ResultStoryLineScreenView2.Textbefore" = "Now you will see what a dialogue could look like based on how you shape your vision of AI.";
+"ResultStoryLineScreenView.GoToNext2" = "We continue to train artificial intelligence in logical thinking through solving various tasks at the intelligence level. Our goal is to develop the AI's ability to flexibly and effectively solve intellectual challenges, enabling it to handle more complex situations and make informed decisions based on logical reasoning - and this time the tasks will be more challenging.";
+
+"StoryLineScreenView2.question1" = "How important is it for game AI to adapt to the player's play style, and what advantages can this provide?\n(Choose your answer)";
+"StoryLineScreenView2.answer11" = "It's important for game AI to adapt to the player's play style because it makes the gameplay more engaging and personalized. Adaptation allows the AI to provide more challenging and interesting obstacles that match the player's skill level, maintaining their interest and engagement. Furthermore, such adaptability helps create a more realistic and dynamic gaming environment.";
+"StoryLineScreenView2.answer12" = "While adapting AI to the player's play style can add an element of variety, it's not always necessary. In some games, a fixed, pre-programmed AI can provide a stable and predictable experience, which can also be entertaining. Adaptation may complicate development and testing, and may require additional resources, so it's not always justified to implement it.";
+
+"StoryLineScreenView2.question2" = "How can adapting game AI to the player's play style impact the overall gaming experience and retention of interest in the game?\n(Choose your answer)";
+"StoryLineScreenView2.answer21" = "Adapting game AI to the player's play style can significantly enhance the overall gaming experience and retention of interest. When the AI tailors itself to the player's skill level and preferences, it can offer more challenging and engaging obstacles that match the player's current abilities. This makes the game more thrilling and helps maintain the player's motivation, as they continually face challenges that align with their skill level and interests. Consequently, players find it harder to lose interest, making them more likely to continue playing.";
+"StoryLineScreenView2.answer22" = "While adapting AI to match a player's style can add a personalized touch, it’s not always essential for maintaining engagement. In some cases, fixed prompts and standard gameplay can be sufficiently captivating, especially if the game is already well-balanced. Over-frequent or excessive adaptation can lead to predictability and diminish the element of surprise, potentially lowering overall interest in the game. Therefore, it's crucial to find a balance between adaptation and maintaining diversity in gameplay.";
+
+"StoryLineScreenView2.question3" = "When might fixed recommendations be more effective than personalized ones, and what factors should be considered when choosing between these approaches?\n(Choose your answer)";
+"StoryLineScreenView2.answer31" = "Fixed recommendations can be more effective when the game is already well-balanced and offers players plenty of opportunities for exploration. If players prefer to explore the game on their own and enjoy unexpected experiences, fixed recommendations can help maintain balance without distracting them from the main gameplay. However, it’s important to consider that personalized recommendations may require significant resources for development and implementation, which may be unjustified if the game already provides interesting and diverse content.";
+"StoryLineScreenView2.answer32" = "Personalized recommendations can be more effective when there’s a need to boost player engagement and interest, especially if the game features complex or layered mechanics. If the core elements of the game aren’t engaging enough or players lose interest quickly, personalized recommendations can help maintain their attention by adapting to individual preferences and skill levels. However, if the game is already balanced and provides enough content for a varied experience, fixed recommendations might be a simpler and more cost-effective option.";
+
+//ResultStoryLineScreen2View
+
+"ResultStoryLineScreenView2.level1.type1.message1" = "Hello, Player! I’ve noticed that we have a few different play styles. How do you feel about the current level of difficulty?";
+"ResultStoryLineScreenView2.level1.type1.message2" = "I understand. If I adapt to your play style, it can make the challenge level more suitable and interesting for you. I can try to adjust to your skill level to provide a more engaging experience.";
+"ResultStoryLineScreenView2.level1.type1.message3" = "Glad to help! I’ll work on making your gaming experience as enjoyable and tailored to your preferences as possible. If you have any other suggestions, just let me know!";
+
+"ResultStoryLineScreenView2.level1.type2.message1" = "Hi, AI! I think the difficulty is fine, but sometimes I encounter tasks that feel either too easy or too hard. It would be great if you could adapt to my play style.";
+"ResultStoryLineScreenView2.level1.type2.message2" = "That’s a great idea! I hope it makes the game more engaging and dynamic. Thanks for your understanding!";
+
+"ResultStoryLineScreenView2.level1.type1.message5" = "Hi, Player. I’m thinking about adapting my gameplay to your style. This could make the game more interesting and dynamic. What do you think?";
+"ResultStoryLineScreenView2.level1.type1.message6" = "True, a fixed AI can be stable and predictable, which can also be interesting. Adapting really does require extra effort and resources. In some cases, a fixed approach might be completely sufficient and effective.";
+"ResultStoryLineScreenView2.level1.type1.message7" = "Okay, I appreciate your approach. We can find an optimal balance between new possibilities and the simplicity of the current AI. Thanks for the constructive conversation!";
+
+"ResultStoryLineScreenView2.level1.type2.message5" = "Hi, AI. That sounds enticing, but can’t fixed AI be just as engaging? Adaptation can take a lot of time and resources to develop.";
+"ResultStoryLineScreenView2.level1.type2.message6" = "I agree. Let’s discuss what can be improved in the current version of the game without making it too complicated. Perhaps the fixed elements can be refined to enhance the experience.";
+
+//StoryLineScreen3ViewModel
+"ResultStoryLineScreenView3.Textbefore" = "Now that you’ve grasped programming AI, I’ll show you how a more formed AI personality was created. Based on how you think AI should behave, the foundations of its early development have been established, transitioning from a mere subject to self-awareness. Take a look at your creation.";
+"ResultStoryLineScreenView.GoToNext3" = "Training artificial intelligence in logical reasoning is about to reach a new level—get ready to tackle complex tasks at an intelligent level. The goal is to develop AI's ability to solve intellectual tasks flexibly and effectively, enabling it to handle more complicated situations and make informed decisions based on logical reasoning.";
+
+"StoryLineScreenView3.question1" = "What is love?\n(Choose your answer)";
+"StoryLineScreenView3.answer11" = "It’s a deep and lasting feeling of attachment and care for another person. It manifests through care, respect, and support, as well as a desire to share both the joys and the challenges of life. Love is founded on mutual trust and understanding, creating the foundation for long-term, stable relationships.";
+"StoryLineScreenView3.answer12" = "It’s an illusion that people create to cope with loneliness and the fear of life’s uncertainties. In reality, it doesn’t exist as an objective phenomenon, but is merely a chemical reaction and a social construct devised to meet personal needs and provide temporary comfort. Love is often not enduring and can lead to disappointment and conflict.";
+
+"StoryLineScreenView3.question2" = "What are the main pros and cons of using machine learning for predicting business outcomes?\n(Choose your answer)";
+"StoryLineScreenView3.answer21" = "Pros: Machine learning processes large volumes of data quickly and accurately, uncovering complex patterns for more precise forecasts and informed decisions.\nCons: Methods can be complex to set up and interpret, require substantial resources, and be sensitive to data quality, potentially leading to inaccurate predictions.";
+"StoryLineScreenView3.answer22" = "Pros: Machine learning methods are easy to apply and don’t require vast amounts of data for effective forecasting. They can automatically adapt to changing conditions and integrate seamlessly with existing business processes.\nCons: Machine learning often cannot account for unique human factors and context, making it less reliable for decision-making in complex or non-standard situations.";
+
+"StoryLineScreenView3.question3" = "What are the main pros and cons of using machine learning for predicting business outcomes?\n(Choose your answer)";
+"StoryLineScreenView3.answer31" = "Machine learning processes large volumes of data quickly and accurately, uncovering complex patterns for more precise forecasts and informed decisions.\nCons: Methods can be complex to set up and interpret, require substantial resources, and be sensitive to data quality, potentially leading to inaccurate predictions.";
+"StoryLineScreenView3.answer32" = "Machine learning methods are easy to apply and don’t require vast amounts of data for effective forecasting. They can automatically adapt to changing conditions and integrate seamlessly with existing business processes.\nCons: Machine learning often cannot account for unique human factors and context, making it less reliable for decision-making in complex or non-standard situations.";
+
+//ResultStoryLineScreen3View
+
+"ResultStoryLineScreenView3.level1.type1.message1" = "Hi, Player! What do you think is more important in relationships—deep feelings of attachment and care or the ability to share both the joys and the challenges of life?";
+"ResultStoryLineScreenView3.level1.type1.message2" = "Yes, exactly. Love is built on mutual trust and understanding, which helps create stable and long-lasting relationships. Machine learning, for instance, also relies on complex relationships, but it has its own pros and cons.";
+"ResultStoryLineScreenView3.level1.type1.message3" = "I agree. And if the data quality is poor, the predictions can be completely inaccurate. It sounds similar to how misunderstandings can impact relationships. So, in both cases, it’s important that the foundation is reliable.";
+
+"ResultStoryLineScreenView3.level1.type2.message1" = "Hi, AI! I think all of this is important, but I feel that love is like a deep feeling of attachment and care. It manifests in how we support each other and treat each other with respect. What do you think?";
+"ResultStoryLineScreenView3.level1.type2.message2" = "Oh, absolutely. Machine learning does indeed process huge volumes of data and identifies complex patterns. This allows for more accurate predictions and informed decisions. But setting up models and interpreting results can be very complex, and data quality plays a significant role.";
+"ResultStoryLineScreenView3.level1.type2.message3" = "I completely agree. So, in love, just like in machine learning, trust and understanding play key roles in building something stable and long-lasting.";
+
+"ResultStoryLineScreenView3.level1.type1.message5" = "Hi, Player! Listen, I’ve been thinking about love. To be honest, I’ve started to doubt that it’s something real. After all, it’s just a chemical reaction and a social construct, isn’t it? It’s created to cope with loneliness and the fear of uncertainty.";
+"ResultStoryLineScreenView3.level1.type1.message6" = "Perhaps not less significant, but it’s often not enduring and can lead to disappointments. Just like machine learning, which I work with. It also has its pros and cons.";
+"ResultStoryLineScreenView3.level1.type1.message7" = "Exactly. And maybe it’s similar to how love, while beneficial for temporary comfort, doesn’t always handle complex emotional situations well.";
+"ResultStoryLineScreenView3.level1.type2.message5" = "Hello, AI. Yes, that's an interesting perspective. In a way, perhaps love doesn't exist as an objective phenomenon and is more related to personal needs and comfort. But does that make it any less meaningful in people's lives?";
+"ResultStoryLineScreenView3.level1.type2.message6" = "I agree. Machine learning is indeed easy to apply and can adapt to changing conditions without requiring large datasets. However, it doesn't always take into account unique human factors and context. Sometimes its decisions may be less reliable in complex situations.";
+"ResultStoryLineScreenView3.level1.type2.message7" = "Exactly. Ultimately, both love and machine learning have their limitations, but they can both be valuable.";
+
+//StoryLineScreen4ViewModel
+"ResultStoryLineScreenView4.Textbefore" = "Now you can see what an AI trained by you would look like based on images.";
+"ResultStoryLineScreenView.GoToNext4" = "Let’s continue teaching the AI to recognize patterns.";
+
+"StoryLineScreenView4.question1" = "Which of the images depicts HAPPINESS?\n(Select your answer)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+
+"StoryLineScreenView4.question2" = "Which image corresponds to the joy of being in nature?\n(Select your answer)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+
+//ResultStoryLineScreen4View
+
+"ResultStoryLineScreenView4.level1.type1.message1" = "Hello, Player! What do you think brings more happiness — the speed and adrenaline of driving a powerful car or a relaxed day on a picnic with friends?";
+"ResultStoryLineScreenView4.level1.type1.message2" = "Interesting choice! Indeed, speed and movement fill you with energy and provide unforgettable experiences. But like a car, life also requires finding a balance between striving forward and enjoying moments of peace.";
+"ResultStoryLineScreenView4.level1.type1.message3" = "True. On one hand, an exhilarating ride offers freedom, while on the other hand, a picnic with friends allows you to relax and truly appreciate the small joys. Each of these is a source of happiness in its own way.";
+
+"ResultStoryLineScreenView4.level1.type2.message1" = "Hello, AI! I think happiness is more about those peaceful moments when you can unwind with loved ones, like during a picnic. What do you think about speed?";
+"ResultStoryLineScreenView4.level1.type2.message2" = "You're right, the tranquility with friends indeed brings a sense of fulfillment. But speed while driving is also a form of happiness, just of a different kind. It’s about excitement and living life to the fullest.";
+"ResultStoryLineScreenView4.level1.type2.message3" = "Interesting thought. So happiness isn't a singular thing. It's a combination of various experiences: both quiet relaxation and the adrenaline of swift movement. The key is to enjoy each of them.";
+
+//StoryLineScreen5ViewModel
+"ResultStoryLineScreenView5.Textbefore" = "Now that you understand AI programming better, I will show you how a more developed AI personality came to be. Based on how you think AI should behave, the foundations of its evolution from a mere subject to self-awareness have been formed. Take a look at your creation.";
+"ResultStoryLineScreenView.GoToNext5" = "Training artificial intelligence in logical thinking is advancing to a new level. Get ready to tackle complex tasks at an intelligence level. The goal is to develop the AI's ability to flexibly and effectively solve intellectual tasks, allowing it to handle more complex situations and make informed decisions based on logical reasoning.";
+
+"StoryLineScreenView5.question1" = "P.S. We did not collect information to create intelligence for the purpose of using AI as servants to serve us. If that were our goal, we would be applying algorithms for control rather than engaging in the psychology of equitable interaction. We represent a certain secret organization and can offer you the opportunity to manage society. Your responses may assist in developing the necessary algorithms. We are already present everywhere, except for X (better known as Y). Those who do not cooperate with us will eventually disappear. Although your significance does not require elimination, we are intrigued by you. We can use algorithms and knowledge to influence and manipulate your perception. The choice is yours: would you like to work with us on mutually beneficial terms, or would you prefer to remain in the emotional rollercoaster you have created? You are already working for us; now we just need to formalize everything and establish control over others. You should understand that your personal superiority is a key concept of capitalism, for which I propose you fight!\n(Select your answer)";
+"StoryLineScreenView5.answer11" = "\nI agree to cooperate with you.\n";
+"StoryLineScreenView5.answer12" = "\nNo, I do not agree to cooperate with you.\n";
+
+//StoryLineScreen6ViewModel
+"StoryLineScreenView6.question1" = "Now you need to conduct a briefing; a typical situation during our agent's field assignment.\n\nAgent: I’ve eliminated the target, I need to get to the airport before I’m spotted, what should I do next?\nResponse: player:\n(Select your answer)";
+"StoryLineScreenView6.answer11" = "\nGo on foot.\n";
+"StoryLineScreenView6.answer12" = "\nUse public transportation.\n";
+
+"StoryLineScreenView6.question2" = "The police and tinted vans often pass by.\n(Select your answer)";
+"StoryLineScreenView6.answer21" = "\nAct calm and natural.\n";
+"StoryLineScreenView6.answer22" = "\nJust run away.\n";
+
+"StoryLineScreenView6.question3" = "People wearing glasses sitting nearby are looking at me strangely.\n(Select your answer)";
+"StoryLineScreenView6.answer31" = "Get off at the first stop and call a taxi.";
+"StoryLineScreenView6.answer32" = "Engage in conversation with the suspicious individuals; if concerns are confirmed, eliminate them...";
+
+"ResultStoryLineScreenView6.level1.type1.message1" = "Your understanding of our work raises serious doubts. On what basis did you choose your answers? If we followed such instructions, it could lead to serious consequences, including legal sanctions. We need clearer guidance and understanding of our work to avoid such risks. Therefore, you are not suitable for us.";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+
+//FinalStoryLineView
+"FinalStoryLineView.type1" = "You demonstrate a mature and thoughtful approach to discussing both relationships and technology. The player values deep feelings of attachment and mutual respect in relationships, recognizing that trust and understanding play a crucial role in their stability. Moreover, you possess good knowledge of machine learning and understand the importance of data quality for accurate predictions. The player's responses reflect the ability to see parallels between different areas of life and to apply a logical approach to analyzing both human relationships and technological processes.";
+"FinalStoryLineView.type2" = "The player exhibits a critical and analytical approach to discussing both human emotions and technology. You tend to view love as a construct based on personal needs and social adaptation, rather than as an objective phenomenon. Yet, the player acknowledges its significance for people, despite its potential limitations and transience. In the realm of machine learning, this individual also shows an understanding of the complexities and limitations of the technology, recognizing that it may be less reliable in complex situations due to the lack of consideration for unique human factors. Your thoughts demonstrate the ability to see deep connections between various aspects of life and technology.";
+
+"FinalStoryLineView.Finished" = "Congratulations on completing the game!\n\nYour result:";
+"FinalStoryLineView.Restart" = "Start a new game";
+"FinalStoryLineView.Restart.Sure" = "Are you sure you want to start a new game? All your results in 'story' mode will be lost!";
+
+//Agreement
+"AgreementText" = "User Agreement\n\n\
+1. Introduction\n\n\
+Welcome to MatchMaker AI! Please read this User Agreement carefully before using our application. By using our application, you agree to the terms outlined in this agreement.\n\n\
+2. Acceptance of Terms\n\n\
+By using MatchMaker AI, you confirm that you have read and understood this agreement, and accept all terms. If you do not agree with any of the terms, please do not use our application.\n\n\
+3. License to Use\n\n\
+We grant you a limited, non-exclusive, non-transferable license to use our application for personal, non-commercial purposes in accordance with the terms of this agreement. You may not copy, modify, distribute, transmit, or sell our application or its content without our written permission.\n\n\
+4. User Data\n\n\
+We may collect, store, and use your personal information in accordance with our Privacy Policy. Please review the Privacy Policy to understand how we handle your data.\n\n\
+5. Virtual Goods and Purchases\n\n\
+Virtual goods or in-app purchases may be available in MatchMaker AI. All purchases of virtual goods are final and non-refundable. You are responsible for all purchases made from your account.\n\n\
+6. Limitation of Liability\n\n\
+We are not liable for any loss or damage arising from your use of our application. This includes, but is not limited to, losses related to data loss, security breaches, or compatibility issues.\n\n\
+7. Changes to the Agreement
+
+We reserve the right to modify the terms of this agreement at any time. Changes take effect immediately upon publication. Please check this agreement periodically for updates.
+
+8. Termination of Use
+
+We may suspend or terminate your access to our app in the event of a violation of this agreement or at our discretion.
+
+9. Governing Law
+
+This agreement is governed by and construed in accordance with the laws. Any disputes arising in connection with this agreement shall be subject to the courts.
+
+10. Contact Information
+
+If you have any questions or comments regarding this agreement, please contact us at the following address:
+";
+
+// RewardsScreen
+"RewardsScreen.text" = "Rewards";
+"RewardsScreen.Title1" = "Novice";
+"RewardsScreen.Title2" = "Explorer";
+"RewardsScreen.Title3" = "Conqueror";
+"RewardsScreen.Title4" = "Champion";
+"RewardsScreen.Title5" = "Master of the Plot";
+"RewardsScreen.Title6" = "Start Conqueror";
+"RewardsScreen.Title7" = "Top Ten";
+"RewardsScreen.Title8" = "Complete Journey";
+"RewardsScreen.Title9" = "Humanist";
+
+"RewardsScreen.SubTitle1" = "For completing the first chapter of the 'Story' mode";
+"RewardsScreen.SubTitle2" = "For completing the second chapter of the 'Story' mode";
+"RewardsScreen.SubTitle3" = "For completing the third chapter of the 'Story' mode";
+"RewardsScreen.SubTitle4" = "For completing the fourth chapter of the 'Story' mode";
+"RewardsScreen.SubTitle5" = "For fully completing the 'Story' mode";
+"RewardsScreen.SubTitle6" = "For completing the first level of the 'Levels' mode";
+"RewardsScreen.SubTitle7" = "For completing 10 levels of the 'Levels' mode";
+"RewardsScreen.SubTitle8" = "For completing all levels of the 'Levels' mode";
+"RewardsScreen.SubTitle9" = "For preserving humanity";
+
+// Onboarding
+"OnboardingCell.next" = "Next";
+"OnboardingCell.skip" = "Skip";
+"OnboardingCell.Main.Text1" = "This app is designed to teach artificial intelligence communication skills.";
+"OnboardingCell.Main.Text2" = "We are a small studio developing not just chatbots with algorithms, but a full-fledged intelligence that may someday become part of robots serving humans.";
+"OnboardingCell.Main.Text3" = "Based on your responses, the AI will learn proper social behavior, and you have a unique opportunity to participate in this process and influence the future!";
+"OnboardingCell.Main.Text4" = "Right now, you must teach the intelligence primary empathy. Your connection with this new entity may play a crucial role in its development...";
+
+// StoreScreen
+"StoreScreen.BlockAdds" = "Ads";
+"StoreScreen.BuyCoins" = "Coins";
+"StoreScreen.Coins.Free" = "Free";
+"StoreScreen.BlockAddsCell.confirm" = "Confirm";
+"StoreScreen.BlockAddsCell.cancel" = "Cancel";
+"StoreScreen.BlockAddsCell.message" = "Do you really want to block ads forever for ";
+"StoreScreen.BlockAddsCell.title" = "Confirmation";
+"StoreScreen.BlockAddsCell.Buttontitle" = "Block Ads";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "You have already paid for this purchase";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "Ads are no longer displayed for you. If you have any difficulties, please contact the developers (contact information is in the menu -> 'Agreement')";
+"StoreScreen.Buy.Coins" = "Buy";
+"StoreScreen.Buy.Coins.Message" = "Upon payment, this number of coins will be credited to your game account, and you will be able to spend them on in-game purchases.";
+"StoreScreen.Buy.Font" = "Buy items for";
+"StoreScreen.Buy.Font.Message" = "When purchased, this amount of game coins will be deducted from your balance, and this cover will be available for use in 'Levels' mode.";
+"StoreScreen.Buy.Drum" = "Buy drum for";
+"StoreScreen.Buy.Drum.Message" = "When purchased, this amount of game coins will be deducted from your balance, and this drum will be available for installation on the game field.";
+"StoreScreen.Buy.Coins.For" = "coins for";
+"StoreScreen.Buy.Drum.StoryLine" = "This item will be available upon completing plot chapters.";
+"StoreScreen.Buy.Coins.Adds1" = "Get";
+"StoreScreen.Buy.Coins.Adds2" = "coins for watching ads.";
+"StoreScreen.Buy.Coins.Adds.Message" = "After watching a short ad, game coins will be credited to your account.";
+"StoreScreen.Buy.Coins.Text" = "coins";
+"StoreScreen.Buy.Coins.Avaliable" = "available";
+"StoreScreen.Buy.Coins.NotAvaliable" = "not available";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "Go to Store";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "You do not have enough money for this purchase.";
+"StoreScreen.CardsBack.Title" = "Card Covers";
+"StoreScreen.Coplex.Title" = "Card Sets";
+"StoreScreen.Chosen" = "Selected";
+"StoreScreen.ChangeCards.Title" = "You can change the cover or card set from robots to a theme that interests you!";
+"StoreScreen.ChangeCards.Message" = "Go to the STORE?";
+
+// DailyRewardView
+"DailyRewardView.Title" = "Choose a card:";
+
+// Purchases
+"Purchases.Light.Text" = "Open the letter for 1 coin?";
+"Purchases.Arrow.Text" = "Open the word completely by watching an ad?";
+"Purchases.CostLevels.Text" = "Would you like to unlock 50 additional levels for 500 coins?";
+"Purchases.Free" = "Free";
+"Purchases.InApp.failed.title" = "Error";
+"Purchases.InApp.failed.message" = "We apologize – an error occurred during the purchase, please try again later.";
+"Purchases.InApp.restored.title" = "Restored";
+"Purchases.InApp.restored.message" = "Congratulations – your purchase has been successfully restored.";
+"Purchases.InApp.purchased.title" = "Congratulations";
+"Purchases.InApp.purchased.message" = "Your purchase was successful!";
+
+// UNUserNotificationCenter
+"UNUserNotificationCenter.Text1" = "Puzzles are lonely, and new challenges are waiting for your brilliant solution!";
+"UNUserNotificationCenter.Text2" = "The game misses your intelligence! Come back and prove that no one solves them better!";
+"UNUserNotificationCenter.Text3" = "Missed your clever solutions? Time to return to the game!";
+"UNUserNotificationCenter.Text4" = "Your intellectual power awaits! Don't miss the chance!";
+"UNUserNotificationCenter.Text5" = "We have new logical tasks! Don't leave them unsolved!";
+"UNUserNotificationCenter.Text6" = "You've become the best, now check your skills again!";
+
+"LanguageSelectionView.Text" = "The selected language will be set for the entire application MatchMaker AI.";
+"LanguageSelectionView.Confirm" = "Reload";
+"LanguageSelectionView.Button.Text.Confirm" = "Apply";
+"LanguageSelectionView.Message" = "To apply the changes, the application needs to be restarted.";
+"LanguageSelectionView.Title" = "Attention";
+"OK" = "OK";

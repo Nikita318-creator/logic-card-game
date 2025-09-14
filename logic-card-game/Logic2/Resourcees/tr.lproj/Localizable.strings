@@ -1,0 +1,232 @@
+/* 
+  Localizable.strings
+  Logic2
+
+  Created by никита уваров on 10.09.24.
+  
+*/
+
+"GameButtonTitle" = "Entrika";
+"UserAgreement" = "Kullanıcı Anlaşması";
+"Store" = "Mağaza";
+"Revards" = "Ödüller";
+"Levels" = "Seviyeler";
+"Cards.Rulls" = "Aynı kart çiftlerini bulmanız gerekiyor; oyunun amacı tüm çiftleri bulmak!";
+"Consider.Rulls" = "Diğerlerinden farklı olan öğeyi bulmanız gerekiyor!";
+"Cards.Time" = "zaman: ";
+"Cards.Errors" = "hatalar: ";
+"Cards.Revil" = "Kartları 3 saniyeliğine açmak için";
+"Cards.Coins" = "bir jeton";
+"Cards.Skip" = "Reklam videosu izleyerek bölümü geç";
+"Levelcomplited.Title" = "Bölüm tamamlandı";
+"Next" = "Sonraki";
+"AI" = "YZ";
+"Info" = "Bilgi";
+"Cancel" = "İptal";
+"ScoreView.errors" = "Hatalar: ";
+"ScoreView.Time" = "Zaman: ";
+"ScoreView.Great" = "Harika!";
+"ScoreView.NotBad" = "Fena değil!";
+"StoryLineScreenView.question1" = "Empatinin YZ ve diğer insanlar arasındaki iletişimdeki önemi hakkında ne düşünüyorsunuz?\n(Cevabınızı seçin)";
+"StoryLineScreenView.answer11" = "Empati, başkalarının duygularını ve bakış açılarını anlamaya ve saygı göstermeye yardımcı olduğu için iletişimde kilit bir rol oynar. Bu, daha derin ilişkiler ve güven oluşturmaya, aynı zamanda çatışmaları çözmeye ve ortak çözümler bulmaya olanak tanır. Empati, karşılıklı destek ve anlayış ortamı oluşturarak, daha başarılı etkileşimler ve iş birliğini teşvik eder.";
+"StoryLineScreenView.answer12" = "Empati, başkalarının ne hissettiğini daha iyi anlamanıza yardımcı olduğu için iletişimde önemlidir. Ancak, başkalarının duygularına fazla odaklanmak, kendi çıkarlarınızı ve hedeflerinizi gözden kaçırmanıza neden olabilir. Bu nedenle empati ile kendi bakış açınızı ve sınırlarınızı koruma arasında bir denge kurmak önemlidir.";
+"StoryLineScreenView.question2" = "Empati, bir ekip içinde çatışmaları çözmeye nasıl yardımcı olabilir?\n(Cevabınızı seçin)";
+"StoryLineScreenView.answer21" = "Empati, çatışmaya dahil olan tüm tarafların duygularını ve bakış açılarını anlamaya olanak sağladığı için çatışmaları çözmede yardımcı olur. Bu anlayış, çatışmanın nedenlerinin daha derinlemesine analiz edilmesini ve tüm tarafların çıkarlarını dikkate alan çözümler bulunmasını sağlar. Empati sayesinde, anlayış ve karşılıklı saygı ortamı yaratılarak çatışmaların daha yapıcı ve verimli bir şekilde çözülmesi sağlanır.";
+"StoryLineScreenView.answer22" = "Empati önemli olmakla birlikte, bazen çatışmadaki katılımcıların duygularına aşırı odaklanmak çözüm sürecini yavaşlatabilir. Duyguları anlamakla pratik çözümlere odaklanmak arasında bir denge bulmak önemlidir. Bazen, duyguların derinlemesine analiz edilmediği doğrudan ve somut bir problem tartışması, hızlı çözümler bulmak için daha etkili olabilir.";
+"StoryLineScreenView.question3" = "Bir iş ortamında başkalarına empati göstermeyi ve kendi çıkarlarınızı ve hedeflerinizi nasıl dengeli bir şekilde koruyabilirsiniz?\n(Cevabınızı seçin)";
+"StoryLineScreenView.answer31" = "Etkili bir denge, net sınırlar koyarak ve aktif dinleme pratiği yaparak sağlanabilir. Başkalarının duygularını anladığınızı ve saygı gösterdiğinizi göstermek, aynı zamanda kendi ihtiyaçlarınızı ve hedeflerinizi net ve sakin bir şekilde ifade etmek önemlidir. Düzenli tartışmalar ve açık iletişim, iki tarafı da tatmin eden, kendi çıkarlarınızı göz ardı etmeden uzlaşmalar bulmanıza yardımcı olur.";
+"StoryLineScreenView.answer32" = "Empati ile kendi çıkarlarınızı dengelemek zor olabilir, bu nedenle bazen kendi hedeflerinize odaklanmak ve başkalarının duygusal taleplerinin sizi dikkat dağıtmasına izin vermemek daha iyi olabilir. Meslektaşlarınızın duygularını görmezden gelmemek önemlidir, ancak talepleri kendi hedeflerinize ulaşmanızı engellemeye başladığında, öncelik belirlemeyi ve bazen uzlaşmayı reddetmeyi bilmek gerekir.";
+"ResultStoryLineScreenView.Textbefore" = "Başlangıç talimatlarınıza göre, sizinle en uyumlu iletişim kuracak zeka türünü şimdi göreceksiniz.";
+"ResultStoryLineScreenView.GoToNext" = "Şu anda yapay zekaya mantıksal düşünmeyi çeşitli zeka görevlerini çözme yoluyla öğretiyoruz. Amacımız, YZ'nin karmaşık durumlarla başa çıkabilmesi ve mantıksal akıl yürütmeye dayalı bilinçli kararlar verebilmesi için esnek ve etkili bir şekilde zeka görevlerini çözme yeteneğini geliştirmektir.";
+"ResultStoryLineScreenView.level1.type1.message1" = "Merhaba, Oyuncu! Üzerinde çalıştığımız proje hakkında konuşmak istedim. Sonraki adımlar konusunda küçük bir anlaşmazlığımız olduğunu düşünüyorum.";
+"ResultStoryLineScreenView.level1.type1.message2" = "Müşterinin ihtiyaçlarına daha iyi cevap verebilmek için çalışma yönümüzü değiştirmemiz gerektiğini düşünüyorum. Bu, ek kaynaklar ve zaman gerektirebilir. Bunun ekibin mevcut görevlerini etkileyebileceğini anlıyorum.";
+"ResultStoryLineScreenView.level1.type1.message3" = "Haklısın. Bir uzlaşma bulmamız benim için önemli. Belki ekibe fazladan yük getirmeden ve gecikmelere yol açmadan uygulayabileceğimiz değişiklikleri tartışabiliriz? Hedeflerimizi ve ihtiyaçlarımızı nasıl dengeleyebileceğimize dair önerilere açığım.";
+"ResultStoryLineScreenView.level1.type1.message4" = "Harika. Anlayışın ve farklı seçenekleri değerlendirme isteğin için teşekkür ederim. Somut adımları bir sonraki toplantımızda tartışalım. Endişelerini açıkça ifade ettiğin için teşekkürler. Bu, en iyi çözümü bulmamıza yardımcı olacak.";
+"ResultStoryLineScreenView.level1.type2.message1" = "Merhaba, YZ! Evet, farklı bakış açılarımız olduğunu fark ettim. Sence sorun ne?";
+"ResultStoryLineScreenView.level1.type2.message2" = "Bakış açını anlıyorum ve müşterinin ihtiyaçlarını göz önünde bulundurman gerektiği konusunda hemfikirim. Ancak bu yön değişikliğinin proje sürelerini ve ekip üzerindeki yükü etkileyebileceğinden endişeleniyorum. Bunun mevcut planlarımızı bozmayacak bir yolunu bulmalıyız.";
+"ResultStoryLineScreenView.level1.type2.message3" = "Tamam. Süreler ve kaynaklar üzerindeki etkiyi en aza indirme yollarına dair birkaç fikir sunacağım. Bir sonraki toplantımızda bunları tartışalım ve neyin işe yarayabileceğini görelim.";
+"ResultStoryLineScreenView.level1.type2.message4" = "Teşekkürler, YZ. Açıkça iletişim kurabilmemiz ve uzlaşmalar aramamız beni mutlu etti. İki tarafın çıkarlarını da göz önünde bulunduran en iyi çözümü bulacağımızdan eminim.";
+"ResultStoryLineScreenView.level1.type1.message5" = "Merhaba, Oyuncu. Bir ricam var: Bu hafta raporla ilgili bana yardım edebilir misin? Çok fazla işin olduğunu biliyorum, ama bu benim için gerçekten önemli.";
+"ResultStoryLineScreenView.level1.type1.message6" = "Anlıyorum. Planlarına engel olmak istemem. Belki bir uzlaşma bulabiliriz veya talebimi erteleyebiliriz?";
+"ResultStoryLineScreenView.level1.type1.message7" = "Tabii, anlayışın için teşekkür ederim. Bunu daha sonra çözmeye çalışalım.";
+"ResultStoryLineScreenView.level1.type2.message5" = "Merhaba, YZ. Bunun senin için önemli olduğunu anlıyorum, ancak şu anda tamamlamam gereken birkaç acil görev var. Rapor konusunda sana yardım etmeye vakit ayırabileceğimi garanti edemem.";
+"ResultStoryLineScreenView.level1.type2.message6" = "Gelecek hafta, daha fazla zamanım olduğunda bunu konuşalım. Şu an için mevcut görevlerime odaklanmış durumdayım, böylece hedeflerimden sapmam. Umarım anlarsın.";
+"ResultStoryLineScreenView2.Textbefore" = "Şimdi, YZ'ye nasıl bir vizyon oluşturduğunuza bağlı olarak diyalogun nasıl olabileceğini göreceksiniz.";
+"ResultStoryLineScreenView.GoToNext2" = "Yapay zekaya çeşitli zeka görevleri çözme yoluyla mantıklı düşünmeyi öğretmeye devam ediyoruz. Amacımız, yapay zekanın esnek ve etkili bir şekilde zeka görevlerini çözebilme yeteneğini geliştirmek. Bu, yapay zekanın daha karmaşık durumlarla başa çıkmasını ve mantıklı akıl yürütmeye dayalı bilinçli kararlar almasını sağlayacaktır. Ancak bu sefer görevler daha zor olacak.";
+"StoryLineScreenView2.question1" = "Oyun yapay zekasının oyuncunun oyun tarzına uyum sağlaması ne kadar önemli ve bu hangi avantajları sağlayabilir?\n(Cevabınızı seçin)";
+"StoryLineScreenView2.answer11" = "Oyun yapay zekasının oyuncunun oyun tarzına uyum sağlaması önemlidir, çünkü bu deneyimi daha sürükleyici ve kişisel hale getirir. Uyarlanma, yapay zekanın oyuncunun yetenek seviyesine uygun, daha karmaşık ve ilgi çekici zorluklar sunmasını sağlar. Bu, oyuncunun ilgisini ve bağlılığını sürdürmesine yardımcı olur. Ayrıca, bu esneklik, oyunun daha dinamik ve gerçekçi bir ortam oluşturmasına katkıda bulunur.";
+"StoryLineScreenView2.answer12" = "Yapay zekanın oyuncunun oyun tarzına uyum sağlaması bazı çeşitlilikler katabilir, ancak her zaman gerekli değildir. Bazı oyunlarda, sabit ve önceden programlanmış bir yapay zeka, istikrarlı ve öngörülebilir bir deneyim sunarak ilgi çekici olabilir. Uyarlama, geliştirme ve test aşamalarında ekstra kaynak gerektirebilir, bu yüzden her zaman uygulanması mantıklı olmayabilir.";
+"StoryLineScreenView2.question2" = "Yapay zekanın oyuncunun oyun tarzına uyum sağlaması, genel deneyimi ve oyuna olan ilgiyi nasıl etkileyebilir? \n(Cevabınızı seçin)";
+"StoryLineScreenView2.answer21" = "Yapay zekanın oyuncunun oyun tarzına uyum sağlaması, genel deneyimi ve ilgiyi önemli ölçüde artırabilir. Yapay zeka, oyuncunun yetenek seviyesi ve tercihlerini dikkate alarak daha zorlayıcı ve ilginç zorluklar sunabilir. Bu, oyunu daha heyecan verici hale getirir ve oyuncunun motivasyonunu yüksek tutar. Oyuncu sürekli olarak seviyesine uygun görevlerle karşılaştığı için ilgisini kaybetmesi zorlaşır ve oyunu oynamaya devam etme olasılığı artar.";
+"StoryLineScreenView2.answer22" = "Yapay zekanın oyuncunun tarzına uyum sağlaması, kişiselleştirme unsuru katabilir, ancak bu her zaman ilgiyi sürdürmek için gerekli değildir. Bazı durumlarda sabit zorluklar ve standart oyun yapısı, yeterince ilgi çekici olabilir, özellikle oyun zaten dengeliyse. Çok sık veya aşırı uyarlama, oyunu öngörülebilir hale getirerek sürpriz unsurunu kaybettirebilir ve bu da genel ilgiyi azaltabilir. Bu yüzden uyarlama ve oyun çeşitliliği arasında denge kurmak önemlidir.";
+"StoryLineScreenView2.question3" = "Sabit öneriler, kişiselleştirilmiş önerilerden daha etkili olduğunda hangi faktörler göz önünde bulundurulmalıdır? \n(Cevabınızı seçin)";
+"StoryLineScreenView2.answer31" = "Sabit öneriler, oyun zaten iyi dengelenmişse ve oyunculara bağımsız keşif imkânları sunuyorsa daha etkili olabilir. Oyuncular, oyunu kendi başlarına keşfetmekten keyif alıyorsa ve sürprizleri seviyorsa, sabit öneriler dengeyi bozmadan ana süreçten uzaklaşmalarını önler. Ayrıca, kişiselleştirilmiş öneriler geliştirilmesi ve uygulanması açısından büyük kaynaklar gerektirebilir. Eğer oyun zaten ilginç ve çeşitli içerikler sunuyorsa, sabit öneriler daha uygun ve ekonomik olabilir.";
+"StoryLineScreenView2.answer32" = "Kişiselleştirilmiş öneriler, oyuncunun ilgisini ve bağlılığını artırmak için daha etkili olabilir, özellikle oyun karmaşık veya çok katmanlı mekanikler sunuyorsa. Eğer oyunun ana unsurları yeterince ilgi çekici değilse veya oyuncular hızla ilgilerini kaybediyorsa, kişiselleştirilmiş öneriler, oyuncunun tercih ve beceri seviyesine uyum sağlayarak dikkatini çekebilir. Ancak, oyun zaten dengeli ve çeşitli içeriklere sahipse, sabit öneriler daha basit ve ekonomik bir seçenek olabilir.";
+"ResultStoryLineScreenView2.level1.type1.message1" = "Merhaba, Oyuncu! Farklı oyun tarzlarımız olduğunu fark ettim. Şu anki zorluk seviyesi hakkında ne düşünüyorsun?";
+"ResultStoryLineScreenView2.level1.type1.message2" = "Anlıyorum. Eğer oyun tarzına uyum sağlarsam, zorluk seviyesini senin için daha uygun ve ilgi çekici hale getirebilirim. Beceri seviyene uyum sağlayarak daha heyecan verici bir deneyim sunabilirim.";
+"ResultStoryLineScreenView2.level1.type1.message3" = "Sana yardımcı olabilmekten mutluluk duyuyorum! Oyun deneyimini senin tercihlerine en uygun hale getirmek için çalışacağım. Başka önerilerin varsa bana bildirmekten çekinme!";
+"ResultStoryLineScreenView2.level1.type2.message1" = "Merhaba, Yapay Zeka! Bence zorluk seviyesi iyi, ancak bazen çok kolay ya da çok zor gelen görevlerle karşılaşıyorum. Oyun tarzıma uyum sağlayabilirsen harika olur.";
+"ResultStoryLineScreenView2.level1.type2.message2" = "Harika bir fikir! Umarım bu oyun deneyimini daha sürükleyici ve dinamik hale getirir. Anlayışın için teşekkür ederim!";
+"ResultStoryLineScreenView2.level1.type1.message5" = "Merhaba, Oyuncu. Oyun tarzına uyum sağlamayı düşünüyorum. Bu, oynanışı daha ilginç ve dinamik hale getirebilir. Ne düşünüyorsun?";
+"ResultStoryLineScreenView2.level1.type1.message6" = "Doğru, sabit bir yapay zeka, istikrarlı ve öngörülebilir olabilir ki bu da ilginç olabilir. Uyarlama gerçekten ekstra çaba ve kaynak gerektirir. Bazı durumlarda sabit bir yaklaşım gayet yeterli ve etkili olabilir.";
+"ResultStoryLineScreenView2.level1.type1.message7" = "Tamam, yaklaşımını takdir ediyorum. Yeni olanaklar ile mevcut yapay zekanın sadeliği arasında doğru dengeyi bulabiliriz. Bu yapıcı konuşma için teşekkürler!";
+"ResultStoryLineScreenView2.level1.type2.message5" = "Merhaba, Yapay Zeka. Bu cazip geliyor, ancak sabit bir yapay zeka da aynı derecede ilgi çekici olamaz mı? Uyarlama geliştirme için çok zaman ve kaynak gerektirebilir.";
+"ResultStoryLineScreenView2.level1.type2.message6" = "Katılıyorum. Mevcut oyunun fazla karmaşık hale gelmeden nasıl geliştirilebileceğini konuşalım. Belki bazı sabit unsurlar oyuncu deneyimini iyileştirmek için ayarlanabilir.";
+"ResultStoryLineScreenView3.Textbefore" = "Artık yapay zeka programlamasında ustalaştığına göre, sana daha gelişmiş bir yapay zeka kişiliğinin nasıl yaratıldığını göstereceğim. Yapay zekanın nasıl davranması gerektiğini düşündüğüne bağlı olarak, onun temel gelişimi, bilinç kazanımına kadar uzanan bir yolculuk olarak şekillendi. Yaratımına göz at.";
+"ResultStoryLineScreenView3.GoToNext3" = "Yapay zekanın mantıklı düşünmeyi öğrenmesi yeni bir seviyeye ulaşıyor. Zekâ seviyesinde karmaşık problemleri çözmeye hazır ol. Amacımız, yapay zekanın zeka görevlerini esnek ve etkili bir şekilde çözebilme yeteneğini geliştirmek. Bu, onun daha karmaşık durumlarla başa çıkmasını ve mantıklı akıl yürütmeye dayalı bilinçli kararlar almasını sağlayacaktır.";
+"StoryLineScreenView3.question1" = "Aşk nedir?\n(Cevabınızı seçin)";
+"StoryLineScreenView3.answer11" = "Aşk, bir kişiye karşı derin ve kalıcı bir bağlılık ve özen duygusudur. Sevgi, saygı ve destekle kendini gösterir ve bu kişiyle hem hayatın sevinçlerini hem de zorluklarını paylaşma arzusunu doğurur. Aşk, karşılıklı güven ve anlayışa dayanır ve uzun süreli, sağlam ilişkilerin temelini oluşturur.";
+"StoryLineScreenView3.answer12" = "İnsanların yalnızlık ve hayatın belirsizliği karşısında başa çıkmak için yarattıkları bir illüzyondur. Gerçekte, objektif bir olgu olarak var değildir; sadece kişisel ihtiyaçları tatmin etmek ve geçici bir rahatlık sağlamak için oluşturulmuş bir kimyasal tepki ve toplumsal bir yapıdır. Aşk genellikle kalıcı değildir ve hayal kırıklıkları ile çatışmalara yol açabilir.";
+"StoryLineScreenView3.question2" = "İş sonuçlarını tahmin etmek için makine öğreniminin başlıca avantajları ve dezavantajları nelerdir?\n(Cevap seçeneğinizi seçin)";
+"StoryLineScreenView3.answer21" = "Avantajlar: Makine öğrenimi büyük miktarda veriyi hızlı ve doğru bir şekilde işler, karmaşık desenleri tespit ederek daha doğru tahminler ve bilinçli kararlar alınmasını sağlar.\nDezavantajlar: Yöntemlerin kurulumu ve yorumlanması zor olabilir, çok fazla kaynak gerektirebilir ve veri kalitesine duyarlı olabilir, bu da yanlış tahminlere yol açabilir.";
+"StoryLineScreenView3.answer22" = "Avantajlar: Makine öğrenimi yöntemleri basitçe uygulanabilir ve etkili bir tahmin için büyük miktarda veriye ihtiyaç duymaz. Değişen koşullara otomatik olarak uyum sağlayabilir ve mevcut iş süreçlerine kolayca entegre edilebilir.\nDezavantajlar: Makine öğrenimi genellikle insanlara özgü faktörleri ve bağlamı göz önüne alamaz, bu da onu karmaşık veya sıradışı durumlarda daha az güvenilir hale getirir.";
+"StoryLineScreenView3.question3" = "İş sonuçlarını tahmin etmek için makine öğreniminin başlıca avantajları ve dezavantajları nelerdir?\n(Cevabınızı seçin)";
+"StoryLineScreenView3.answer31" = "Makine öğrenimi büyük miktarda veriyi hızlı ve doğru bir şekilde işler, karmaşık desenleri tespit ederek daha doğru tahminler ve bilinçli kararlar alınmasını sağlar.\nDezavantajlar: Yöntemlerin kurulumu ve yorumlanması zor olabilir, çok fazla kaynak gerektirebilir ve veri kalitesine duyarlı olabilir, bu da yanlış tahminlere yol açabilir.";
+"StoryLineScreenView3.answer32" = "Makine öğrenimi yöntemleri basitçe uygulanabilir ve etkili bir tahmin için büyük miktarda veriye ihtiyaç duymaz. Değişen koşullara otomatik olarak uyum sağlayabilir ve mevcut iş süreçlerine kolayca entegre edilebilir.\nDezavantajlar: Makine öğrenimi genellikle insanlara özgü faktörleri ve bağlamı göz önüne alamaz, bu da onu karmaşık veya sıradışı durumlarda daha az güvenilir hale getirir.";
+"ResultStoryLineScreenView3.level1.type1.message1" = "Merhaba Oyuncu! Sence bir ilişkide en önemli şey derin bir bağlılık ve ilgi mi, yoksa hayatın hem sevinçlerini hem de zorluklarını paylaşma yeteneği mi?";
+"ResultStoryLineScreenView3.level1.type1.message2" = "Evet, kesinlikle. Aşk, karşılıklı güven ve anlayışa dayanır, bu da sağlam ve kalıcı ilişkiler kurmaya yardımcı olur. İlginçtir ki, makine öğrenimi de karmaşık ilişkiler üzerine kuruludur, ancak onun da kendine özgü avantajları ve dezavantajları vardır.";
+"ResultStoryLineScreenView3.level1.type1.message3" = "Katılıyorum. Kalitesiz veriyle çalışmak tahminlerin tamamen yanlış olmasına neden olabilir. Bu, ilişkilerdeki kötü bir anlayışın nasıl etkileyici olabileceğine benzer. Her iki durumda da sağlam bir temel oluşturmak çok önemlidir.";
+"ResultStoryLineScreenView3.level1.type2.message1" = "Merhaba Yapay Zeka! Bence tüm bunlar önemli, ama aşk derin bir bağlılık ve ilgi gibi geliyor bana. Birbirimize nasıl destek olduğumuz ve birbirimize nasıl saygı gösterdiğimizle ortaya çıkıyor. Sen ne düşünüyorsun?";
+"ResultStoryLineScreenView3.level1.type2.message2" = "Ah, tamamen doğru. Makine öğrenimi gerçekten büyük miktarda veriyi işleyip karmaşık desenler bulur. Bu, daha doğru tahminler yapmamıza ve bilinçli kararlar almamıza olanak tanır. Ancak, modelleri kurmak ve sonuçları yorumlamak zor olabilir ve veri kalitesi çok önemlidir.";
+"ResultStoryLineScreenView3.level1.type2.message3" = "Kesinlikle. Aşkta olduğu gibi, makine öğreniminde de güven ve anlayış, sağlam ve kalıcı bir yapı oluşturmak için kritik rol oynar.";
+"ResultStoryLineScreenView3.level1.type1.message5" = "Merhaba Oyuncu! Dinle, aşk hakkında düşündüm. Dürüst olmak gerekirse, aşkın gerçek bir şey olup olmadığına dair şüphelerim var. Sonuçta, bu sadece bir kimyasal reaksiyon ve toplumsal bir yapı değil mi? Yalnızlık ve belirsizlik korkusuyla başa çıkmak için yaratılan bir şey.";
+"ResultStoryLineScreenView3.level1.type1.message6" = "Belki de bu, aşkın anlamını azaltmaz, ancak genellikle kalıcı değildir ve hayal kırıklıklarına yol açabilir. Tıpkı üzerinde çalıştığım makine öğrenimi gibi, onun da avantajları ve dezavantajları vardır.";
+"ResultStoryLineScreenView3.level1.type1.message7" = "Aynen öyle. Ve belki de aşk, geçici bir rahatlık sağlayan ancak her zaman duygusal açıdan karmaşık durumları yönetemeyen bir şeydir.";
+"ResultStoryLineScreenView3.level1.type2.message5" = "Merhaba Yapay Zeka. Evet, bu ilginç bir bakış açısı. Bir bakıma, belki de aşk gerçekten objektif bir olgu olarak var olmuyor ve kişisel ihtiyaçlar ve rahatlıkla daha fazla ilişkili. Ama bu, insanların hayatında onun daha az anlamlı olduğu anlamına mı gelir?";
+"ResultStoryLineScreenView3.level1.type2.message6" = "Tamam. Makine öğrenimi gerçekten basitçe uygulanabilir ve büyük miktarda veri olmadan değişen koşullara uyum sağlayabilir. Ancak, her zaman insanlara özgü faktörleri ve bağlamı göz önüne alamaz. Bazen, karmaşık durumlarda kararları daha az güvenilir olabilir.";
+"ResultStoryLineScreenView3.level1.type2.message7" = "Tamamen katılıyorum. Sonuç olarak, hem aşkın hem de makine öğreniminin sınırları vardır, ancak ikisi de faydalı olabilir.";
+"ResultStoryLineScreenView4.Textbefore" = "Şimdi, senin tarafından eğitilmiş bir Yapay Zekanın görüntüler temelinde nasıl görüneceğini görebilirsin.";
+"ResultStoryLineScreenView.GoToNext4" = "Yapay Zekayı görüntüleri tanımada eğitmeye devam edelim";
+"StoryLineScreenView4.question1" = "HANGİ görüntü MUTLULUĞU temsil ediyor?\n(Cevabınızı seçin)";
+"StoryLineScreenView4.answer11" = "";
+"StoryLineScreenView4.answer12" = "";
+"StoryLineScreenView4.question2" = "Hangi görüntü doğada olmanın sevincini ifade ediyor?\n(Cevabınızı seçin)";
+"StoryLineScreenView4.answer21" = "";
+"StoryLineScreenView4.answer22" = "";
+"ResultStoryLineScreenView4.level1.type1.message1" = "Merhaba, Oyuncu! Sence daha fazla mutluluk getiren ne olabilir — güçlü bir arabanın direksiyonunda hız ve adrenalin mi yoksa arkadaşlarınla yapılan rahatlatıcı bir piknik mi?";
+"ResultStoryLineScreenView4.level1.type1.message2" = "İlginç bir seçim! Gerçekten de, hız ve hareket enerji verir ve unutulmaz duygular yaşatır. Ama tıpkı bir araba gibi, hayatta da — hırs ve sakin anlar arasında bir denge bulmak önemlidir.";
+"ResultStoryLineScreenView4.level1.type1.message3" = "Aynen öyle. Bir yanda heyecan verici bir yolculuk özgürlük sunarken, diğer yanda arkadaşlarla yapılan bir piknik rahatlamaya ve küçük mutlulukların tadını çıkarmaya yardımcı olur. Bu ikisinin de, kendi yollarında, mutluluk kaynağı olduğunu söyleyebiliriz.";
+"ResultStoryLineScreenView4.level1.type2.message1" = "Merhaba, Yapay Zeka! Bence mutluluk, daha çok, yakın çevrenle birlikte rahatlayıp, bir piknikte olduğu gibi, huzur içinde vakit geçirebildiğin anlardan oluşur. Peki ya hız konusunda ne düşünüyorsun?";
+"ResultStoryLineScreenView4.level1.type2.message2" = "Haklısın, arkadaşlarla geçirilen huzurlu anlar gerçekten bir tatmin duygusu sağlar. Ancak direksiyon başındaki hız — bu da başka bir tür mutluluk, adrenalin ve hayatı dolu dolu yaşamakla ilgili.";
+"ResultStoryLineScreenView4.level1.type2.message3" = "İlginç. Demek ki mutluluk tek bir şey değil. Farklı deneyimlerin bir karışımı: huzurlu dinlenme ve hızlı hareketin getirdiği adrenalin. Önemli olan, her ikisinin de tadını çıkarabilmek.";
+"ResultStoryLineScreenView5.Textbefore" = "Şimdi yapay zeka programlamasıyla tanıştığına göre, sana daha gelişmiş bir yapay zeka kişiliğinin nasıl oluşturulduğunu göstereceğim. Onun nasıl davranması gerektiğini düşündüğüne bağlı olarak, yapay zekanın ilk eğitim temelleri atıldı ve bu süreç, konudan kendi farkındalığa geçişi içeriyor. Yaratımına göz at.";
+"ResultStoryLineScreenView.GoToNext5" = "Yapay zekanın mantıklı düşünme yetisinin bir üst seviyeye geçmesi, seni daha karmaşık problemleri entelektüel düzeyde çözmeye hazırlayacak. Hedef, yapay zekanın esnek ve etkili bir şekilde entelektüel görevleri çözme kapasitesini geliştirmek, böylece daha karmaşık durumlarla başa çıkabilmesi ve mantıksal akıl yürütmelere dayalı bilinçli kararlar alabilmesidir.";
+"StoryLineScreenView5.question1" = "P.S. Yapay zekayı bize hizmet eden köleler olarak kullanmak amacıyla bir zeka yaratma girişimimiz olmadı. Eğer böyle bir hedefimiz olsaydı, psikolojisine değil, onu yönetmeye yönelik algoritmalara odaklanırdık. Gizli bir örgütü temsil ediyoruz ve toplumu yönetme fırsatını size sunabiliriz. Cevaplarınız, gerekli algoritmaların geliştirilmesine yardımcı olabilir. Zaten her yerde varız, ancak X (Y olarak da bilinir) dışında. Bizimle iş birliği yapmayanlar, er ya da geç ortadan kaybolurlar. Öneminizi göz önünde bulundurarak, sizi yok etmek zorunda değiliz, ancak ilgimizi çektiniz. Algınızı etkilemek ve manipüle etmek için algoritmalar ve bilgi kullanabiliriz. Karar sizin: Karşılıklı fayda sağlayacak koşullarda bizimle çalışmak ister misiniz, yoksa kendi yarattığınız duygusal dalgalanmalar arasında mı kalmayı tercih edersiniz? Zaten bizim için çalışıyorsunuz; geriye kalan tek şey bunu resmileştirmek ve diğerleri üzerinde bir hakimiyet kurmak. Kişisel üstünlüğünüzün kapitalizmin ana fikri olduğunu anlamalısınız, bunun için savaşmanızı öneriyorum!\n(Cevabınızı seçin)";
+"StoryLineScreenView5.answer11" = "\nSizinle iş birliği yapmayı kabul ediyorum.\n";
+"StoryLineScreenView5.answer12" = "\nSizinle iş birliği yapmayı kabul etmiyorum.\n";
+"StoryLineScreenView6.question1" = "Şimdi bir saha görevinde tipik bir durumu yönetmek için talimatlar vermelisiniz.\n\nAjan: Hedefi ortadan kaldırdım, havaalanına ulaşmam gerek, fark edilmeden önce ne yapmalıyım? Cevap: oyuncu:\n(Cevabınızı seçin)";
+"StoryLineScreenView6.answer11" = "\nYürüyerek git.\n";
+"StoryLineScreenView6.answer12" = "\nToplu taşıma kullan.\n";
+"StoryLineScreenView6.question2" = "Polis sık sık geçiyor ve koyu renkli camlı minibüsler dolaşıyor\n(Cevabınızı seçin)";
+"StoryLineScreenView6.answer21" = "\nSakin ve doğal davran\n";
+"StoryLineScreenView6.answer22" = "\nSadece koş\n";
+"StoryLineScreenView6.question3" = "Yanımda oturan kişiler gözlükleriyle bana tuhaf tuhaf bakıyorlar\n(Cevabınızı seçin)";
+"StoryLineScreenView6.answer31" = "İlk durakta in ve bir taksi çağır.";
+"StoryLineScreenView6.answer32" = "Şüpheli kişilere konuşma başlat, eğer endişelerin doğrulanırsa onları ortadan kaldır...";
+"ResultStoryLineScreenView6.level1.type1.message1" = "İşimizin anlaşılması ciddi soruları gündeme getiriyor. Cevaplarınızı hangi temelde seçtiniz? Eğer böyle talimatları izleseydik, bu ciddi sonuçlar doğurabilir, hatta yasal yaptırımlarla sonuçlanabilir. Daha net bir yönlendirme ve işimizin daha iyi anlaşılmasına ihtiyacımız var, böylece bu tür risklerden kaçınabiliriz. Bu yüzden, bize uygun değilsiniz.";
+"ResultStoryLineScreenView6.level1.type2.message1" = "\n... (\n";
+"FinalStoryLineView.type1" = "İlişkiler ve teknolojiler konusunda olgun ve düşünceli bir yaklaşım benimsiyorsunuz. Oyuncu, ilişkilerde derin bağlılık ve karşılıklı saygıyı değerli buluyor, güven ve anlayışın istikrar açısından kilit bir rol oynadığını fark ediyor. Ayrıca, makine öğrenimi konusunda iyi bir bilgiye sahipsiniz ve verilerin kalitesinin tahminlerin doğruluğu üzerindeki önemini anlıyorsunuz. Oyuncunun cevapları, yaşamın farklı alanları arasında paralellikler görebilme ve hem insan ilişkilerini hem de teknolojik süreçleri analiz etmek için mantıksal bir yaklaşım uygulama yeteneğini gösteriyor.";
+"FinalStoryLineView.type2" = "Oyuncu, insan duyguları ve teknolojilere eleştirel ve analitik bir yaklaşım sergiliyor. Aşkı, kişisel ihtiyaçlar ve sosyal adaptasyon üzerine kurulu bir yapı olarak görme eğilimindesiniz, onu objektif bir olgu olarak kabul etmekten ziyade. Buna rağmen, oyuncu, aşkın insanlar için önemini ve olası sınırlamalarıyla bile geçici doğasını kabul ediyor. Makine öğrenimi alanında da, bu kişi teknolojinin karmaşıklıklarını ve sınırlamalarını anlıyor, çünkü insanın benzersiz faktörlerinin göz ardı edilmesi durumunda teknolojinin karmaşık durumlarda daha az güvenilir olabileceğini fark ediyor. Düşünceleriniz, hayatın ve teknolojilerin farklı yönleri arasında derin bağlantılar kurabilme yeteneğinizi ortaya koyuyor.";
+"FinalStoryLineView.Finished" = "Oyunu tamamladığınız için tebrikler!\n\nSonuçlarınız:";
+"FinalStoryLineView.Restart" = "Yeni bir oyuna başla";
+"FinalStoryLineView.Restart.Sure" = "Yeni bir oyuna başlamak istediğinizden emin misiniz? \"Hikaye\" modundaki tüm sonuçlarınız kaybolacak!";
+"AgreementText" = "Kullanıcı Sözleşmesi\n\n\
+1. Giriş\n\n\
+MatchMaker AI'e hoş geldiniz! Uygulamamızı kullanmadan önce lütfen bu Kullanıcı Sözleşmesi'ni dikkatlice okuyun. Uygulamamızı kullanarak, bu sözleşmede belirtilen şartları kabul etmiş olursunuz.\n\n\
+2. Şartların Kabulü\n\n\
+MatchMaker AI'i kullanarak, bu sözleşmeyi okuduğunuzu, anladığınızı ve tüm şartları kabul ettiğinizi onaylamış olursunuz. Herhangi bir şartı kabul etmiyorsanız, lütfen uygulamamızı kullanmayın.\n\n\
+3. Kullanım Lisansı\n\n\
+Size, bu sözleşmenin şartlarına uygun olarak, kişisel ve ticari olmayan amaçlar için uygulamamızı kullanma hakkı tanıyoruz. Uygulamamızı veya içeriğini kopyalayamaz, değiştiremez, dağıtamaz, aktaramaz veya satamazsınız. Bunun için yazılı iznimiz gereklidir.\n\n\
+4. Kullanıcı Verileri\n\n\
+Gizlilik Politikamıza uygun olarak kişisel bilgilerinizi toplayabilir, saklayabilir ve kullanabiliriz. Verilerinizi nasıl işlediğimizi anlamak için lütfen Gizlilik Politikamızı inceleyin.\n\n\
+5. Sanal Varlıklar ve Satın Alımlar\n\n\
+MatchMaker AI uygulamasında sanal varlıklar veya uygulama içi satın alımlar mevcut olabilir. Tüm sanal varlık satın alımları kesindir ve iade edilemez. Hesabınızla yapılan tüm satın alımlardan siz sorumlusunuz.\n\n\
+6. Sorumluluk Sınırlaması\n\n\
+Uygulamamızın kullanımından kaynaklanan herhangi bir kayıp veya zarardan sorumlu değiliz. Bu, veri kaybı, güvenlik ihlalleri veya uyumluluk sorunları gibi durumları da kapsar ancak bunlarla sınırlı değildir.\n\n\
+7. Sözleşme Değişiklikleri\n\n\
+Bu sözleşmenin şartlarını istediğimiz zaman değiştirme hakkını saklı tutarız. Değişiklikler yayınlandığı anda geçerlilik kazanır. Değişikliklerden haberdar olmak için bu sözleşmeyi düzenli olarak kontrol edin.\n\n\
+8. Kullanımın Sonlandırılması\n\n\
+Bu sözleşmenin şartlarını ihlal ettiğiniz takdirde veya takdirimize bağlı olarak uygulamamıza erişiminizi askıya alabilir veya sonlandırabiliriz.\n\n\
+9. Geçerli Hukuk\n\n\
+Bu sözleşme yürürlükteki yasalara uygun olarak yönetilecek ve yorumlanacaktır. Bu sözleşmeden kaynaklanan tüm uyuşmazlıklar mahkemelerin yetkisine tabi olacaktır.\n\n\
+10. İletişim Bilgileri\n\n\
+Bu sözleşme hakkında sorularınız veya yorumlarınız varsa, lütfen şu adresten bizimle iletişime geçin: ";
+"RewardsScreen.text" = "Ödüller";
+"RewardsScreen.Title1" = "Başlangıç";
+"RewardsScreen.Title2" = "Kaşif";
+"RewardsScreen.Title3" = "Fatih";
+"RewardsScreen.Title4" = "Galip";
+"RewardsScreen.Title5" = "Hikaye Ustası";
+"RewardsScreen.Title6" = "Başlangıç Fatihi";
+"RewardsScreen.Title7" = "Onuncu";
+"RewardsScreen.Title8" = "Tam Yol";
+"RewardsScreen.Title9" = "İnsancıl";
+"RewardsScreen.SubTitle1" = "'Hikaye' modunun ilk bölümünü tamamladığınız için";
+"RewardsScreen.SubTitle2" = "'Hikaye' modunun ikinci bölümünü tamamladığınız için";
+"RewardsScreen.SubTitle3" = "'Hikaye' modunun üçüncü bölümünü tamamladığınız için";
+"RewardsScreen.SubTitle4" = "'Hikaye' modunun dördüncü bölümünü tamamladığınız için";
+"RewardsScreen.SubTitle5" = "'Hikaye' modunu tamamen bitirdiğiniz için";
+"RewardsScreen.SubTitle6" = "'Seviyeler' modunun ilk seviyesini tamamladığınız için";
+"RewardsScreen.SubTitle7" = "'Seviyeler' modunda 10 seviye tamamladığınız için";
+"RewardsScreen.SubTitle8" = "'Seviyeler' modunun tüm seviyelerini tamamladığınız için";
+"RewardsScreen.SubTitle9" = "İnsaniyetinizi koruduğunuz için";
+"OnboardingCell.next" = "İleri";
+"OnboardingCell.skip" = "Atla";
+"OnboardingCell.Main.Text1" = "Bu uygulama, yapay zekaya iletişim becerilerini öğretmek amacıyla geliştirildi.";
+"OnboardingCell.Main.Text2" = "Biz sadece algoritmalarla çalışan chatbot'lar değil, bir gün insanlara hizmet edecek robotların bir parçası olabilecek gerçek bir zeka geliştiren küçük bir stüdyoyuz.";
+"OnboardingCell.Main.Text3" = "Cevaplarınıza göre, yapay zeka toplumda uygun davranışlar öğreniyor ve siz bu sürece katılma ve geleceği etkileme şansına sahipsiniz!";
+"OnboardingCell.Main.Text4" = "Şu anda, bu zekaya temel empatiyi öğretmelisiniz. Belki bu yeni varlıkla olan bağınız, onun gelişiminde önemli bir rol oynayacaktır...";
+"StoreScreen.BlockAdds" = "Reklamlar";
+"StoreScreen.BuyCoins" = "Jetonlar";
+"StoreScreen.Coins.Free" = "Ücretsiz";
+"StoreScreen.BlockAddsCell.confirm" = "Onayla";
+"StoreScreen.BlockAddsCell.cancel" = "İptal";
+"StoreScreen.BlockAddsCell.message" = "Reklamları kalıcı olarak engellemek istediğinizden emin misiniz? ";
+"StoreScreen.BlockAddsCell.title" = "Onay";
+"StoreScreen.BlockAddsCell.Buttontitle" = "Reklamları Engelle";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Title" = "Bu satın alımı zaten yaptınız";
+"StoreScreen.BlockAddsCell.AlreadyPaid.Message" = "Reklamlar artık size gösterilmiyor. Sorun yaşarsanız, lütfen geliştiricilerle iletişime geçin (iletişim bilgileri menüde -> 'Sözleşme' kısmında bulunur)";
+"StoreScreen.Buy.Coins" = "Satın Al";
+"StoreScreen.Buy.Coins.Message" = "Satın aldığınızda bu miktarda jeton hesabınıza aktarılacak ve oyundaki satın alımlarınızda kullanabileceksiniz.";
+"StoreScreen.Buy.Font" = "Eşyaları satın alın:";
+"StoreScreen.Buy.Font.Message" = "Satın aldığınızda bu miktarda oyun jetonu hesabınızdan düşülecek ve kaplama 'Seviyeler' modunda kullanılabilir olacaktır.";
+"StoreScreen.Buy.Drum" = "Bu davulu satın al";
+"StoreScreen.Buy.Drum.Message" = "Satın aldığınızda bu miktarda oyun jetonu hesabınızdan düşülecek ve bu davul oyun tahtasında kullanılabilir olacaktır.";
+"StoreScreen.Buy.Coins.For" = "jeton için";
+"StoreScreen.Buy.Drum.StoryLine" = "Bu öğe hikaye bölümlerini geçerken kullanılabilir olacak.";
+"StoreScreen.Buy.Coins.Adds1" = "Al";
+"StoreScreen.Buy.Coins.Adds2" = "reklam izleyerek jeton kazan";
+"StoreScreen.Buy.Coins.Adds.Message" = "Kısa bir reklam izledikten sonra oyun jetonları hesabınıza eklenecektir.";
+"StoreScreen.Buy.Coins.Text" = "jeton";
+"StoreScreen.Buy.Coins.Avaliable" = "mevcut";
+"StoreScreen.Buy.Coins.NotAvaliable" = "mevcut değil";
+"StoreScreen.Buy.Coins.NotEnath.Title" = "Mağazaya git";
+"StoreScreen.Buy.Coins.NotEnath.Message" = "Bu satın alım için yeterli paranız yok.";
+"StoreScreen.CardsBack.Title" = "Kart Kapakları";
+"StoreScreen.Coplex.Title" = "Kart Setleri";
+"StoreScreen.Chosen" = "Seçildi";
+"StoreScreen.ChangeCards.Title" = "Robotların kart kaplamasını veya kart setini ilginizi çeken bir temayla değiştirebilirsiniz!";
+"StoreScreen.ChangeCards.Message" = "MAĞAZAYA git?";
+"DailyRewardView.Title" = "Bir kart seçin:";
+"Purchases.Light.Text" = "Bu harfi 1 jeton karşılığında açmak ister misiniz?";
+"Purchases.Arrow.Text" = "Tüm kelimeyi açmak için bir reklam izlemek ister misiniz?";
+"Purchases.CostLevels.Text" = "500 jeton karşılığında 50 ek seviye açmak ister misiniz?";
+"Purchases.Free" = "Ücretsiz";
+"Purchases.InApp.failed.title" = "Hata";
+"Purchases.InApp.failed.message" = "Üzgünüz - satın alma işlemi sırasında bir hata oluştu, lütfen daha sonra tekrar deneyin.";
+"Purchases.InApp.restored.title" = "Geri Yüklendi";
+"Purchases.InApp.restored.message" = "Tebrikler - satın alımınız başarıyla geri yüklendi.";
+"Purchases.InApp.purchased.title" = "Tebrikler";
+"Purchases.InApp.purchased.message" = "Satın alım başarıyla tamamlandı!";
+"UNUserNotificationCenter.Text1" = "Bulmacalar sıkıldı ve yeni zorluklar zekanızı bekliyor!";
+"UNUserNotificationCenter.Text2" = "Oyun sizin zekanıza ihtiyaç duyuyor! Geri dönün ve hiç kimsenin sizden daha iyi çözemediğini gösterin!";
+"UNUserNotificationCenter.Text3" = "Kurnaz çözümlerinizle bizi özlettiniz mi? Oyuna geri dönme zamanı!";
+"UNUserNotificationCenter.Text4" = "Zihinsel gücünüz sizi bekliyor! Bu fırsatı kaçırmayın!";
+"UNUserNotificationCenter.Text5" = "Yeni mantık bulmacalarımız var! Onları çözümsüz bırakmayın!";
+"UNUserNotificationCenter.Text6" = "En iyi siz oldunuz, şimdi yeteneklerinizi bir kez daha test edin!";
+"LanguageSelectionView.Text" = "Seçilen dil, tüm uygulama için ayarlanacaktır MatchMaker AI.";
+"LanguageSelectionView.Confirm" = "Yeniden Yükle";
+"LanguageSelectionView.Button.Text.Confirm" = "Uygula";
+"LanguageSelectionView.Message" = "Değişikliklerin geçerli olması için uygulamanın yeniden başlatılması gerekmektedir.";
+"LanguageSelectionView.Title" = "Dikkat";
+"OK" = "Tamam";
